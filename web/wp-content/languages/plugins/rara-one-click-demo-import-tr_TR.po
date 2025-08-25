@@ -1,0 +1,450 @@
+# Translation of Plugins - Rara One Click Demo Import - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - Rara One Click Demo Import - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-08-14 20:13:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - Rara One Click Demo Import - Stable (latest release)\n"
+
+#. Plugin Name of the plugin
+#: rara-one-click-demo-import.php
+msgid "RARA One Click Demo Import"
+msgstr "RARA One Click Demo Import"
+
+#. Plugin URI of the plugin
+#: rara-one-click-demo-import.php
+msgid "https://wordpress.org/plugins/rara-one-click-demo-import/"
+msgstr "https://wordpress.org/plugins/rara-one-click-demo-import/"
+
+#. Description of the plugin
+#: rara-one-click-demo-import.php
+msgid "Import demo content, widgets and settings of themes made by RaraTheme with just one click."
+msgstr "RaraTheme tarafından yapılan demo içeriğini, widget'ları ve tema ayarlarını tek bir tıklamayla içe aktarın."
+
+#. Author of the plugin
+#: rara-one-click-demo-import.php
+msgid "raratheme"
+msgstr "raratheme"
+
+#. Author URI of the plugin
+#: rara-one-click-demo-import.php
+msgid "https://www.rarathemes.com"
+msgstr "https://www.rarathemes.com"
+
+#: includes/settings/welcome.php:2
+msgid "If you have a demo pack in a .zip format, you may install it by uploading it here."
+msgstr "Eğer .zip formatında bir demo paketiniz varsa, onu buraya yükleyerek kurabilirsiniz."
+
+#: includes/settings/welcome.php:5
+msgid "Demo zip file"
+msgstr "Demo zip dosyası"
+
+#: includes/settings/welcome.php:11
+msgid "A Step-by-Step Guide to Import the Demo Content"
+msgstr "Demo İçeriğini İçe Aktarmak için Adım Adım Kılavuz"
+
+#: includes/settings/welcome.php:18
+msgid "Download the demo file from your theme %1$s page. If you are unable to download the demo file, please %2$s."
+msgstr "Demo dosyasını temanızın %1$s sayfasından indirin. Demo dosyasını indiremiyorsanız, lütfen %2$s."
+
+#: includes/settings/welcome.php:34
+msgid "Click on the %1$sUpload Demo File%2$s button above."
+msgstr "Yukarıdaki %1$sDemo Dosyasını Yükle%2$s düğmesini tıklayın."
+
+#: includes/settings/welcome.php:37
+msgid "Click on %1$sChoose File%2$s button and upload the demo file downloaded in step 1. Then, click on the %3$sInstall Now%4$s button."
+msgstr "%1$sDosya Seç%2$s düğmesini tıklayın ve 1. adımda indirilen demo dosyasını yükleyin. Ardından, %3$sŞimdi Yükle%4$s düğmesini tıklayın."
+
+#: includes/settings/installed-demos.php:71 includes/settings/intro.php:23
+#: includes/settings/welcome.php:42
+msgid "Note: We highly recommend to import the demo content on a fresh WordPress installation. You can reset your website to a fresh WordPress installation using a reset plugin like %1$s."
+msgstr "Not: Demo içeriğini yeni bir WordPress kurulumuna aktarmanızı önemle tavsiye ederiz. %1$s gibi bir sıfırlama eklentisi kullanarak web sitenizi yeni bir WordPress kurulumuna sıfırlayabilirsiniz."
+
+#: includes/settings/intro.php:15
+msgid "Please request your hosting to give you the above configuration and then try the demo import again. If you are constantly having an issue with the hosting, you may want to consider to move to better WordPress hosting. We have reviewed %1$s. If the issue is not fixed after the above configuration, please let us know for the further assistance."
+msgstr "Lütfen hostinginizden yukarıdaki yapılandırmayı size vermesini isteyin ve ardından demo içe aktarmayı tekrar deneyin. Barındırma ile ilgili sürekli bir sorun yaşıyorsanız, daha iyi WordPress barındırma hizmetine geçmeyi düşünebilirsiniz. %1$s'yi inceledik. Yukarıdaki yapılandırmadan sonra sorun çözülmezse, daha fazla yardım için lütfen bize bildirin."
+
+#: includes/settings/intro.php:19
+msgid "You can check the PHP configuartion of your site by using any plugins like %1$s."
+msgstr "%1$s gibi herhangi bir eklenti kullanarak sitenizin PHP yapılandırmasını kontrol edebilirsiniz."
+
+#: includes/settings/installed-demos.php:3
+msgid "Before you begin, make sure all the required plugins are activated."
+msgstr "Başlamadan önce, gerekli tüm eklentilerin etkinleştirildiğinden emin olun."
+
+#: includes/settings/installed-demos.php:12
+msgid "%1$sWarning: your server is using %2$sPHP safe mode%3$s. This means that you might experience server timeout errors.%4$s"
+msgstr "%sUyarı: sunucunuz %sPHP güvenli modunu%s kullanıyor. Bu, sunucu zaman aşımı hatalarıyla karşılaşabileceğiniz anlamına gelir.%s"
+
+#: includes/settings/installed-demos.php:48
+msgid "The following data will be imported:"
+msgstr "Aşağıdaki veriler içe aktarılacaktır:"
+
+#: includes/settings/installed-demos.php:51
+msgid "Posts"
+msgstr "Yazılar"
+
+#: includes/settings/installed-demos.php:52
+msgid "Pages"
+msgstr "Sayfalar"
+
+#: includes/settings/installed-demos.php:55
+msgid "Menus"
+msgstr "Menüler"
+
+#: includes/settings/installed-demos.php:56
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: includes/settings/installed-demos.php:63
+msgid "Note: To import demo content for the free themes, please follow the step-by-step instructions mentioned in the %1$s Demo Import %2$s tab."
+msgstr "Not: Ücretsiz temalar için demo içeriği içe aktarmak için lütfen %1$s Demo İçe Aktarma %2$s sekmesinde belirtilen adım adım talimatları izleyin."
+
+#: includes/settings/installed-demos.php:107
+msgid "Note: For free themes, always upload the appropriate demo zip file from %1$s Demo Import %2$s tab and import demo data as mentioned there."
+msgstr "Not: Ücretsiz temalar için, her zaman %1$s Demo İçe Aktarma %2$s sekmesinden uygun demo zip dosyasını yükleyin ve orada belirtildiği gibi demo verilerini içe aktarın."
+
+#: includes/settings/installed-demos.php:154
+msgid "Choose which demo you want to import:"
+msgstr "İçe aktarmak istediğiniz demoyu seçin:"
+
+#: includes/settings/installed-demos.php:179
+msgid "Import preview:"
+msgstr "Önizlemeyi içe aktar:"
+
+#: includes/class-rrdi-main.php:391 includes/settings/installed-demos.php:184
+msgid "No preview image defined for this import."
+msgstr "Bu içe aktarma için tanımlı önizleme resmi yok."
+
+#: includes/settings/installed-demos.php:229
+msgid "Click the button to begin the importing process. Please be patient, the process might take a few minutes."
+msgstr "İçe aktarma işlemini başlatmak için düğmeye tıklayın. Lütfen sabırlı olun, işlem birkaç dakika sürebilir."
+
+#: includes/settings/installed-demos.php:233
+msgid "Importing now, please wait!"
+msgstr "Şimdi içe aktarılıyor, lütfen bekleyin!"
+
+#: includes/extras/class-wxr-importer.php:130
+msgid "Could not open the file for parsing"
+msgstr "Dosya ayrıştırma için açılamadı"
+
+#: includes/extras/class-wxr-importer.php:166
+#: includes/extras/class-wxr-importer.php:282
+#: includes/extras/class-wxr-importer.php:355
+msgid "This WXR file (version %s) is newer than the importer (version %s) and may not be supported. Please consider updating."
+msgstr "Bu WXR dosyası (%s sürümü) içe aktarıcıdan (%s sürümü) daha yenidir ve desteklenmeyebilir. Lütfen güncellemeyi düşünün."
+
+#: includes/extras/class-wxr-importer.php:564
+msgid "Invalid author mapping"
+msgstr "Geçersiz yazar eşlemesi"
+
+#: includes/extras/class-wxr-importer.php:665
+msgid "Cannot import auto-draft posts"
+msgstr "Otomatik taslak gönderiler içe aktarılamıyor"
+
+#: includes/extras/class-wxr-importer.php:753
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr "\"%s\" içe aktarılamadı: Geçersiz gönderi türü %s"
+
+#: includes/extras/class-wxr-importer.php:763
+msgid "%s \"%s\" already exists."
+msgstr "%s \"%s\" zaten var."
+
+#: includes/extras/class-wxr-importer.php:841
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr "\"%s\" eki atlanıyor, ekleri getirme devre dışı bırakıldı"
+
+#: includes/extras/class-wxr-importer.php:855
+msgid "Failed to import \"%s\" (%s)"
+msgstr "\"%s\" içe aktarılamadı (%s)"
+
+#: includes/extras/class-wxr-importer.php:887
+#: includes/extras/class-wxr-importer.php:1705
+msgid "Imported \"%s\" (%s)"
+msgstr "\"%s\" içe aktarıldı (%s)"
+
+#: includes/class-rrdi-main.php:346
+msgid "rara"
+msgstr "rara"
+
+#: includes/extras/class-wxr-importer.php:892
+msgid "Post %d remapped to %d"
+msgstr "%d yazısı %d olarak yeniden eşlendi"
+
+#: includes/extras/class-wxr-importer.php:1036
+msgid "Invalid file type"
+msgstr "Geçersiz dosya türü"
+
+#: includes/extras/class-wxr-importer.php:1519
+msgid "Failed to import user \"%s\""
+msgstr "\"%s\" kullanıcısı içe aktarılamadı"
+
+#: includes/extras/class-wxr-importer.php:1540
+msgid "Imported user \"%s\""
+msgstr "İçe aktarılan kullanıcı \"%s\""
+
+#: includes/extras/class-wxr-importer.php:1544
+msgid "User %d remapped to %d"
+msgstr "%d kullanıcısı %d ile yeniden eşlendi"
+
+#: includes/extras/class-wxr-importer.php:1681
+msgid "Failed to import %s %s"
+msgstr "%s %s içe aktarılamadı"
+
+#: includes/extras/class-wxr-importer.php:1710
+msgid "Term %d remapped to %d"
+msgstr "%d terimi %d olarak yeniden eşlendi"
+
+#: includes/extras/class-wxr-importer.php:1763
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr "Uzak sunucu %3$s için %1$d %2$s döndürdü"
+
+#: includes/extras/class-wxr-importer.php:1781
+msgid "Zero size file downloaded"
+msgstr "Sıfır boyutlu dosya indirildi"
+
+#: includes/extras/class-wxr-importer.php:1809
+msgid "Running post-processing for post %d"
+msgstr "%d sonrası için post-processing çalıştırılıyor"
+
+#: includes/extras/class-wxr-importer.php:1841
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr "\"%s\" için yazar bulunamadı (#%d yazısı)"
+
+#: includes/class-rrdi-helpers.php:585 includes/class-rrdi-helpers.php:586
+msgid "not defined!"
+msgstr "tanımlanmamış!"
+
+#: includes/class-rrdi-helpers.php:530
+msgid "Widget file was not uploaded. Error: %s"
+msgstr "Widget dosyası yüklenmedi. Hatalar: %s"
+
+#: includes/class-rrdi-helpers.php:559
+msgid "The import files were successfully uploaded!"
+msgstr "İçe aktarma dosyaları başarıyla yüklendi!"
+
+#: includes/class-rrdi-helpers.php:577
+msgid "Initial max execution time = %s"
+msgstr "İlk maksimum yürütme süresi = %s"
+
+#: includes/class-rrdi-helpers.php:70
+msgid "\"import_file_url\" or \"local_import_file\" for %s%s%s are not defined!"
+msgstr "%s%s%s için \"import_file_url\" veya \"local_import_file\" tanımlı değil!"
+
+#: includes/class-rrdi-helpers.php:176
+msgid "URL for %s%s%s file is not defined!"
+msgstr "%s%s%s dosyasının URL'si tanımlı değil!"
+
+#: includes/class-rrdi-helpers.php:198
+msgid "An error occurred while fetching %s%s%s file from the server!%sReason: %s - %s."
+msgstr "Sunucudan %s%s%s dosyası alınırken bir hata oluştu!%sNedeni: %s - %s."
+
+#: includes/class-rrdi-helpers.php:238 includes/class-rrdi-helpers.php:282
+msgid "An error occurred while writing file to your server! Tried to write a file to: %s%s."
+msgstr "Sunucunuza dosya yazılırken bir hata oluştu! Şu adrese bir dosya yazmaya çalıştı: %s%s."
+
+#: includes/class-rrdi-helpers.php:317
+msgid "An error occurred while reading a file from your server! Tried reading file from path: %s%s."
+msgstr "Sunucunuzdan bir dosya okunurken bir hata oluştu! Şu yoldan dosya okunmaya çalışıldı: %s%s."
+
+#: includes/class-rrdi-helpers.php:341
+msgid "This WordPress page does not have %sdirect%s write file access. This plugin needs it in order to save the demo import xml file to the upload directory of your site. You can change this setting with these instructions: %s."
+msgstr "Bu WordPress sayfasının %sdirect%s dosya yazma erişimi yok. Bu eklenti, demo içe aktarma xml dosyasını sitenizin yükleme dizinine kaydetmek için buna ihtiyaç duyar. Bu ayarı şu talimatlarla değiştirebilirsiniz: %s."
+
+#: includes/class-rrdi-helpers.php:352 includes/class-rrdi-main.php:180
+msgid "Rara One Click Demo Import"
+msgstr "Rara One Click Demo Import"
+
+#: includes/class-rrdi-helpers.php:353 includes/class-rrdi-main.php:181
+msgid "Rara Demo Import"
+msgstr "Rara Demo Import"
+
+#: includes/class-rrdi-helpers.php:365
+msgid "An error occurred while retrieving reading/writing permissions to your server (could not retrieve WP filesystem credentials)!"
+msgstr "Sunucunuza okuma/yazma izinleri alınırken bir hata oluştu (WP dosya sistemi kimlik bilgileri alınamadı)!"
+
+#: includes/class-rrdi-helpers.php:373
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr "WordPress oturum açma bilgileriniz WP_Filesystem'ı kullanmanıza izin vermiyor!"
+
+#: includes/class-rrdi-helpers.php:438
+msgid "Rara One Click Demo Import - "
+msgstr "Rara One Click Demo Import - "
+
+#: includes/class-rrdi-helpers.php:474
+msgid "%sYour user role isn't high enough. You don't have permission to import demo data.%s"
+msgstr "%sKullanıcı rolünüz yeterince yüksek değil. Demo verilerini içe aktarma izniniz yok.%s"
+
+#: includes/class-rrdi-helpers.php:510
+msgid "Please upload XML file for content import. If you want to import widgets or customizer settings only, please use Widget Importer & Exporter or the Customizer Export/Import plugin."
+msgstr "Lütfen içeriği içe aktarmak için XML dosyası yükleyin. Yalnızca widget'ları veya özelleştirici ayarlarını içe aktarmak istiyorsanız, lütfen Widget Importer & Exporter veya Customizer Export/Import eklentisini kullanın."
+
+#: includes/class-rrdi-helpers.php:512 includes/class-rrdi-helpers.php:534
+#: includes/class-rrdi-helpers.php:553 includes/class-rrdi-helpers.php:561
+msgid "Upload files"
+msgstr "Dosyaları yükle"
+
+#: includes/class-rrdi-helpers.php:581
+msgid "Files info:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = %4$s%1$sCustomizer file = %5$s"
+msgstr "Dosya bilgisi:%1$sSite URL'si = %2$s%1$sData dosyası = %3$s%1$sWidget dosyası = %4$s%1$sÖzelleştirici dosyası = %5$s"
+
+#: includes/class-rrdi-init.php:23
+msgid "The %2$sRara One Click Demo Import%3$s plugin requires %2$sPHP 5.3.2+%3$s to run properly. Please contact your hosting company and ask them to update the PHP version of your site to at least PHP 5.3.2.%4$s Your current version of PHP: %2$s%1$s%3$s"
+msgstr "%2$sRara One Click Demo Import%3$s eklentisinin düzgün çalışması için %2$sPHP 5.3.2+%3$s gerekir. Lütfen barındırma şirketinize başvurun ve sitenizin PHP sürümünü en az PHP 5.3.2.%4$s olarak güncellemesini isteyin Mevcut PHP sürümünüz: %2$s%1$s%3$s"
+
+#: includes/class-rrdi-main.php:210
+msgid "Sorry, you are not allowed to install demo on this site."
+msgstr "Üzgünüz, bu siteye demo yüklemenize izin verilmiyor."
+
+#: includes/class-rrdi-main.php:217
+msgid "Installing Demo from uploaded file: %s"
+msgstr "Yüklenen dosyadan Demo yükleniyor: %s"
+
+#: includes/class-rrdi-main.php:244
+msgid "RARA Demo Import"
+msgstr "RARA Demo Import"
+
+#: includes/class-rrdi-main.php:246
+msgid "Upload Demo File"
+msgstr "Demo Dosyasını Yükle"
+
+#: includes/class-rrdi-main.php:447
+msgid "Manually uploaded files"
+msgstr "Manuel olarak yüklenen dosyalar"
+
+#: includes/class-rrdi-main.php:463 includes/class-rrdi-main.php:474
+msgid "Downloaded files"
+msgstr "İndirilen dosyalar"
+
+#: includes/class-rrdi-main.php:470
+msgid "The import files for: %s were successfully downloaded!"
+msgstr "%s için içe aktarma dosyaları başarıyla indirildi!"
+
+#: includes/class-rrdi-main.php:479
+msgid "No import files specified!"
+msgstr "İçe aktarma dosyası belirtilmedi!"
+
+#: includes/class-rrdi-main.php:526
+msgid "%1$s%3$sCompleted Successfully!%4$s%2$sThe process has finished. Please check your page and make sure that everything has been imported correctly. If you want, you can now deactivate the %3$sRara One Click Demo Import%4$s plugin.%5$s"
+msgstr "%1$s%3$sBaşarıyla Tamamlandı!%4$s%2$sİşlem tamamlandı. Lütfen sayfanızı kontrol edin ve her şeyin doğru şekilde içe aktarıldığından emin olun. İsterseniz, şimdi %3$sRara One Click Demo Import%4$s eklentisini devre dışı bırakabilirsiniz.%5$s"
+
+#: includes/class-rrdi-main.php:536
+msgid "%1$sUnfortunately, demo import has finished with some errors.%2$sMore details about the errors can be found in this %3$s%5$slog file%6$s%4$s%7$s"
+msgstr "%1$sMaalesef demo içe aktarma bazı hatalarla tamamlandı.%2$sHatalarla ilgili daha fazla ayrıntı bu %3$s%5$slog dosyasında%6$s%4$s%7$s bulunabilir"
+
+#: includes/class-rrdi-main.php:593
+msgid "Max execution time after content import = "
+msgstr "İçeriğin içe aktarılmasından sonra maksimum yürütme süresi ="
+
+#: includes/class-rrdi-main.php:595
+msgid "Importing content"
+msgstr "İçeriği içe aktarma"
+
+#: includes/class-rrdi-main.php:634 includes/class-rrdi-main.php:646
+msgid "Importing widgets"
+msgstr "Widget'ları içe aktarma"
+
+#: includes/class-rrdi-main.php:668 includes/class-rrdi-main.php:676
+msgid "Importing customizer settings"
+msgstr "Özelleştirici ayarlarını içe aktarma"
+
+#: includes/class-rrdi-main.php:674
+msgid "Customizer settings import finished!"
+msgstr "Özelleştirici ayarları içe aktarma işlemi tamamlandı!"
+
+#: includes/class-rrdi-main.php:726
+msgid "Completed AJAX call number: "
+msgstr "Tamamlanan AJAX çağrı numarası:"
+
+#: includes/extras/class-wxr-importer.php:504
+msgid "The file does not exist, please try again."
+msgstr "Dosya mevcut değil, lütfen tekrar deneyin."
+
+#: includes/extras/class-wxr-importer.php:1776
+msgid "Remote file is incorrect size"
+msgstr "Uzak dosya boyutu yanlış"
+
+#: includes/extras/class-wxr-importer.php:1787
+msgid "Remote file is too large, limit is %s"
+msgstr "Uzak dosya çok büyük, sınır %s"
+
+#: includes/extras/class-wxr-importer.php:1822
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr "\"%s\" için gönderi üst öğesi bulunamadı (#%d yazısı)"
+
+#: includes/extras/class-wxr-importer.php:1827
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr "%d yazısı, %d üst öğesiyle içe aktarıldı, ancak bulunamadı"
+
+#: includes/extras/class-wxr-importer.php:1846
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr "%d yazısı \"%s\" yazarıyla içe aktarıldı, ancak bulunamadı"
+
+#: includes/extras/class-wxr-importer.php:1872
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr "%d yazısı, son işleme için işaretlendi, ancak hiçbiri gerekli değildi."
+
+#: includes/extras/class-wxr-importer.php:1883
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr "\"%s\" (#%d yazısı) eşlenen verilerle güncellenemedi"
+
+#: includes/extras/class-wxr-importer.php:1928
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr "\"%s\" için menü nesnesi bulunamadı (#%d yazısı)"
+
+#: includes/extras/class-wxr-importer.php:1933
+msgid "Post %d was imported with object \"%d\" of type \"%s\", but could not be found"
+msgstr "%d yazısı, \"%s\" türündeki \"%d\" nesnesiyle içe aktarıldı, ancak bulunamadı"
+
+#: includes/extras/class-wxr-importer.php:1955
+msgid "Could not find the comment parent for comment #%d"
+msgstr "#%d yorumunun üst öğesi bulunamadı"
+
+#: includes/extras/class-wxr-importer.php:1959
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr "%d yorumu, %d üst öğesiyle içe aktarıldı, ancak bulunamadı"
+
+#: includes/extras/class-wxr-importer.php:1973
+msgid "Could not find the author for comment #%d"
+msgstr "#%d yorumu için yazar bulunamadı"
+
+#: includes/extras/class-wxr-importer.php:1977
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr "%d yorumu %d yazarıyla içe aktarıldı, ancak bulunamadı"
+
+#: includes/extras/class-wxr-importer.php:1994
+msgid "Could not update comment #%d with mapped data"
+msgstr "#%d yorumu eşlenen verilerle güncellenemedi"
+
+#: includes/settings/installed-demos.php:34
+msgid "If you are using premium themes by %1$s, just click Import Now button below. Alternatively, you can download zip files from the %2$s page of your theme and upload it as mentioned in Demo Import tab. As simple as that."
+msgstr "%1$s tarafından premium temalar kullanıyorsanız, aşağıdaki Şimdi İçe Aktar düğmesini tıklamanız yeterlidir. Alternatif olarak, temanızın %2$s sayfasından zip dosyalarını indirebilir ve Demo İçe Aktarma sekmesinde belirtildiği gibi yükleyebilirsiniz. Bu Kadar basit."
+
+#: includes/settings/installed-demos.php:53
+msgid "Images"
+msgstr "Görüntüler"
+
+#: includes/settings/installed-demos.php:54
+msgid "Widgets"
+msgstr "Widget'lar"
+
+#: includes/settings/installed-demos.php:228
+msgid "Import Now"
+msgstr "Şimdi İçe Aktar"
+
+#: includes/settings/welcome.php:7
+msgid "Install Now"
+msgstr "Şimdi kur"
+
+#: includes/settings/welcome.php:38
+msgid "Click on the %1$sImport Demo Now!%2$s button to begin demo installation. It will take few minutes to successfully import the demo."
+msgstr "Demo kurulumunu başlatmak için %1$sDemoyu Şimdi İçe Aktar!%2$s düğmesini tıklayın. Demoyu başarıyla içe aktarmak birkaç dakika sürecektir."
+
+#: includes/class-rrdi-helpers.php:549
+msgid "Customizer file was not uploaded. Error: %s"
+msgstr "Özelleştirici dosyası yüklenmedi Hatalar: %s"

@@ -1,0 +1,14 @@
+Version 1.0
+i) Intial version Release
+
+Version 1.1
+i) Added escape functions and used theme prefix in functions.php file.
+
+Version 1.1.1
+i) Added neccesary files and made some changes.
+
+Version 1.1.2
+i) Minor css changes.
+
+Version 1.1.3
+i) Minor css changes.

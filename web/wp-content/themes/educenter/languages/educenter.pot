@@ -1,0 +1,3996 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Educenter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-30 16:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: welcome/welcome.php:136
+#, php-format
+msgid ""
+"%1$s is now installed and ready to use. You can start either by importing "
+"the ready made demo or get started by customizing it your self."
+msgstr ""
+
+#: welcome/welcome.php:184
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: welcome/sections/getting_started.php:27
+#, php-format
+msgid "%s Demo"
+msgstr ""
+
+#: sparklethemes/core/template-functions.php:880
+#: inc/customizer/customizer-panel/header-cta.php:86
+msgid "+01-559-236-8009"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: sparklethemes/core/template-tags.php:60
+msgid ", "
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:397
+msgid "- And more..."
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:257
+msgid "- Blog Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:259
+msgid "- Call To Action Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:253
+msgid "- Content Slider Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:258
+msgid "- Counter Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:393
+msgid "- Course Section with Multiple Layout and Options"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:261
+#: sparklethemes/customizer/customizer.php:399
+msgid ""
+"- Elementor Pagebuilder Compatible. All the above sections can be created "
+"with Elementor Page Builder or Customizer whichever you like."
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:396
+msgid "- Every Section have margin, padding, radious and more options"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:395
+msgid "- Free Hand HTML Block"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:249
+msgid "- Highlight Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:394
+msgid "- Multiple Layout in every section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:392
+msgid "- Our Client and Brand Logo Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:390
+msgid "- Our Services"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:251
+msgid "- Portfolio Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:252
+msgid "- Portfolio Slider Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:256
+msgid "- Pricing Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:250
+msgid "- Service Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:254
+msgid "- Team Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:255
+msgid "- Testimonial Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:391
+msgid "- Video Call to Action"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:260
+#: sparklethemes/customizer/customizer.php:398
+msgid "------------------------"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:248
+msgid "--Drag and Drop Reorder Sections--"
+msgstr ""
+
+#: wp-events-manager/loop/booking-form.php:40
+msgid "/Slot"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:161
+#: inc/customizer/customizer-panel/home/gallery.php:129
+#: inc/customizer/customizer-panel/home/testimonial.php:140
+#: inc/customizer/customizer-panel/home/course.php:151
+#: inc/customizer/customizer-panel/home/blog.php:136
+msgid "1"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:37
+msgid "1 Demo Only"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/features.php:156
+msgid "1 Item"
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:45
+msgid "10AM - 10PM"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:162
+#: inc/customizer/customizer-panel/home/gallery.php:130
+#: inc/customizer/customizer-panel/home/testimonial.php:141
+#: inc/customizer/customizer-panel/home/course.php:152
+#: inc/customizer/customizer-panel/home/blog.php:137
+msgid "2"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:103
+msgid "2 blog layouts"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/features.php:157
+msgid "2 Item"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:163
+#: inc/customizer/customizer-panel/home/gallery.php:131
+#: inc/customizer/customizer-panel/home/testimonial.php:142
+#: inc/customizer/customizer-panel/home/course.php:153
+#: inc/customizer/customizer-panel/home/blog.php:138
+#: inc/customizer/customizer-panel/home/blog.php:167
+msgid "3"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:38
+msgid "3 Demos"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/features.php:158
+msgid "3 Item"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:387
+msgid "3 More Sections on Premium"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:164
+#: inc/customizer/customizer-panel/home/gallery.php:132
+#: inc/customizer/customizer-panel/home/testimonial.php:143
+#: inc/customizer/customizer-panel/home/course.php:154
+#: inc/customizer/customizer-panel/home/blog.php:139
+msgid "4"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:102
+msgid "4 header layouts and advanced header settings"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/features.php:159
+msgid "4 Item"
+msgstr ""
+
+#: 404.php:27
+msgid "404"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/blog.php:168
+msgid "6"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:109
+msgid "9 custom widgets"
+msgstr ""
+
+#: section/educenter-section.php:434
+msgid "About Image"
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:129
+msgid "About US"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/aboutus.php:6
+msgid "About Us Section"
+msgstr ""
+
+#: welcome/welcome.php:174
+msgid "Action Failed. Something is Wrong."
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:28
+msgid "Activate"
+msgstr ""
+
+#: welcome/welcome.php:319
+msgid "Activate Demo Importer Plugin"
+msgstr ""
+
+#: welcome/welcome.php:218
+msgid "Activating Demo Importer Plugin"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:172
+msgid "Adapts to any screen size and display beautifully."
+msgstr ""
+
+#: inc/customizer/customizer-panel/social-settings.php:89
+msgid "Add Link"
+msgstr ""
+
+#: inc/customizer/customizer-panel/social-settings.php:79
+#: inc/customizer/customizer-panel/quick-info.php:78
+#: inc/customizer/customizer-panel/home/team.php:193
+#: inc/customizer/customizer-panel/home/slider.php:125
+#: inc/customizer/customizer-panel/home/slider.php:170
+#: inc/customizer/customizer-panel/home/features.php:185
+#: inc/customizer/customizer-panel/home/features.php:229
+#: inc/customizer/customizer-panel/home/aboutus.php:185
+#: inc/customizer/customizer-panel/home/aboutus.php:251
+#: inc/customizer/customizer-panel/home/counter.php:157
+#: inc/customizer/customizer-panel/home/how_it_works.php:180
+#: inc/customizer/customizer-panel/home/testimonial.php:187
+#: inc/customizer/customizer-panel/home/course.php:177
+#: inc/customizer/customizer-panel/home/popular-course.php:143
+msgid "Add New"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/how_it_works.php:221
+msgid "Add New Item"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:99
+msgid "Add unlimited blocks(like slider, team, testimonial) for each Section"
+msgstr ""
+
+#: functions.php:151
+msgid "Add widgets here footer widget"
+msgstr ""
+
+#: functions.php:130 functions.php:140
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:158
+#: inc/customizer/customizer-panel/top-header.php:167
+#, php-format
+msgid "Add your %s here"
+msgstr ""
+
+#: sparklethemes/functions.php:497
+#: inc/custom-controller/repeater/class-repeater.php:349
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: wp-events-manager/content-single-event.php:71
+msgid "Address"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:354
+msgid "Adjustment for description alignment"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:355
+msgid "Adjustment for title, description and butotn font, margin, padding"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:285
+msgid "Adjustments for phone, contact and email"
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:58
+#: sparklethemes/starter-content/init.php:66
+#: sparklethemes/starter-content/init.php:74
+msgid "Admision Open"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:42
+#: inc/customizer/customizer-panel/home/features.php:140
+#: inc/customizer/customizer-panel/home/how_it_works.php:159
+msgid "Advance"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:106
+msgid "Advance 3 Slider Layout"
+msgstr ""
+
+#: patterns/service-section-one.php:12
+msgid "Advance Services"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:84
+msgid "Advance Slider"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:165
+msgid "Advance Slider Settings"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/aboutus.php:211
+msgid "Advance Text input fields"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:53 welcome/sections/free_vs_pro.php:95
+#: welcome/sections/free_vs_pro.php:109 welcome/sections/free_vs_pro.php:117
+#: welcome/sections/free_vs_pro.php:125 welcome/sections/free_vs_pro.php:142
+#: inc/customizer/customizer-panel/home/team.php:67
+#: inc/customizer/customizer-panel/home/slider.php:41
+#: inc/customizer/customizer-panel/home/features.php:67
+#: inc/customizer/customizer-panel/home/aboutus.php:54
+#: inc/customizer/customizer-panel/home/gallery.php:68
+#: inc/customizer/customizer-panel/home/counter.php:46
+#: inc/customizer/customizer-panel/home/how_it_works.php:64
+#: inc/customizer/customizer-panel/home/testimonial.php:65
+#: inc/customizer/customizer-panel/home/cta.php:51
+#: inc/customizer/customizer-panel/home/course.php:68
+#: inc/customizer/customizer-panel/home/blog.php:51
+#: inc/customizer/customizer-panel/home/popular-course.php:68
+msgid "Advanced"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:108
+msgid "Advanced blog settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:104
+msgid "Advanced color options each section"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:57
+msgid "Advanced Top Header Settings"
+msgstr ""
+
+#: inc/customizer/customizer-panel/footer.php:57
+msgid "After Enable and Disable Please refresh your page to see the effect"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:228
+#: inc/customizer/customizer-panel/home/how_it_works.php:138
+#: inc/customizer/customizer-panel/home/cta.php:183
+#: inc/customizer/customizer-panel/home/course.php:200
+#: inc/customizer/customizer-panel/home/course.php:264
+#: inc/customizer/customizer-panel/home/popular-course.php:166
+#: inc/customizer/customizer-panel/home/popular-course.php:245
+msgid "Alignment"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:344
+#: inc/customizer/customizer-panel/home/counter.php:320
+msgid "Alignment Option"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/events.php:62
+msgid "All"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/testimonial.php:238
+msgid "All Review Link"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:219
+msgid "Anchor(Link)"
+msgstr ""
+
+#: welcome/sections/getting_started.php:10
+msgid ""
+"and choose \"A static page\" for \"Your latest posts\" and select the "
+"created page for \"Home Page\" option."
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/cta.php:291
+msgid "And many more..."
+msgstr ""
+
+#: inc/customizer/customizer-panel/header-cta.php:246
+#: inc/customizer/customizer-panel/home/slider.php:358
+msgid "And more..."
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#: patterns/service-section-one.php:102
+msgid ""
+"As an app web crawler expert, I help organizations adjust to the awesome "
+"expanding significance of internet promotion in dummy text."
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:214
+msgid "Attachment"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:239
+msgid "Auto Play"
+msgstr ""
+
+#: 404.php:37
+msgid "Back To Home"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:190
+#: inc/customizer/customizer-panel/header.php:305
+#: inc/customizer/customizer-panel/header.php:349
+#: inc/customizer/customizer-panel/header.php:391
+#: inc/customizer/customizer-panel/header-cta.php:128
+#: inc/customizer/customizer-panel/header-cta.php:182
+#: inc/customizer/customizer-panel/home/team.php:285
+#: inc/customizer/customizer-panel/home/team.php:331
+#: inc/customizer/customizer-panel/home/features.php:200
+#: inc/customizer/customizer-panel/home/counter.php:215
+#: inc/customizer/customizer-panel/home/counter.php:269
+#: inc/customizer/customizer-panel/home/cta.php:241
+#: inc/customizer/customizer-panel/home/course.php:192
+#: inc/customizer/customizer-panel/home/course.php:255
+#: inc/customizer/customizer-panel/home/popular-course.php:158
+#: inc/customizer/customizer-panel/home/popular-course.php:236
+#: inc/customizer/customizer-panel/home/popular-course.php:286
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/counter.php:317
+msgid "Background - Color, Video, Image, Gradient Option"
+msgstr ""
+
+#: inc/customizer/customizer-panel/social-settings.php:127
+#: inc/customizer/customizer-panel/header.php:166
+#: inc/customizer/customizer-panel/footer.php:108
+#: inc/customizer/customizer-panel/home/common-settings.php:32
+msgid "Background Color"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:187
+#: inc/customizer/customizer-panel/header.php:200
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:361
+#: inc/customizer/customizer-panel/home/blog.php:284
+msgid "Background Option"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header-cta.php:244
+msgid "Background Option - Gradient, Image"
+msgstr ""
+
+#: inc/customizer/customizer-panel/footer.php:234
+msgid "Background Option, video, image, gradient and many more..."
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:220
+msgid "Background Overlay Color"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:149
+#: inc/customizer/customizer-panel/footer.php:91
+#: inc/customizer/customizer-panel/home/common-settings.php:15
+msgid "Background Type"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:355
+msgid "Background/Overlay"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/cta.php:288
+msgid "Bakground - image, video, gradient"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:52 welcome/sections/free_vs_pro.php:94
+#: welcome/sections/free_vs_pro.php:108 welcome/sections/free_vs_pro.php:116
+#: welcome/sections/free_vs_pro.php:124 welcome/sections/free_vs_pro.php:141
+msgid "Basic"
+msgstr ""
+
+#: inc/options.php:29
+msgid "Big Triangle Center"
+msgstr ""
+
+#: inc/options.php:30
+msgid "Big Triangle Left"
+msgstr ""
+
+#: inc/options.php:31
+msgid "Big Triangle Right"
+msgstr ""
+
+#: inc/options.php:42
+msgid "Big Waves"
+msgstr ""
+
+#. Name of the template
+#: page-builder-template.php:2
+msgid "Blank Template (For Page Builders)"
+msgstr ""
+
+#: inc/customizer/customizer-panel/footer.php:56
+msgid "Block Editor Support"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/counter.php:249
+#: inc/customizer/customizer-panel/home/popular-course.php:267
+msgid "Block Icon Settings"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/how_it_works.php:179
+#: inc/customizer/customizer-panel/home/how_it_works.php:220
+msgid "Block Item"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:316
+msgid "Block Items Image Settings"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:266
+#: inc/customizer/customizer-panel/home/counter.php:195
+#: inc/customizer/customizer-panel/home/course.php:236
+#: inc/customizer/customizer-panel/home/popular-course.php:217
+msgid "Block Settings"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/blog.php:240
+msgid "Blog Content Alignment"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:130
+msgid "Blog Custom Widget"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/blog.php:6
+msgid "Blog Section"
+msgstr ""
+
+#. Name of the template
+#: page-blog-template.php:2
+msgid "Blog Template"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:408
+msgid "Blog Template Settings"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:131
+msgid ""
+"Blogs are a great way to attract new website visitors and built trust. "
+"Sparklstore Pro comes with 4 beautifully designed blog layout posts."
+msgstr ""
+
+#: wp-events-manager/loop/booking-form.php:107
+msgid "Book Now"
+msgstr ""
+
+#: wp-events-manager/loop/booking-form.php:35
+msgid "Booked Slots"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:293
+#: inc/customizer/customizer-panel/home/counter.php:227
+#: inc/customizer/customizer-panel/home/counter.php:281
+#: inc/customizer/customizer-panel/home/popular-course.php:298
+msgid "Border Color"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:289
+#: inc/customizer/customizer-panel/home/counter.php:223
+#: inc/customizer/customizer-panel/home/counter.php:277
+#: inc/customizer/customizer-panel/home/popular-course.php:294
+msgid "Border Width"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:148
+msgid "Both free and pro version are fully translation ready."
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/common-settings.php:231
+msgid "Bottom Separator"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/common-settings.php:242
+msgid "Bottom Separator Color"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/common-settings.php:262
+msgid "Bottom Separator Height (px)"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:327
+msgid "Breadcrumb Images"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header-cta.php:120
+msgid "Button"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:331
+msgid "Button BG"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:335
+msgid "Button Color"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/cta.php:290
+msgid "Button Color, margin, padding, radious option"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header-cta.php:174
+msgid "Button Hover"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header-cta.php:106
+msgid "Button Link"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:424
+msgid "Button Link Text Customization"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header-cta.php:94
+#: inc/customizer/customizer-panel/home/slider.php:190
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header-cta.php:82
+msgid "Button Title"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:195
+msgid "Button Url"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:25 welcome/sections/free_vs_pro.php:204
+msgid "Buy Now ($59 only)"
+msgstr ""
+
+#: wp-events-manager/loop/booking-form.php:23
+msgid "Buy Ticket"
+msgstr ""
+
+#: sparklethemes/core/template-functions.php:879
+msgid "Call Anytime 24/7"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/cta.php:6
+msgid "Call To Action"
+msgstr ""
+
+#: inc/customizer/customizer-panel/footer.php:232
+msgid "Can also customize bottom footer background color"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/how_it_works.php:135
+#: inc/customizer/customizer-panel/home/cta.php:181
+#: inc/customizer/customizer-panel/home/blog.php:238
+msgid "Center"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:246
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:245
+msgid "Center Center"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:244
+msgid "Center Top"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/course.php:278
+msgid "Change course details"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:423
+#: inc/customizer/customizer-panel/home/course.php:280
+msgid "Change fonts color"
+msgstr ""
+
+#: inc/customizer/customizer-panel/footer.php:231
+msgid "Change Footer Right Side Settings"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:195
+msgid "Change Image"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/course.php:281
+msgid "Change title bubble text"
+msgstr ""
+
+#: welcome/sections/footer.php:4
+#, php-format
+msgid ""
+"Check out the demos that you can create with the premium version of the %s "
+"theme. 5+ Pre-defined demos can be imported with just one click in the "
+"premium version."
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:342
+msgid "Child Menu"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:178
+msgid "Child Theme Support"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:179
+msgid ""
+"Child theme support makes it easy for you to transfer your settings and "
+"options when you update and change you themes."
+msgstr ""
+
+#: inc/customizer/customizer-panel/footer.php:228
+msgid "Choice over display Layout"
+msgstr ""
+
+#: inc/customizer/customizer-panel/footer.php:229
+msgid "Choice over fonts and its hover color"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:421
+msgid "Choose Between Normal and Masonary Layout"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/counter.php:162
+#: inc/customizer/customizer-panel/home/how_it_works.php:185
+#: inc/customizer/customizer-panel/home/how_it_works.php:230
+#: inc/customizer/customizer-panel/home/popular-course.php:153
+msgid "Choose Icon"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:200
+msgid "Choose Image"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/features.php:24
+msgid "Choose Options to Disable Featues Section"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:79
+msgid "Choose Slider Type"
+msgstr ""
+
+#: sparklethemes/functions.php:498
+#: inc/custom-controller/alpha-color/class-alpha-color.php:104
+#: inc/custom-controller/repeater/class-repeater.php:350
+msgid "Clear"
+msgstr ""
+
+#: inc/custom-controller/alpha-color/class-alpha-color.php:105
+msgid "Clear color"
+msgstr ""
+
+#: welcome/welcome.php:148
+msgid ""
+"Click below to install and active One Click Demo Importer Plugin, It's help "
+"you to import demo."
+msgstr ""
+
+#: welcome/sections/getting_started.php:10
+msgid "Click on "
+msgstr ""
+
+#: welcome/sections/getting_started.php:32
+#, php-format
+msgid ""
+"Click on the button below to install and activate the One Click Demo "
+"Importer Plugin. For more detailed documentation on how the demo importer "
+"works, click %s."
+msgstr ""
+
+#: sparklethemes/mobile-menu/mobile-menu.php:7
+#: inc/custom-controller/group/class-control-group.php:239
+#: inc/custom-controller/repeater/class-repeater.php:365
+msgid "Close"
+msgstr ""
+
+#: inc/options.php:32
+msgid "Clouds"
+msgstr ""
+
+#: inc/customizer/customizer-panel/social-settings.php:119
+#: inc/customizer/customizer-panel/top-header.php:210
+#: inc/customizer/customizer-panel/header.php:309
+#: inc/customizer/customizer-panel/header.php:353
+#: inc/customizer/customizer-panel/header.php:395
+#: inc/customizer/customizer-panel/header-cta.php:132
+#: inc/customizer/customizer-panel/header-cta.php:186
+#: inc/customizer/customizer-panel/home/features.php:206
+#: inc/customizer/customizer-panel/home/counter.php:219
+#: inc/customizer/customizer-panel/home/counter.php:273
+#: inc/customizer/customizer-panel/home/course.php:196
+#: inc/customizer/customizer-panel/home/course.php:259
+#: inc/customizer/customizer-panel/home/popular-course.php:162
+#: inc/customizer/customizer-panel/home/popular-course.php:240
+#: inc/customizer/customizer-panel/home/popular-course.php:290
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:152
+#: inc/customizer/customizer-panel/footer.php:94
+#: inc/customizer/customizer-panel/home/common-settings.php:18
+msgid "Color Background"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Black"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Error"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "foreground"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Link"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Link Hover"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Shadow Opacity"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Success"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Triadic "
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "White"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Yellow"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/common-settings.php:41
+msgid "Color Settings"
+msgstr ""
+
+#: inc/custom-controller/alpha-color/class-alpha-color.php:109
+msgid "Color value"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:139
+#: inc/customizer/customizer-panel/home/team.php:157
+#: inc/customizer/customizer-panel/home/gallery.php:125
+#: inc/customizer/customizer-panel/home/testimonial.php:136
+#: inc/customizer/customizer-panel/home/course.php:147
+msgid "Column"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/gallery.php:142
+msgid "Column Gap"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/counter.php:316
+msgid "Column Option"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/blog.php:132
+msgid "Columns"
+msgstr ""
+
+#. %s is the page number.
+#: sparklethemes/breadcrumbs/breadcrumbs.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: patterns/service-section-one.php:98
+msgid "Commercial Service"
+msgstr ""
+
+#: welcome/welcome.php:135
+msgid "Congratulations!"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:235
+msgid "Contain"
+msgstr ""
+
+#: inc/customizer/customizer-panel/footer.php:227
+msgid ""
+"Contains Two Inner Sections: Main Footer Settings and Bottom Footer Settings"
+msgstr ""
+
+#: inc/customizer/customizer-panel/social-settings.php:20
+#: inc/customizer/customizer-panel/top-header.php:20
+#: inc/customizer/customizer-panel/header.php:19
+#: inc/customizer/customizer-panel/header-cta.php:35
+#: inc/customizer/customizer-panel/home/team.php:38
+#: inc/customizer/customizer-panel/home/slider.php:21
+#: inc/customizer/customizer-panel/home/slider.php:327
+#: inc/customizer/customizer-panel/home/features.php:42
+#: inc/customizer/customizer-panel/home/aboutus.php:22
+#: inc/customizer/customizer-panel/home/gallery.php:41
+#: inc/customizer/customizer-panel/home/counter.php:21
+#: inc/customizer/customizer-panel/home/how_it_works.php:39
+#: inc/customizer/customizer-panel/home/testimonial.php:38
+#: inc/customizer/customizer-panel/home/cta.php:23
+#: inc/customizer/customizer-panel/home/course.php:41
+#: inc/customizer/customizer-panel/home/blog.php:21
+#: inc/customizer/customizer-panel/home/popular-course.php:41
+msgid "Content"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:230
+msgid "Content Area"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:52
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/course.php:279
+msgid "Control over background color"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:353
+msgid "Control over display description"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:425
+msgid "Control over display on post author, date and category"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:422
+msgid "Control over display on post description"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:247
+msgid "Controls"
+msgstr ""
+
+#: sparklethemes/functions.php:336
+msgid "Copyright  &copy; "
+msgstr ""
+
+#: wp-events-manager/shortcodes/user-account.php:31
+#: wp-events-manager/shortcodes/user-account.php:43
+#: wp-events-manager/loop/booking-form.php:39
+msgid "Cost"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/aboutus.php:247
+msgid "Counter"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/aboutus.php:224
+msgid "Counter Blocks"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/counter.php:153
+msgid "Counter Items"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/counter.php:6
+msgid "Counter Section"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/aboutus.php:250
+#: inc/customizer/customizer-panel/home/counter.php:156
+msgid "Counter Settings"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/course.php:176
+#: inc/customizer/customizer-panel/home/course.php:182
+msgid "Course"
+msgstr ""
+
+#: welcome/sections/footer.php:106
+msgid "Course / Events"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/course.php:173
+msgid "Course Settings"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:234
+msgid "Cover"
+msgstr ""
+
+#: welcome/sections/getting_started.php:16
+msgid ""
+"Create a new page and edit with Elementor. Drag and drop the elements in the "
+"Elementor to create your own design."
+msgstr ""
+
+#: welcome/sections/support.php:13 welcome/sections/support.php:15
+msgid "Create Support Tickets"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:274
+msgid "CSS Easing"
+msgstr ""
+
+#: inc/options.php:45
+msgid "Curv 1"
+msgstr ""
+
+#: inc/options.php:54
+msgid "Curv 10"
+msgstr ""
+
+#: inc/options.php:55
+msgid "Curv 11"
+msgstr ""
+
+#: inc/options.php:56
+msgid "Curv 12"
+msgstr ""
+
+#: inc/options.php:46
+msgid "Curv 2"
+msgstr ""
+
+#: inc/options.php:47
+msgid "Curv 3"
+msgstr ""
+
+#: inc/options.php:48
+msgid "Curv 4"
+msgstr ""
+
+#: inc/options.php:49
+msgid "Curv 5"
+msgstr ""
+
+#: inc/options.php:50
+msgid "Curv 6"
+msgstr ""
+
+#: inc/options.php:51
+msgid "Curv 7"
+msgstr ""
+
+#: inc/options.php:52
+msgid "Curv 8"
+msgstr ""
+
+#: inc/options.php:53
+msgid "Curv 9"
+msgstr ""
+
+#: inc/options.php:33
+msgid "Curve Center"
+msgstr ""
+
+#: inc/options.php:34
+msgid "Curve Repeater"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Custom template name"
+msgid "Blank Templates"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:71
+msgid "Custom Widgets"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:790
+#: sparklethemes/breadcrumbs/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:151
+#: inc/customizer/customizer-panel/footer.php:93
+#: inc/custom-controller/alpha-color/class-alpha-color.php:106
+#: inc/custom-controller/background-control/background-control.php:197
+#: inc/custom-controller/background-control/background-control.php:233
+#: inc/customizer/customizer-panel/home/features.php:139
+#: inc/customizer/customizer-panel/home/common-settings.php:17
+#: inc/customizer/customizer-panel/home/how_it_works.php:158
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:83
+msgid "Default Slider"
+msgstr ""
+
+#: inc/custom-controller/repeater/class-repeater.php:364
+msgid "Delete"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/aboutus.php:315
+msgid "Designadtion"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:203
+#: inc/customizer/customizer-panel/home/testimonial.php:197
+msgid "Designation"
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:130
+msgid "Details information about us"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:284
+msgid "Different Menu and Logo Layouts"
+msgstr ""
+
+#: inc/customizer/customizer-panel/footer.php:163
+#: inc/customizer/customizer-panel/home/common-settings.php:152
+msgid "Disable"
+msgstr ""
+
+#: welcome/welcome.php:162
+msgid "Dismiss"
+msgstr ""
+
+#: sparklethemes/functions.php:623
+msgid "Display Layout Options"
+msgstr ""
+
+#: welcome/sections/header.php:20
+msgid "Documentaion"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:145 welcome/sections/support.php:3
+#: sparklethemes/customizer/customizer-pro/class-customize.php:91
+msgid "Documentation"
+msgstr ""
+
+#: welcome/sections/getting_started.php:21
+msgid "Documentation Page"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:256
+msgid "Drag"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:364
+msgid "Drag and Drop to Reorder"
+msgstr ""
+
+#: inc/options.php:35
+msgid "Droplets"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Foreground and Background"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Foreground and Secondary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Foreground and Tertiary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Primary and Background"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Primary and Secondary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Primary and Tertiary"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:286
+#: sparklethemes/customizer/customizer.php:341
+#: sparklethemes/customizer/customizer.php:426
+#: sparklethemes/customizer/customizer.php:447
+#: inc/customizer/customizer-panel/header.php:114
+#: inc/customizer/customizer-panel/footer.php:233
+#: inc/customizer/customizer-panel/home/team.php:358
+#: inc/customizer/customizer-panel/home/features.php:277
+#: inc/customizer/customizer-panel/home/aboutus.php:209
+#: inc/customizer/customizer-panel/home/counter.php:315
+#: inc/customizer/customizer-panel/home/testimonial.php:263
+#: inc/customizer/customizer-panel/home/blog.php:281
+msgid "Dynamic text editor option for bubble text"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:278
+msgid "Easing"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:40 sparklethemes/core/template-tags.php:97
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. Name of the theme
+msgid "Educenter"
+msgstr ""
+
+#: welcome/sections/footer.php:40
+msgid "Educenter - Elementor"
+msgstr ""
+
+#: welcome/sections/footer.php:80
+msgid "Educenter Academy"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:58
+msgid ""
+"Educenter comes with an option for the top bar where you can add contact "
+"address, social icon, nav menu."
+msgstr ""
+
+#: welcome/welcome.php:140
+msgid "EduCenter Demo"
+msgstr ""
+
+#: welcome/sections/footer.php:67
+msgid "Educenter Event"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Educenter is an ideal Education Free WordPress Theme. It's a simple, clean, "
+"elegant, user-friendly, impressive, engaging, and dynamic theme. Also, it is "
+"fully customizable, and responsive WordPress Theme as well. This education "
+"Free WordPress Theme is specially designed for the type of education "
+"business website. It is very easy to use for all types of educational "
+"institutions like online courses, colleges, universities, schools, and "
+"different other education-based websites. The theme showcases your website "
+"within a satisfactory viable way ranging from handheld smartphones, iPhones, "
+"tablets, Laptops to large screens too. This theme allows you to create a "
+"very high-quality and perfect instructional website effortlessly and easily "
+"in a short time. Educenter Free WordPress Theme has several advanced "
+"features and layouts settings too. It provides some custom settings like ( "
+"header layouts, 1 click demo import, call to action, the list features "
+"courses, team member, testimonial, dynamic color options and many more. It "
+"is also compatible with different page builder plugins. All the smart, "
+"useful and time-saving features help in carving a clan and latest website "
+"which easily in really lesser time. Besides, Educenter Education Free "
+"WordPress theme is fully responsive, cross-browser compatible, translation "
+"ready, SEO friendly theme. It is integrated with WooCommerce. The theme is "
+"even compatible with some other external plugins like elementor page builder,"
+" Page Builder by SiteOrigin, Jetpack, Contact Form 7 and many other plugins "
+"as well. If you face any problem related to our theme, you can refer to our "
+"theme documentation or contact our friendly support team. Check [demos](http:"
+"//demo.sparklewpthemes.com/educenter/demos) and theme [details] (https:"
+"//sparklewpthemes.com/wordpress-themes/educenter) and get free [support "
+"forum] (https://sparklewpthemes.com/support/)"
+msgstr ""
+
+#: functions.php:397
+msgid "Educenter Lite"
+msgstr ""
+
+#: welcome/sections/footer.php:27
+msgid "Educenter Pro - Demo 1"
+msgstr ""
+
+#: welcome/sections/footer.php:14
+msgid "Educenter Pro - Main"
+msgstr ""
+
+#: inc/customizer/customizer-panel/social-settings.php:94
+#: inc/customizer/customizer-panel/quick-info.php:105
+#: inc/customizer/customizer-panel/home/team.php:20
+#: inc/customizer/customizer-panel/home/aboutus.php:98
+#: inc/customizer/customizer-panel/home/gallery.php:21
+#: inc/customizer/customizer-panel/home/counter.php:87
+#: inc/customizer/customizer-panel/home/events.php:18
+#: inc/customizer/customizer-panel/home/testimonial.php:20
+#: inc/customizer/customizer-panel/home/cta.php:95
+#: inc/customizer/customizer-panel/home/course.php:21
+#: inc/customizer/customizer-panel/home/blog.php:93
+#: inc/customizer/customizer-panel/home/popular-course.php:21
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/common-settings.php:154
+msgid "Enable Bottom Separator"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header-cta.php:17
+msgid "Enable Button"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:316
+msgid "Enable Educenter FrontPage"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:304
+msgid "Enable FrontPage / Home Page"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/features.php:22
+#: inc/customizer/customizer-panel/home/how_it_works.php:20
+msgid "Enable Section"
+msgstr ""
+
+#: inc/customizer/customizer-panel/footer.php:161
+#: inc/customizer/customizer-panel/home/common-settings.php:150
+msgid "Enable Separator"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:61
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/common-settings.php:155
+msgid "Enable Top & Bottom Separator"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:63
+msgid "Enable Top Header"
+msgstr ""
+
+#: inc/customizer/customizer-panel/footer.php:164
+#: inc/customizer/customizer-panel/home/common-settings.php:153
+msgid "Enable Top Separator"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/cta.php:124
+msgid "Enter Button One URL"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:136
+#: inc/customizer/customizer-panel/home/blog.php:220
+msgid "Enter Button Text"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/cta.php:137
+msgid "Enter Button Two Text"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/cta.php:150
+msgid "Enter Button Two URL"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:141
+msgid "Enter Button Url"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/how_it_works.php:243
+msgid "Enter First Button Text"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/how_it_works.php:248
+msgid "Enter First Button Url"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/gallery.php:114
+msgid "Enter Gallery Main SubTitle"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/gallery.php:102
+msgid "Enter Gallery Main Title"
+msgstr ""
+
+#: sparklethemes/functions.php:94
+msgid "Error Page"
+msgstr ""
+
+#: welcome/welcome.php:221
+msgid "Error! Reload the page and try again."
+msgstr ""
+
+#: wp-events-manager/shortcodes/user-account.php:29
+#: inc/customizer/customizer-panel/home/events.php:6
+#: inc/customizer/customizer-panel/home/events.php:58
+msgid "Events"
+msgstr ""
+
+#: section/educenter-section.php:1282 wp-events-manager/archive-event.php:44
+#: wp-events-manager/loop/booking-form.php:96
+msgid "Expired"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/events.php:65
+msgid "Expired Events"
+msgstr ""
+
+#: sparklethemes/functions.php:360
+msgid "Explore"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:208
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/testimonial.php:207
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:268
+msgid "Fade"
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:87
+msgid "Fashion"
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:109
+msgid "Fashion Courses"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:193
+msgid "Fast and Friendly Support"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:29
+msgid "Features"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/features.php:228
+#: inc/customizer/customizer-panel/home/popular-course.php:139
+msgid "Features Service"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/features.php:7
+#: inc/customizer/customizer-panel/home/features.php:184
+#: inc/customizer/customizer-panel/home/features.php:225
+msgid "Features Services"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/aboutus.php:208
+msgid "Features Two different Layouts"
+msgstr ""
+
+#: patterns/service-section-one.php:114
+msgid "Feel Free to Contact"
+msgstr ""
+
+#: wp-events-manager/content-single-event.php:61
+msgid "Finish Time"
+msgstr ""
+
+#: welcome/sections/getting_started.php:15
+msgid "Firstly install and activate \"Elementor Website Builder\" plugin from"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:249
+msgid "Fixed"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:156
+msgid ""
+"Follows best SEO practices so that your website always rank higher in Search "
+"Engines."
+msgstr ""
+
+#: inc/custom-controller/repeater/class-repeater.php:241
+msgid "Font Awesome"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Arizonia"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Exo"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Lato"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Open Sans"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Oswold"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Roboto Condensed"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "Huge"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "XLarge"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "XMedium"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "XSmall"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "XXLarge"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "XXXLarge"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/cta.php:285
+msgid "Font Size Option"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header-cta.php:151
+msgid "Font Size(px)"
+msgstr ""
+
+#: inc/customizer/customizer-panel/footer.php:72
+msgid "Footer Column"
+msgstr ""
+
+#: functions.php:62
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/customizer/customizer-panel/footer.php:6
+msgid "Footer Setting"
+msgstr ""
+
+#: functions.php:149
+msgid "Footer Widget Area"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:355
+#: inc/customizer/customizer-panel/home/blog.php:278
+msgid "For more controls,"
+msgstr ""
+
+#: welcome/sections/getting_started.php:21
+#, php-format
+msgid "For more detail visit our theme %s."
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:281
+msgid "For more header layouts,"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:108
+msgid "For more header settings,"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/features.php:273
+#: inc/customizer/customizer-panel/home/aboutus.php:206
+#: inc/customizer/customizer-panel/home/cta.php:282
+msgid "For more layouts and settings,"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:337
+#: sparklethemes/customizer/customizer.php:418
+msgid "For more settings and controls,"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:348
+msgid "For more slider layouts and settings,"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:444
+#: inc/customizer/customizer-panel/home/testimonial.php:260
+msgid "For more styles settings,"
+msgstr ""
+
+#: inc/customizer/customizer-panel/footer.php:225
+#: inc/customizer/customizer-panel/header-cta.php:242
+#: inc/customizer/customizer-panel/home/counter.php:312
+#: inc/customizer/customizer-panel/home/course.php:275
+msgid "For more styling and controls,"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:194
+msgid "For Premium theme, the user will get a reply in 10 hours or less."
+msgstr ""
+
+#: wp-events-manager/shortcodes/user-account.php:43
+#: wp-events-manager/loop/booking-form.php:40
+#: welcome/sections/free_vs_pro.php:30
+msgid "Free"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header-cta.php:74
+msgid "Free Call"
+msgstr ""
+
+#: welcome/sections/header.php:18
+msgid "Free Demos"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:101
+msgid "Free Hand"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:176
+msgid "Free hand"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:13
+msgid "FREE UPDATES FOR LIFETIME"
+msgstr ""
+
+#: welcome/welcome.php:29
+msgid "Free Vs Pro"
+msgstr ""
+
+#: welcome/sections/getting_started.php:6
+msgid "FROM CUSTOMIZER"
+msgstr ""
+
+#: welcome/sections/getting_started.php:13
+msgid "FROM ELEMENTOR"
+msgstr ""
+
+#. Name of the template
+#: full-width.php:2 inc/customizer/customizer-panel/home/gallery.php:157
+msgid "Full Width"
+msgstr ""
+
+#: sparklethemes/functions.php:647
+msgid "Full width"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:100
+msgid "Fully customizable options for Front Page blocks"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:111
+msgid "Fully Multilingual and Translation ready"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:112
+msgid "Fully RTL(Right to left) languages compatible"
+msgstr ""
+
+#: section/educenter-section.php:1078
+msgid "Gallery Image"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/gallery.php:4
+msgid "Gallery Section"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/gallery.php:146
+msgid "Gap"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:171
+msgid "General Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:217
+msgid "Genral Settings"
+msgstr ""
+
+#: welcome/welcome.php:156
+msgid "Get Started"
+msgstr ""
+
+#: welcome/welcome.php:26
+msgid "Getting Started"
+msgstr ""
+
+#: welcome/sections/getting_started.php:9
+msgid "Go to Appearance &gt; Customize"
+msgstr ""
+
+#: welcome/sections/getting_started.php:8
+msgid ""
+"Go to customizer >> Enable Front page and check and publish the changes."
+msgstr ""
+
+#: welcome/welcome.php:219 welcome/welcome.php:322
+msgid "Go to Demo Importer Page"
+msgstr ""
+
+#: welcome/welcome.php:158
+msgid "Go to Setting Page"
+msgstr ""
+
+#: inc/customizer/customizer-panel/footer.php:95
+msgid "Gradient Background (pro)"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:154
+#: inc/customizer/customizer-panel/home/common-settings.php:19
+msgid "Gradient Background(Pro)"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Diagonal Primary to Triadic"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Diagonal Secondary to tertiary Left"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical Primary to Foreground"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical Secondary to Primary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical Secondary to Success"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Vertical Tertiary to Primary"
+msgstr ""
+
+#: welcome/sections/footer.php:93
+msgid "Graphic"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:144
+#: inc/customizer/customizer-panel/home/course.php:135
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:137
+msgid "Hamburger Color(Mobile)"
+msgstr ""
+
+#: section/educenter-section.php:1280 wp-events-manager/archive-event.php:42
+msgid "Happening"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/events.php:63
+msgid "Happening Events"
+msgstr ""
+
+#: patterns/brandlogo.php:13
+msgid "Happy To Have These Amazing Clients"
+msgstr ""
+
+#: patterns/service-section-one.php:46
+msgid ""
+"Have a question? Our professional support team is ready to answer your "
+"questions. All our team member support requests will be replied in 24 hours "
+"or less."
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:126
+msgid "Header Background"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header-cta.php:4
+msgid "Header CTA Button"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:270
+msgid "Header Layout"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:239
+#: inc/customizer/customizer-panel/header.php:6
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:335
+#: inc/customizer/customizer-panel/home/cta.php:245
+msgid "Height(px)"
+msgstr ""
+
+#: welcome/sections/getting_started.php:32
+msgid "here"
+msgstr ""
+
+#: welcome/welcome.php:157
+#, php-format
+msgid ""
+"Here you will find all the necessary links and information on how to use %s."
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:86
+#: inc/customizer/customizer-panel/header-cta.php:210
+#: inc/customizer/customizer-panel/home/aboutus.php:228
+#: inc/customizer/customizer-panel/home/aboutus.php:283
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:88
+#: inc/customizer/customizer-panel/header-cta.php:212
+msgid "Hide/Show"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:363
+msgid "Home Page Sections"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:6
+msgid "Home Slider Settings"
+msgstr ""
+
+#: welcome/sections/getting_started.php:10
+msgid "Homepage Settings"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/custom-controller/color-tab/color-tab.php:130
+msgid "Hover"
+msgstr ""
+
+#: inc/customizer/customizer-panel/social-settings.php:143
+msgid "Hover Background Color"
+msgstr ""
+
+#: inc/customizer/customizer-panel/social-settings.php:135
+msgid "Hover Color"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/how_it_works.php:178
+msgid "How it works"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/how_it_works.php:6
+msgid "How It Works Section"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/how_it_works.php:217
+msgid "How It Works Settings"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://sparklewpthemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://sparklewpthemes.com/wordpress-themes/educenter"
+msgstr ""
+
+#: inc/customizer/customizer-panel/quick-info.php:83
+#: inc/customizer/customizer-panel/header-cta.php:69
+#: inc/customizer/customizer-panel/home/aboutus.php:190
+#: inc/customizer/customizer-panel/home/aboutus.php:256
+msgid "Icon"
+msgstr ""
+
+#: inc/customizer/customizer-panel/quick-info.php:125
+msgid "Icon Color"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header-cta.php:245
+msgid "Icon Color, Margin, Padding, Font Size etc"
+msgstr ""
+
+#: wp-events-manager/shortcodes/user-account.php:28
+msgid "ID"
+msgstr ""
+
+#: patterns/service-section-one.php:86
+msgid ""
+"If you want real marketing that works and effective implementation thank you "
+"for installing the spark construction lite WordPress theme – Lifest got you "
+"covered."
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/cta.php:159
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:153
+msgid "Image Background"
+msgstr ""
+
+#: inc/customizer/customizer-panel/footer.php:96
+#: inc/customizer/customizer-panel/home/common-settings.php:20
+msgid "Image Background(Pro)"
+msgstr ""
+
+#: inc/custom-controller/group/class-control-group.php:219
+msgid "Image preview"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/cta.php:222
+msgid "Image Settings"
+msgstr ""
+
+#: welcome/welcome.php:147
+msgid "Import Demo"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:137
+msgid "Important Links"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:351
+msgid "Includes 5 slider types - Banner, Video, Pages, Advance, Revolution"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/features.php:276
+msgid "Includes color selection option"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:110
+msgid "Includes Left Settings and Right Settings"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:113
+msgid "Includes options for quick information"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:111
+msgid "Includes options for social icons"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:112
+msgid "Includes options for top nav menu"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/counter.php:314
+msgid "Includes Two Different Layouts"
+msgstr ""
+
+#: inc/customizer/customizer-panel/quick-info.php:75
+msgid "Information"
+msgstr ""
+
+#: inc/customizer/customizer-panel/quick-info.php:77
+msgid "Information Item"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:223
+msgid "Instagram Link"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/testimonial.php:222
+msgid "Instagram Url"
+msgstr ""
+
+#: welcome/welcome.php:327
+msgid "Install Demo Importer Plugin"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:35
+msgid "Install Now"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:31
+msgid "Installed"
+msgstr ""
+
+#: welcome/welcome.php:217
+msgid "Installing Demo Importer Plugin"
+msgstr ""
+
+#: 404.php:32
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:31
+msgid "Just another WordPress site"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:14
+msgid "Keep up to date"
+msgstr ""
+
+#: inc/customizer/customizer-panel/quick-info.php:88
+msgid "Label"
+msgstr ""
+
+#: inc/custom-controller/repeater/class-repeater.php:155
+#: inc/custom-controller/repeater/class-repeater.php:322
+msgid "Latest Posts"
+msgstr ""
+
+#: sparklethemes/functions.php:573
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/aboutus.php:148
+#: inc/customizer/customizer-panel/home/testimonial.php:156
+#: inc/customizer/customizer-panel/home/cta.php:198
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/testimonial.php:160
+msgid "Layout 1"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/testimonial.php:161
+msgid "Layout 2"
+msgstr ""
+
+#: patterns/service-section-one.php:26
+msgid "Leadership Training"
+msgstr ""
+
+#. %s: post title
+#: sparklethemes/core/template-tags.php:80
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/how_it_works.php:134
+#: inc/customizer/customizer-panel/home/cta.php:179
+#: inc/customizer/customizer-panel/home/blog.php:236
+msgid "Left"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:240
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:239
+msgid "Left Center"
+msgstr ""
+
+#: sparklethemes/functions.php:635
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:138
+msgid "Left Sidebar Widget Area"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:238
+msgid "Left Top"
+msgstr ""
+
+#: patterns/service-section-one.php:62
+msgid ""
+"Leverage agile frameworks to provide a robust synopsis for overviews. "
+"Corporate strategy fosters thinking to further the overall value proposition."
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:145
+msgid "Like Us in Facebook"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:280
+msgid "Linear"
+msgstr ""
+
+#: inc/customizer/customizer-panel/quick-info.php:98
+#: inc/custom-controller/group/class-control-group.php:273
+#: inc/custom-controller/cssbox/class-control-cssbox.php:102
+#: inc/customizer/customizer-panel/home/features.php:243
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/common-settings.php:87
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/common-settings.php:98
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:218
+msgid "Linkedin Link"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/testimonial.php:227
+msgid "Linkedin Url"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:150
+msgid "Links"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: sparklethemes/core/template-tags.php:67
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:145
+msgid "Live Demo"
+msgstr ""
+
+#: wp-events-manager/shortcodes/form-login.php:18
+msgid "Login"
+msgstr ""
+
+#: wp-events-manager/loop/booking-form.php:101
+msgid "Login Now"
+msgstr ""
+
+#: wp-events-manager/shortcodes/form-login.php:8
+msgid "Login with your site account"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:235
+msgid "Loop"
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:57
+#: sparklethemes/starter-content/init.php:65
+#: sparklethemes/starter-content/init.php:73
+#: sparklethemes/starter-content/init.php:83
+#: sparklethemes/starter-content/init.php:110
+#: sparklethemes/starter-content/init.php:116
+#: sparklethemes/starter-content/init.php:122
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit labore "
+"mollitia, aliquam nisi neque perspiciatis expedita, nulla deleniti…"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/aboutus.php:114
+msgid "Main Ttile"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:163
+msgid "Major Browser Compatible"
+msgstr ""
+
+#: welcome/sections/getting_started.php:3
+msgid "Manual Setup"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:317
+#: inc/customizer/customizer-panel/header.php:361
+#: inc/customizer/customizer-panel/header-cta.php:136
+#: inc/customizer/customizer-panel/home/team.php:273
+#: inc/customizer/customizer-panel/home/counter.php:210
+#: inc/customizer/customizer-panel/home/counter.php:265
+#: inc/customizer/customizer-panel/home/cta.php:229
+#: inc/customizer/customizer-panel/home/course.php:243
+#: inc/customizer/customizer-panel/home/popular-course.php:224
+#: inc/customizer/customizer-panel/home/popular-course.php:282
+msgid "Margin"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:360
+#: inc/customizer/customizer-panel/home/blog.php:283
+msgid "Margin & Padding Option"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:268
+msgid "Margin (px)"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/counter.php:318
+msgid "Margin Padding, Radious"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:343
+msgid "Margin Top (px)"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:255
+#: inc/customizer/customizer-panel/footer.php:132
+msgid "Margin(px)"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:343
+#: inc/customizer/customizer-panel/home/cta.php:289
+msgid "Margin, Padding, Radious Option"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:248
+#: inc/customizer/customizer-panel/footer.php:125
+msgid "Margin/Padding"
+msgstr ""
+
+#: sparklethemes/mobile-menu/init.php:52
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:278
+msgid "Menu Color"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:295
+msgid "Menu General Settings"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:298
+msgid "Menu Item"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:383
+msgid "Menu Item - Hover / Active"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:43
+msgid "Menu Style"
+msgstr ""
+
+#: wp-events-manager/shortcodes/user-account.php:33
+msgid "Method"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: sparklethemes/breadcrumbs/breadcrumbs.php:276
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: sparklethemes/mobile-menu/mobile-menu.php:24
+msgid "Mobile"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:265
+msgid "Mode"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:789
+#: sparklethemes/breadcrumbs/breadcrumbs.php:845
+#: sparklethemes/breadcrumbs/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:244
+msgid "More Sections on Premium"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:420
+msgid "Multi-Select option to choose category to show posts"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:43
+msgid "Multiple Header Layouts and Settings"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:359
+#: inc/customizer/customizer-panel/home/blog.php:282
+msgid "Multiple Layout"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:350
+msgid "Multiple slider layouts"
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:93
+msgid "Music"
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:115
+msgid "Music & Art"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:96
+msgid "Navigation Style"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:172
+msgid "Need Any Help: +1-559-236-8009 or help@example.com"
+msgstr ""
+
+#: index.php:53 archive.php:49 search.php:48 page-blog-template.php:58
+msgid "Next"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:66
+#: inc/customizer/customizer-panel/header.php:68
+#: inc/customizer/customizer-panel/header.php:82
+#: inc/customizer/customizer-panel/header.php:97
+#: inc/customizer/customizer-panel/footer.php:61
+#: inc/customizer/customizer-panel/quick-info.php:108
+#: inc/customizer/customizer-panel/header-cta.php:20
+#: inc/customizer/customizer-panel/home/team.php:24
+#: inc/customizer/customizer-panel/home/slider.php:65
+#: inc/customizer/customizer-panel/home/features.php:27
+#: inc/customizer/customizer-panel/home/aboutus.php:102
+#: inc/customizer/customizer-panel/home/gallery.php:25
+#: inc/customizer/customizer-panel/home/counter.php:91
+#: inc/customizer/customizer-panel/home/how_it_works.php:23
+#: inc/customizer/customizer-panel/home/events.php:22
+#: inc/customizer/customizer-panel/home/testimonial.php:24
+#: inc/customizer/customizer-panel/home/cta.php:99
+#: inc/customizer/customizer-panel/home/course.php:25
+#: inc/customizer/customizer-panel/home/course.php:217
+#: inc/customizer/customizer-panel/home/blog.php:97
+#: inc/customizer/customizer-panel/home/blog.php:189
+#: inc/customizer/customizer-panel/home/blog.php:209
+#: inc/customizer/customizer-panel/home/popular-course.php:25
+#: inc/customizer/customizer-panel/home/popular-course.php:183
+#: inc/customizer/customizer-panel/home/popular-course.php:198
+msgid "No"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/gallery.php:147
+msgid "No Gap"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:198
+#: inc/custom-controller/repeater/class-repeater.php:139
+msgid "No image selected"
+msgstr ""
+
+#: wp-events-manager/shortcodes/user-account.php:46
+msgid "No payment."
+msgstr ""
+
+#: wp-events-manager/shortcodes/user-account.php:54
+msgid "No records."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:4
+msgid "No renewal needed"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:227
+msgid "No Repeat"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:97
+msgid "None"
+msgstr ""
+
+#: inc/custom-controller/color-tab/color-tab.php:129
+msgid "Normal"
+msgstr ""
+
+#: wp-events-manager/shortcodes/form-login.php:22
+msgid "Not a member yet? "
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: welcome/sections/getting_started.php:17
+msgid ""
+"Now go to Appearance &gt; Customize &gt; Homepage Settings and choose \"A "
+"static page\" for \"Your latest posts\" and select the created page for "
+"\"Home Page\" option."
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/aboutus.php:266
+#: inc/customizer/customizer-panel/home/counter.php:172
+msgid "Number"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/blog.php:163
+msgid "Number of Blog Posts"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:35
+msgid "One Click Demo Import"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:95
+msgid "One click demo import"
+msgstr ""
+
+#. 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:3
+msgid "ONE TIME PAYMENT"
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:179
+msgid "Online"
+msgstr ""
+
+#: 404.php:28
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:340
+msgid "Option to Enable/Disable Breadcrumbs Menu"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:339
+msgid "Option to Enable/Disable Breadcrumbs Section"
+msgstr ""
+
+#: welcome/sections/getting_started.php:31
+msgid "Or you can get started by importing the demo with just one click."
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/course.php:4
+msgid "Our Courses"
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:82
+msgid "Our Featured Courses"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/popular-course.php:4
+msgid "Our Popular Courses"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:122
+msgid "Our Team Member Area"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:4
+msgid "Our Team Section"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:93
+msgid "Over Nav"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:356
+msgid "Overlay Option"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:313
+#: inc/customizer/customizer-panel/header.php:357
+#: inc/customizer/customizer-panel/header-cta.php:141
+#: inc/customizer/customizer-panel/home/team.php:277
+#: inc/customizer/customizer-panel/home/team.php:323
+#: inc/customizer/customizer-panel/home/counter.php:202
+#: inc/customizer/customizer-panel/home/counter.php:256
+#: inc/customizer/customizer-panel/home/cta.php:233
+#: inc/customizer/customizer-panel/home/course.php:247
+#: inc/customizer/customizer-panel/home/popular-course.php:228
+#: inc/customizer/customizer-panel/home/popular-course.php:274
+msgid "Padding"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:246
+#: inc/customizer/customizer-panel/home/common-settings.php:124
+msgid "Padding (px)"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:259
+#: inc/customizer/customizer-panel/footer.php:136
+msgid "Padding(px)"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/aboutus.php:195
+#: inc/customizer/customizer-panel/home/how_it_works.php:190
+msgid "Page"
+msgstr ""
+
+#. %s is the page number.
+#: sparklethemes/breadcrumbs/breadcrumbs.php:272
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:243
+msgid "Pager"
+msgstr ""
+
+#: template-parts/content-single.php:63 template-parts/content-page.php:27
+msgid "Pages:"
+msgstr ""
+
+#: inc/options.php:36
+msgid "Paint Brush"
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:184
+msgid "Passed"
+msgstr ""
+
+#: wp-events-manager/shortcodes/form-login.php:16
+msgid "Password"
+msgstr ""
+
+#: patterns/about-section-one.php:2
+msgctxt "Pattern title"
+msgid "About Section One"
+msgstr ""
+
+#: patterns/about-section-three.php:2
+msgctxt "Pattern title"
+msgid "About Section Three"
+msgstr ""
+
+#: patterns/about-section-two.php:2
+msgctxt "Pattern title"
+msgid "About Section Two"
+msgstr ""
+
+#: patterns/blog.php:2
+msgctxt "Pattern title"
+msgid "Blog List"
+msgstr ""
+
+#: patterns/breadcrumb.php:2
+msgctxt "Pattern title"
+msgid "Breadcrumb"
+msgstr ""
+
+#: patterns/cta.php:2
+msgctxt "Pattern title"
+msgid "Call to Action"
+msgstr ""
+
+#: patterns/brandlogo.php:2
+msgctxt "Pattern title"
+msgid "Client Logo"
+msgstr ""
+
+#: patterns/course.php:2
+msgctxt "Pattern title"
+msgid "course"
+msgstr ""
+
+#: patterns/course2.php:2
+msgctxt "Pattern title"
+msgid "Course Layout TWo"
+msgstr ""
+
+#: patterns/feature.php:2
+msgctxt "Pattern title"
+msgid "Featured Course"
+msgstr ""
+
+#: patterns/gallery.php:2
+msgctxt "Pattern title"
+msgid "Gallery"
+msgstr ""
+
+#: patterns/hero.php:2
+msgctxt "Pattern title"
+msgid "Hero Banner"
+msgstr ""
+
+#: patterns/service-section-one.php:2
+msgctxt "Pattern title"
+msgid "Service Area One"
+msgstr ""
+
+#: patterns/team.php:2
+msgctxt "Pattern title"
+msgid "Team Meber"
+msgstr ""
+
+#: patterns/testimonial.php:2
+msgctxt "Pattern title"
+msgid "Testimonials"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:291
+msgid "Pause"
+msgstr ""
+
+#: wp-events-manager/loop/booking-form.php:61
+msgid "Pay with"
+msgstr ""
+
+#: inc/customizer/customizer-panel/footer.php:230
+msgid "Place to Enter Copyright Text"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:352
+msgid "Placement for revolution and video slider"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:7
+msgid ""
+"Please install these free plugins. These plugins are complementary that adds "
+"more features to the theme."
+msgstr ""
+
+#: welcome/welcome.php:305
+#, php-format
+msgid ""
+"Please leave us a %s rating if you like our theme . A huge thank you from "
+"SparkleThemes in advance!"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:283
+msgid "Plus 4 header styles"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:213
+msgid "Position"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/cta.php:286
+msgid "Position Option"
+msgstr ""
+
+#. %s: post author.
+#: sparklethemes/core/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#. %s: post date.
+#: sparklethemes/core/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "On %s"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/blog.php:204
+msgid "Post Meta Author"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/blog.php:184
+msgid "Post Meta Date"
+msgstr ""
+
+#. 1: list of categories.
+#: sparklethemes/core/template-tags.php:63
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:65
+msgid "PreLoader Option"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:105
+msgid "PreLoader option"
+msgstr ""
+
+#: welcome/sections/header.php:19
+msgid "Premium Demos"
+msgstr ""
+
+#: welcome/sections/footer.php:3
+#, php-format
+msgid "Premium Version of %s"
+msgstr ""
+
+#: index.php:52 archive.php:48 search.php:47 page-blog-template.php:57
+msgid "Prev"
+msgstr ""
+
+#: welcome/sections/footer.php:16 welcome/sections/footer.php:29
+#: welcome/sections/footer.php:42 welcome/sections/footer.php:55
+#: welcome/sections/footer.php:69 welcome/sections/footer.php:82
+#: welcome/sections/footer.php:95 welcome/sections/footer.php:108
+msgid "Preview"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/course.php:187
+msgid "Price"
+msgstr ""
+
+#: functions.php:61
+msgid "Primary"
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:196
+msgid "Primary Menu"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:207
+msgid "Primary Theme Colors"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:31
+msgid "Pro"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:120
+#: sparklethemes/customizer/customizer.php:125
+msgid "Pro Theme Features"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/aboutus.php:293
+msgid "Profile Image"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/aboutus.php:303
+msgid "Profile Name"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:357
+#: inc/customizer/customizer-panel/home/blog.php:280
+msgid "Provision for inclusion of social links"
+msgstr ""
+
+#: wp-events-manager/shortcodes/user-account.php:32
+#: wp-events-manager/loop/booking-form.php:44
+#: wp-events-manager/loop/booking-form.php:50
+msgid "Quantity"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:98
+msgid "Quick Contact Information"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:165
+msgid "Quick Info"
+msgstr ""
+
+#: inc/customizer/customizer-panel/quick-info.php:9
+msgid "Quick Information"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:321
+#: inc/customizer/customizer-panel/header.php:365
+#: inc/customizer/customizer-panel/header-cta.php:146
+#: inc/customizer/customizer-panel/home/team.php:281
+#: inc/customizer/customizer-panel/home/team.php:327
+#: inc/customizer/customizer-panel/home/counter.php:206
+#: inc/customizer/customizer-panel/home/counter.php:260
+#: inc/customizer/customizer-panel/home/cta.php:237
+#: inc/customizer/customizer-panel/home/course.php:251
+#: inc/customizer/customizer-panel/home/popular-course.php:232
+#: inc/customizer/customizer-panel/home/popular-course.php:278
+msgid "Radius"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:290
+#: inc/customizer/customizer-panel/header.php:263
+#: inc/customizer/customizer-panel/footer.php:140
+msgid "Radius(px)"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/testimonial.php:202
+msgid "Rating"
+msgstr ""
+
+#: welcome/sections/support.php:9
+msgid "Read Full Documentation"
+msgstr ""
+
+#: patterns/service-section-one.php:35 patterns/service-section-one.php:51
+#: patterns/service-section-one.php:67 patterns/service-section-one.php:91
+#: patterns/service-section-one.php:107 patterns/service-section-one.php:123
+#: inc/customizer/customizer-panel/home/blog.php:216
+msgid "Read More"
+msgstr ""
+
+#: section/educenter-section.php:227 section/educenter-section.php:261
+#: section/educenter-section.php:621 section/educenter-section.php:786
+#: template-parts/content.php:47 template-parts/content-search.php:45
+msgid "read more"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/course.php:213
+#: inc/customizer/customizer-panel/home/popular-course.php:179
+msgid "Read More Button"
+msgstr ""
+
+#. Theme Name
+#: welcome/sections/support.php:7
+#, php-format
+msgid ""
+"Read our theme documentation. our documentation contains all the necessary "
+"information required to set up the %s theme with clean screenshout."
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: welcome/sections/getting_started.php:15
+msgid "Recommended Plugin page."
+msgstr ""
+
+#: welcome/welcome.php:27 welcome/sections/recommended_plugins.php:6
+msgid "Recommended Plugins"
+msgstr ""
+
+#: wp-events-manager/shortcodes/form-login.php:22
+msgid "Register now"
+msgstr ""
+
+#: wp-events-manager/shortcodes/form-login.php:17
+msgid "Remember me"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:196
+#: inc/custom-controller/repeater/class-repeater.php:145
+msgid "Remove"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:78
+msgid "Remove Footer Credit Text"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:101
+msgid "Remove footer credit Text"
+msgstr ""
+
+#: inc/custom-controller/group/class-control-group.php:222
+msgid "Remove Image"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:211
+msgid "Repeat"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:171
+msgid "Responsive - Mobile Friendly"
+msgstr ""
+
+#: welcome/sections/footer.php:53
+msgid "Resturant"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/how_it_works.php:136
+#: inc/customizer/customizer-panel/home/cta.php:180
+#: inc/customizer/customizer-panel/home/blog.php:237
+msgid "Right"
+msgstr ""
+
+#: sparklethemes/functions.php:641
+msgid "Right (Default)"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:243
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:242
+msgid "Right Center"
+msgstr ""
+
+#: functions.php:128
+msgid "Right Sidebar Widget Area"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:241
+msgid "Right Top"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:250
+msgid "Scroll"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:155
+msgid "Search Engine Optimization"
+msgstr ""
+
+#. %1$s: search query.
+#: sparklethemes/functions.php:149
+#, php-format
+msgid "Search Results for : %1$s"
+msgstr ""
+
+#. %s: search query.
+#: sparklethemes/functions.php:90
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. %s is the search query.
+#: sparklethemes/breadcrumbs/breadcrumbs.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:96
+msgid "Section reorder"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/common-settings.php:75
+msgid "Section Text Color"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:106
+#: inc/customizer/customizer-panel/home/features.php:97
+#: inc/customizer/customizer-panel/home/counter.php:101
+#: inc/customizer/customizer-panel/home/how_it_works.php:102
+#: inc/customizer/customizer-panel/home/testimonial.php:103
+#: inc/customizer/customizer-panel/home/course.php:99
+#: inc/customizer/customizer-panel/home/popular-course.php:99
+msgid "Section Title & Sub Title"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/cta.php:113
+msgid "Select Call To Action Pages"
+msgstr ""
+
+#: inc/custom-controller/repeater/class-repeater.php:154
+#: inc/customizer/customizer-panel/home/blog.php:150
+msgid "Select Category"
+msgstr ""
+
+#: inc/custom-controller/alpha-color/class-alpha-color.php:108
+msgid "Select Color"
+msgstr ""
+
+#: inc/custom-controller/alpha-color/class-alpha-color.php:107
+msgid "Select default color"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/how_it_works.php:156
+msgid "Select How It Works Type"
+msgstr ""
+
+#: inc/customizer/customizer-panel/social-settings.php:84
+msgid "Select Icon"
+msgstr ""
+
+#: inc/custom-controller/group/class-control-group.php:221
+#: inc/custom-controller/background-control/background-control.php:194
+#: inc/custom-controller/background-control/background-control.php:199
+#: inc/custom-controller/repeater/class-repeater.php:146
+msgid "Select Image"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:79
+msgid "Select Page"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/aboutus.php:136
+msgid "Select Page "
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/features.php:190
+#: inc/customizer/customizer-panel/home/features.php:234
+msgid "Select Services Icon"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/features.php:195
+msgid "Select Services Page"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:131
+msgid "Select Slider Page"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:185
+msgid "SEO Friendly"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:186
+msgid ""
+"SEO refers to search engine optimization, or the process of optimizing a "
+"website so that people can easily find it via search engines like Google."
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/popular-course.php:142
+msgid "Service"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/popular-course.php:148
+msgid "Service Page"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/features.php:135
+msgid "Service Type"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/features.php:181
+msgid "Services Settings"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/features.php:123
+msgid "Services Sub Title"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/features.php:109
+msgid "Services Title"
+msgstr ""
+
+#: inc/customizer/customizer-panel/footer.php:20
+#: inc/customizer/customizer-panel/quick-info.php:23
+msgid "Settings"
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:169
+msgid "Shield"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/how_it_works.php:239
+msgid "Short Description"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:85
+#: inc/customizer/customizer-panel/header-cta.php:209
+#: inc/customizer/customizer-panel/home/aboutus.php:227
+#: inc/customizer/customizer-panel/home/aboutus.php:282
+msgid "Show"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:227
+msgid "Show Bubble Title"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/popular-course.php:194
+msgid "Show Icon"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/events.php:76
+msgid "Show Tab"
+msgstr ""
+
+#: functions.php:161 functions.php:163
+msgid "Sidebar Events"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:92
+msgid "Sidebar Layout Options"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:106
+msgid "Sidebar layout options"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:78
+msgid "Sidebar Sticky"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/aboutus.php:279
+msgid "Signature Blocks"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/aboutus.php:327
+msgid "Signature Image"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:178
+msgid "Site Logo/Title/Tagline"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:212
+msgid "Size"
+msgstr ""
+
+#: sparklethemes/hooks/header.php:12
+msgid "Skip to content"
+msgstr ""
+
+#: inc/options.php:43
+msgid "Slanted Waves"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:267
+#: inc/customizer/customizer-panel/home/course.php:136
+msgid "Slide"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:252
+msgid "Slide End Animation"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:143
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:315
+msgid "Slider Color"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:227
+msgid "Slider Controls"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:185
+msgid "Slider Description"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:357
+msgid "Slider Height, Alignement, Margin, Padding, Radious, Bottom Seprator"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:175
+msgid "Slider Image"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/features.php:152
+msgid "Slider Item"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:169
+msgid "Slider Options"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:124
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:121
+msgid "Slider Settings Area"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:180
+msgid "Slider Title"
+msgstr ""
+
+#: inc/options.php:37
+msgid "Small Triangle Center"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:156
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer/customizer-panel/social-settings.php:78
+msgid "Social Link"
+msgstr ""
+
+#: inc/customizer/customizer-panel/social-settings.php:6
+#: inc/customizer/customizer-panel/social-settings.php:76
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:99
+msgid "Social Media Links"
+msgstr ""
+
+#: wp-events-manager/loop/booking-form.php:98
+msgid "Sold Out"
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: patterns/service-section-one.php:30
+msgid ""
+"Spark Construction Lite is a clean, beautiful, and fully customizable "
+"responsive modern free WordPress business theme, especially for App-related "
+"landing pages."
+msgstr ""
+
+#: sparklethemes/functions.php:339
+msgid "Sparkle Themes"
+msgstr ""
+
+#. Author of the theme
+msgid "sparklewpthemes"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:286
+msgid "Speed"
+msgstr ""
+
+#: wp-events-manager/content-single-event.php:52
+msgid "Start Time"
+msgstr ""
+
+#: wp-events-manager/shortcodes/user-account.php:34
+msgid "Status"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:64
+msgid "Sticky Menu"
+msgstr ""
+
+#: welcome/sections/support.php:14
+msgid ""
+"Still, having problems after reading all the documentation? No Problem!! "
+"Please create a support ticket. Our dedicated support team will help you to "
+"solve your problem."
+msgstr ""
+
+#: patterns/service-section-one.php:58
+msgid "Strategic Planning"
+msgstr ""
+
+#: inc/customizer/customizer-panel/social-settings.php:27
+#: inc/customizer/customizer-panel/top-header.php:34
+#: inc/customizer/customizer-panel/header.php:29
+#: inc/customizer/customizer-panel/footer.php:27
+#: inc/customizer/customizer-panel/quick-info.php:30
+#: inc/customizer/customizer-panel/header-cta.php:46
+#: inc/customizer/customizer-panel/home/team.php:54
+#: inc/customizer/customizer-panel/home/slider.php:34
+#: inc/customizer/customizer-panel/home/features.php:55
+#: inc/customizer/customizer-panel/home/aboutus.php:43
+#: inc/customizer/customizer-panel/home/gallery.php:54
+#: inc/customizer/customizer-panel/home/counter.php:33
+#: inc/customizer/customizer-panel/home/how_it_works.php:53
+#: inc/customizer/customizer-panel/home/testimonial.php:54
+#: inc/customizer/customizer-panel/home/cta.php:39
+#: inc/customizer/customizer-panel/home/course.php:54
+#: inc/customizer/customizer-panel/home/blog.php:40
+#: inc/customizer/customizer-panel/home/popular-course.php:55
+msgid "Style"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:100
+msgid "Style 1"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:101
+msgid "Style 2"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/aboutus.php:126
+#: inc/customizer/customizer-panel/home/counter.php:120
+#: inc/customizer/customizer-panel/home/events.php:47
+#: inc/customizer/customizer-panel/home/testimonial.php:122
+#: inc/customizer/customizer-panel/home/blog.php:119
+msgid "Sub Title"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:116
+#: inc/customizer/customizer-panel/home/how_it_works.php:112
+msgid "Super Title"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/common-settings.php:52
+msgid "Super Title Color"
+msgstr ""
+
+#: welcome/welcome.php:28
+msgid "Support"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:145
+msgid "Support Forum"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/features.php:275
+msgid "Switch betweeen Slide View and List View"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:446
+msgid "Switch Between Boxed and Fullwidth Layout"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/testimonial.php:262
+#: inc/customizer/customizer-panel/home/course.php:277
+msgid "Switch Between List View and Slider"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/aboutus.php:184
+msgid "Tab"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/aboutus.php:181
+msgid "Tabs"
+msgstr ""
+
+#. 1: list of tags.
+#: sparklethemes/core/template-tags.php:70
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:86
+msgid ""
+"Take your visual appearance to the next level choosing from a huge "
+"collection of included fonts. mix and match your font color, size and style "
+"to find the perfect look for your brand."
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:192
+msgid "Team Block"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:242
+msgid "Team Block Style"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:189
+msgid "Team Blocks"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:198
+msgid "Team Page"
+msgstr ""
+
+#: sparklethemes/core/template-functions.php:882
+#: inc/customizer/customizer-panel/header-cta.php:98
+msgid "tel:5592368009"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/testimonial.php:186
+msgid "Testimonial Block"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/testimonial.php:184
+msgid "Testimonial Blocks"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/testimonial.php:249
+msgid "Testimonial Cover Image"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/testimonial.php:192
+msgid "Testimonial Page"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:139
+#: inc/customizer/customizer-panel/home/testimonial.php:4
+msgid "Testimonial Section"
+msgstr ""
+
+#: inc/customizer/customizer-panel/footer.php:235
+msgid "Tet Color, Link Color, Radious and more..."
+msgstr ""
+
+#: inc/customizer/customizer-panel/quick-info.php:135
+msgid "Text Color"
+msgstr ""
+
+#: patterns/service-section-one.php:118
+msgid ""
+"Thank you for your interest in hiring Denver Cleaning Service Company. Our "
+"professional support team is ready to answer your questions with the "
+"customer."
+msgstr ""
+
+#: inc/customizer/customizer-panel/header-cta.php:6
+msgid "The CTA button will show on menu"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:51
+msgid ""
+"The free version has a basic color option but the premium version has "
+"advanced color options that allow customizing the color theme primary colors."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:66
+msgid ""
+"The loading screen that appears until the website is fully loaded. The "
+"premium version has the option to choose from 16 preloaders or add your own "
+"preloader image as well."
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:151
+msgid ""
+"The most profound words will remain unread unless you can keep the learner "
+"engaged. You can't see their eyes to know if they got it so … say it, show "
+"it, write it, demo it and link it to an activity."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:140
+msgid "The premium theme has advance testimonial settings"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:79
+msgid ""
+"The premium version easily allows to remove or change the footer credit text."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:44
+msgid ""
+"The premium version gives the option to choose from 6 header layout. "
+"Additionally, it allows changing the header background color, text color, "
+"header height and more."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:107
+msgid ""
+"The premium version has an option for the Simple slider, Revolution Slider "
+"and Single Banner Image with advanced customization options."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:123
+msgid ""
+"The premium version has custom team member with team detials like positions, "
+"social icon."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:115
+msgid ""
+"The premium Version has enhanced WooCommerce options like adding cart icon "
+"in the menu, product page settings, sidebar layout settings and more."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:93
+msgid ""
+"The premium version has the option to change the sidebar layout universally "
+"or change the sidebar for individual post/page. Moreover, it allows choosing "
+"the sidebar widgets for individual post/page."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:100
+msgid ""
+"The premium version has the option to change the website layout to be full "
+"width or boxed. Additionally, you can set the width of the website container."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:164
+msgid "The website shows good and runs smoothly in all major browsers."
+msgstr ""
+
+#: sparklethemes/starter-content/blog.php:7
+msgctxt "Theme starter content"
+msgid "Blog"
+msgstr ""
+
+#: sparklethemes/starter-content/service.php:7
+msgctxt "Theme starter content"
+msgid "Courses"
+msgstr ""
+
+#: sparklethemes/starter-content/gallery.php:7
+msgctxt "Theme starter content"
+msgid "Gallery"
+msgstr ""
+
+#: sparklethemes/starter-content/home.php:20
+msgctxt "Theme starter content"
+msgid "Home"
+msgstr ""
+
+#: sparklethemes/starter-content/team.php:7
+msgctxt "Theme starter content"
+msgid "Team"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:198
+msgid "Themes Colors Settings"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:228
+msgid "Tile"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:229
+msgid "Tile Horizontally"
+msgstr ""
+
+#: inc/custom-controller/background-control/background-control.php:230
+msgid "Tile Vertically"
+msgstr ""
+
+#: inc/options.php:38
+msgid "Tilt Left"
+msgstr ""
+
+#: inc/options.php:39
+msgid "Tilt Right"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:126
+#: inc/customizer/customizer-panel/home/slider.php:323
+#: inc/customizer/customizer-panel/home/features.php:239
+#: inc/customizer/customizer-panel/home/aboutus.php:261
+#: inc/customizer/customizer-panel/home/counter.php:110
+#: inc/customizer/customizer-panel/home/counter.php:167
+#: inc/customizer/customizer-panel/home/how_it_works.php:121
+#: inc/customizer/customizer-panel/home/how_it_works.php:235
+#: inc/customizer/customizer-panel/home/events.php:36
+#: inc/customizer/customizer-panel/home/testimonial.php:112
+#: inc/customizer/customizer-panel/home/course.php:110
+#: inc/customizer/customizer-panel/home/course.php:121
+#: inc/customizer/customizer-panel/home/blog.php:108
+#: inc/customizer/customizer-panel/home/popular-course.php:110
+#: inc/customizer/customizer-panel/home/popular-course.php:121
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/common-settings.php:64
+msgid "Title Color"
+msgstr ""
+
+#: sparklethemes/hooks/footer.php:25
+msgid "Top"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:110
+msgid "Top Header Left Side"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:124
+msgid "Top Header Right Side"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:6
+msgid "Top Header Settings"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:100
+msgid "Top Menu Nav"
+msgstr ""
+
+#: inc/customizer/customizer-panel/footer.php:176
+#: inc/customizer/customizer-panel/home/common-settings.php:174
+msgid "Top Separator"
+msgstr ""
+
+#: inc/customizer/customizer-panel/footer.php:187
+#: inc/customizer/customizer-panel/home/common-settings.php:185
+msgid "Top Separator Color"
+msgstr ""
+
+#: inc/customizer/customizer-panel/footer.php:205
+#: inc/customizer/customizer-panel/home/common-settings.php:203
+msgid "Top Separator Height (px)"
+msgstr ""
+
+#: wp-events-manager/loop/booking-form.php:31
+msgid "Total Slots"
+msgstr ""
+
+#: section/educenter-section.php:1227
+msgid "TOTAL USER REVIEWS"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:147
+msgid "Translation Ready"
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:99
+msgid "Travel"
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:121
+msgid "Travel & Tourism"
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:174
+msgid "Trophies"
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:64
+msgid "Turn Your Dream Into Reality"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/team.php:213
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/testimonial.php:212
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/cta.php:284
+msgid "Two diffrent layout"
+msgstr ""
+
+#: wp-events-manager/shortcodes/user-account.php:30
+msgid "Type"
+msgstr ""
+
+#: inc/custom-controller/font-awesome-icon/font-awesome-icon.php:52
+#: inc/custom-controller/repeater/class-repeater.php:244
+msgid "Type to filter"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/aboutus.php:210
+#: inc/customizer/customizer-panel/home/counter.php:319
+msgid "Typography Option"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:85
+msgid "Typography Options"
+msgstr ""
+
+#: inc/options.php:40
+msgid "Uniform Waves"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:50
+msgid "Unlimited Color Options"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:8
+msgid "UNLIMITED DOMAIN LICENCE"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:98
+msgid "Unlimited slider with linkable button"
+msgstr ""
+
+#: patterns/service-section-one.php:82
+msgid "Unlock all the possibilities"
+msgstr ""
+
+#: welcome/sections/header.php:25
+msgid "Unlock all the possibilities with Educenter Pro"
+msgstr ""
+
+#: section/educenter-section.php:1281 wp-events-manager/archive-event.php:43
+msgid "Upcoming"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/events.php:64
+msgid "Upcomming Events"
+msgstr ""
+
+#: welcome/sections/header.php:26
+msgid "Upgrade for $59"
+msgstr ""
+
+#: welcome/sections/footer.php:122
+msgid "Upgrade Now"
+msgstr ""
+
+#: sparklethemes/customizer/customizer-pro/class-customize.php:77
+msgid "Upgrade To Educenter Pro"
+msgstr ""
+
+#: welcome/sections/footer.php:118
+msgid "Upgrade To Premium Version (14 Days Money Back Guarantee)"
+msgstr ""
+
+#: inc/custom-controller/group/class-control-group.php:226
+#: inc/custom-controller/repeater/class-repeater.php:192
+#: sparklethemes/customizer/customizer-pro/class-customize.php:137
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:21 welcome/sections/free_vs_pro.php:200
+#: sparklethemes/customizer/customizer-pro/class-customize.php:225
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:22 welcome/sections/free_vs_pro.php:201
+msgid "Upgrade to pro version for additional features and better supports."
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/aboutus.php:162
+msgid "Upload About Features Image"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/counter.php:134
+msgid "Upload Counter BG Image"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/gallery.php:171
+msgid "Upload Gallery Images"
+msgstr ""
+
+#: inc/custom-controller/group/class-control-group.php:221
+#: inc/customizer/customizer-panel/home/how_it_works.php:226
+msgid "Upload Image"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:9
+msgid "Use in as many websites as you need"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/slider.php:260
+msgid "useCSS"
+msgstr ""
+
+#: wp-events-manager/shortcodes/form-login.php:15
+msgid "Username or email"
+msgstr ""
+
+#: inc/customizer/customizer-panel/quick-info.php:93
+msgid "Value"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header.php:155
+#: inc/customizer/customizer-panel/footer.php:97
+#: inc/customizer/customizer-panel/home/common-settings.php:21
+msgid "Video Background(Pro)"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:97
+msgid "Video background, Parallax background"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/cta.php:287
+msgid "Video Option"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:342
+msgid "Video, Gradient, Color Background Option"
+msgstr ""
+
+#: sparklethemes/customizer/customizer-pro/class-customize.php:92
+msgid "View"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/course.php:131
+msgid "View Style"
+msgstr ""
+
+#: inc/options.php:41
+msgid "Water Waves"
+msgstr ""
+
+#: patterns/service-section-one.php:17
+msgid ""
+"We have almost 35+ years of experience in providing consulting services and "
+"solution"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:434
+msgid "Web Page Layout Settings"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:99
+msgid "Website Layout (Fullwidth or Boxed)"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:107
+msgid "Website layout (Fullwidth or Boxed)"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: sparklethemes/breadcrumbs/breadcrumbs.php:278
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: welcome/welcome.php:184
+msgid "Welcome"
+msgstr ""
+
+#. 1-theme name
+#: welcome/sections/header.php:13
+#, php-format
+msgid ""
+"Welcome and thank you for installing %1$s. %2$s is a clean, beautiful and "
+"fully customizable responsive modern free education based WordPress theme. "
+"And of course, the premium version for additional features and better "
+"supports."
+msgstr ""
+
+#. 1-theme name, 2-theme version
+#: welcome/sections/header.php:6
+#, php-format
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:56
+msgid "Welcome To Our University"
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:150
+msgid "WHAT ARE THEY SAYING ABOUT TESTIMONIAL"
+msgstr ""
+
+#: inc/customizer/customizer-panel/header-cta.php:156
+#: inc/customizer/customizer-panel/home/team.php:339
+msgid "Width(px)"
+msgstr ""
+
+#: welcome/sections/footer.php:119
+#, php-format
+msgid ""
+"With %s Pro theme you can create a beautiful website. If you want to unlock "
+"more possibilities then upgrade to the premium version, try the Premium "
+"version and check if it fits your need or not. If not, we have 14 days money-"
+"back guarantee."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:72
+msgid ""
+"With custom widget and Site origin page builder, you can play to create "
+"various website layout."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:36
+msgid ""
+"With one click demo-import, you can install the demo content with just one "
+"click."
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:110
+#: welcome/sections/free_vs_pro.php:114
+msgid "WooCommerce Compatible"
+msgstr ""
+
+#: patterns/service-section-one.php:42
+msgid "Working Environment"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:788
+#: sparklethemes/breadcrumbs/breadcrumbs.php:817
+#: sparklethemes/breadcrumbs/breadcrumbs.php:844
+#: sparklethemes/breadcrumbs/breadcrumbs.php:871
+#: sparklethemes/breadcrumbs/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/customizer/customizer-panel/top-header.php:65
+#: inc/customizer/customizer-panel/header.php:67
+#: inc/customizer/customizer-panel/header.php:81
+#: inc/customizer/customizer-panel/header.php:96
+#: inc/customizer/customizer-panel/footer.php:60
+#: inc/customizer/customizer-panel/quick-info.php:107
+#: inc/customizer/customizer-panel/header-cta.php:19
+#: inc/customizer/customizer-panel/home/team.php:23
+#: inc/customizer/customizer-panel/home/slider.php:64
+#: inc/customizer/customizer-panel/home/features.php:26
+#: inc/customizer/customizer-panel/home/aboutus.php:101
+#: inc/customizer/customizer-panel/home/gallery.php:24
+#: inc/customizer/customizer-panel/home/counter.php:90
+#: inc/customizer/customizer-panel/home/how_it_works.php:22
+#: inc/customizer/customizer-panel/home/events.php:21
+#: inc/customizer/customizer-panel/home/testimonial.php:23
+#: inc/customizer/customizer-panel/home/cta.php:98
+#: inc/customizer/customizer-panel/home/course.php:24
+#: inc/customizer/customizer-panel/home/course.php:216
+#: inc/customizer/customizer-panel/home/blog.php:96
+#: inc/customizer/customizer-panel/home/blog.php:188
+#: inc/customizer/customizer-panel/home/blog.php:208
+#: inc/customizer/customizer-panel/home/popular-course.php:24
+#: inc/customizer/customizer-panel/home/popular-course.php:182
+#: inc/customizer/customizer-panel/home/popular-course.php:197
+msgid "Yes"
+msgstr ""
+
+#. 1: link to login page.
+#: wp-events-manager/shortcodes/user-account.php:19
+#, php-format
+msgid "You are not <a href=\"%1$s\">login</a>"
+msgstr ""
+
+#: welcome/sections/getting_started.php:5
+msgid ""
+"You can setup the home page sections either from Customizer Panel or from "
+"Elementor Pagebuilder"
+msgstr ""
+
+#: wp-events-manager/loop/booking-form.php:104
+msgid "You must login to our site to book this event!"
+msgstr ""
+
+#: wp-events-manager/loop/booking-form.php:82
+msgid "You must set payment setting!"
+msgstr ""
+
+#: sparklethemes/starter-content/init.php:72
+msgid "Your Success Is Our Mission"
+msgstr ""
+
+#: inc/customizer/customizer-panel/home/testimonial.php:217
+msgid "Youtube Url"
+msgstr ""
+
+#: inc/options.php:44
+msgid "Zigzag"
+msgstr ""

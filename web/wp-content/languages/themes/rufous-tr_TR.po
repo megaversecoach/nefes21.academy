@@ -1,0 +1,1580 @@
+# Translation of Themes - Rufous in Turkish
+# This file is distributed under the same license as the Themes - Rufous package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-03-11 16:05:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - Rufous\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Rufous is an innovative,  easily customizable, multi-purpose theme, focused on empowering users to build astonishing WordPress websites. Rufous is mainly designed for small businesses, startups, or personal portfolio websites and works perfectly with Kubio Page Builder which enriches the WordPress block editor with a variety of new blocks and advanced styling options to give you full design freedom."
+msgstr "Rufous kullanıcısına şaşırtıcı WordPress siteleri oluşturma gücü sağlayan, yenilikçi, kolayca özelleştirilebilir ve çok amaçlı bir temadır. Rufous asıl olarak startup veya küçük işletmeler ya da kişisel portföy sayfaları oluşturmak için tasarlanmıştır ve WordPress blok düzenleyicisini yeni bloklar ve gelişmiş stil seçenekleri ile zenginleştirerek sınırsız tasarım özgürlüğü sağlayan Kubio Page Builder eklentisi ile mükemmel uyumlu çalışır."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Rufous"
+msgstr "Rufous"
+
+#: inc/translations.php:253
+msgid "Start with selected design"
+msgstr "Seçilen tasarımla başla"
+
+#: admin/admin-notice-frontpage.php:63
+msgid "Classic"
+msgstr "Klasik"
+
+#: admin/admin-notice-frontpage.php:57
+msgid "Fullscreen"
+msgstr "Tam ekran"
+
+#: admin/admin-notice-frontpage.php:51
+msgid "Modern"
+msgstr "Modern"
+
+#: admin/admin-notice-frontpage.php:44
+msgid "Choose one of the %s predefined designs to start with:"
+msgstr "Başlamak için %s ön tanımlı tasarımdan birini seçin:"
+
+#: template-parts/content/single.php:134
+msgid "32"
+msgstr "32"
+
+#: template-parts/content/single.php:133
+msgid "Comments are closed"
+msgstr "Yorumlar kapalı"
+
+#: template-parts/content/single.php:132
+msgid "{COMMENTS-COUNT} Responses"
+msgstr "{COMMENTS-COUNT} Yanıt"
+
+#: template-parts/content/single.php:131
+msgid "One response"
+msgstr "Bir yanıt"
+
+#: template-parts/content/single.php:130
+msgid "No responses yet"
+msgstr "Henüz yanıt yok"
+
+#: template-parts/content/single.php:80
+msgid "No category"
+msgstr "Kategori yok"
+
+#: template-parts/content/single.php:75
+msgid "CATEGORIES"
+msgstr "KATEGORİLER"
+
+#: template-parts/content/single.php:61
+msgid "No tags"
+msgstr "Etiket yok"
+
+#: template-parts/content/single.php:56
+msgid "TAGS"
+msgstr "ETİKETLER"
+
+#: template-parts/content/index/loop-item.php:49
+#: template-parts/content/search/loop-item.php:49
+msgid "Read more"
+msgstr "Devamı"
+
+#: template-parts/content/index.php:53 template-parts/content/search.php:53
+#: template-parts/content/single.php:116
+msgid "Next"
+msgstr "Sonraki"
+
+#: template-parts/content/index.php:27 template-parts/content/search.php:27
+#: template-parts/content/single.php:99
+msgid "Previous"
+msgstr "Önceki"
+
+#: template-parts/content/404.php:15
+msgid "Go to Homepage!"
+msgstr "Ana sayfaya gidin!"
+
+#: template-parts/content/404.php:9
+msgid "It looks like this page doesn't exist."
+msgstr "Görünen o ki bu sayfa mevcut değil."
+
+#: lib/colibriwp/src/Core/EnableKubioInCustomizerPanel.php:154
+msgid "Activate Kubio"
+msgstr "Kubio'yu etkinleştir"
+
+#: lib/colibriwp/src/Core/EnableKubioInCustomizerPanel.php:150
+msgid "Install Kubio"
+msgstr "Kubio'yu kur"
+
+#: lib/colibriwp/src/Core/EnableKubioInCustomizerPanel.php:139
+msgid "The Kubio plugin takes %1$s to a whole new level by adding new and powerful editing and styling options. Wanna have full control over your design with %1$s?"
+msgstr "Kubio eklentisi, yeni ve güçlü düzenleme ve stil seçenekleri ile %1$s'i apayrı bir seviyeye taşıyor. %1$s ile tasarımınız üzerinde tam kontrole sahip olmak ister misiniz?"
+
+#: lib/colibriwp/src/Components/PageContent.php:116
+msgid "Page"
+msgstr "Sayfa"
+
+#: lib/colibriwp/src/Components/PageContent.php:112
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: inc/translations.php:321
+msgid "*Any of these actions will also install the Kubio Page Builder plugin."
+msgstr "*Bu işlemlerden herhangi biri Kubio Page Builder eklentisini de yükleyecektir."
+
+#: inc/translations.php:319
+msgid "Generate Homepage"
+msgstr "Ana sayfa oluştur"
+
+#: inc/translations.php:318
+msgid "Choose this if you're building a blog or a content website"
+msgstr "Bir blog veya içerik web sitesi oluşturuyorsanız bunu seçin"
+
+#: inc/translations.php:317
+msgid "Latest Blog Posts"
+msgstr "Son blog yazıları"
+
+#: inc/translations.php:316
+msgid "Would you like to generate a new homepage using AI? It's fast & FREE!"
+msgstr "Yapay zeka kullanarak yeni bir ana sayfa oluşturmak ister misiniz? Hızlı ve ÜCRETSİZ!"
+
+#: inc/translations.php:315
+msgid "Choose this if you're building a presentation website"
+msgstr "Bir sunum web sitesi oluşturuyorsanız bunu seçin"
+
+#: inc/translations.php:314
+msgid "Custom Home Page"
+msgstr "Özel ana sayfa"
+
+#: inc/translations.php:313
+msgid "What would you like to display on your front page?"
+msgstr "Ön sayfanızda ne görüntülemek istersiniz?"
+
+#: inc/translations.php:307
+msgid "Undefined sanitize function for control \"%s\""
+msgstr "%s kontrolü için tanımlanmamış temizleme işlevi"
+
+#: inc/translations.php:302
+msgid "Any of these actions will also install the Kubio Page Builder plugin."
+msgstr "Bu işlemlerden herhangi biri Kubio Page Builder eklentisini de yükleyecektir."
+
+#: inc/translations.php:301
+msgid "Contact form and social media integration"
+msgstr "İletişim formu ve sosyal medya entegrasyonu"
+
+#: inc/translations.php:300
+msgid "Matching color scheme and typography"
+msgstr "Eşleşen renk düzeni ve tipografi"
+
+#: inc/translations.php:299
+msgid "Texts and images based on your website subject"
+msgstr "Web sitenizin konusuna göre metinler ve görseller"
+
+#: inc/translations.php:298
+msgid "A homepage customized for your website"
+msgstr "Web siteniz için özelleştirilmiş bir ana sayfa"
+
+#: inc/translations.php:297
+msgid "Add Predefined Section"
+msgstr "Ön tanımlı bölüm ekle"
+
+#: inc/translations.php:296
+msgid "Don't show anymore"
+msgstr "Artık gösterme"
+
+#: inc/translations.php:295
+msgid "Choose footer design"
+msgstr "Alt kısım tasarımını seçin"
+
+#: inc/translations.php:294
+msgid "Choose header design"
+msgstr "Üst kısım tasarımını seçin"
+
+#: inc/translations.php:293
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#: inc/translations.php:291 inc/translations.php:320
+msgid "No thanks, install the default homepage"
+msgstr "Hayır teşekkürler, varsayılan ana sayfayı yükle"
+
+#: inc/translations.php:290
+msgid "Generate homepage with AI"
+msgstr "YZ ile ana sayfa oluşturun"
+
+#: inc/translations.php:289
+msgid "%s uses an AI page generator to create a homepage that is adapted to your website. Here’s what you’ll get:"
+msgstr "%s web sitenize uyarlanmış bir ana sayfa oluşturmak için YZ sayfa oluşturucu kullanır. İşte elde edeceğiniz şey:"
+
+#: inc/translations.php:288
+msgid "Would you like to generate a homepage using AI? It's fast and FREE!"
+msgstr "YZ kullanarak bir ana sayfa oluşturmak ister misiniz? Hızlı ve ÜCRETSİZ!"
+
+#: inc/translations.php:287
+msgid "Preparing Front Page installation"
+msgstr "Ön sayfa kurulumu hazırlanıyor"
+
+#: inc/translations.php:286
+msgid "Activating %s"
+msgstr "%s etkinleştiriliyor"
+
+#: inc/translations.php:285
+msgid "Installing %s"
+msgstr "Yükleniyor %s"
+
+#: inc/translations.php:284
+msgid "Continue"
+msgstr "Devam"
+
+#: inc/translations.php:278
+msgid "%1$s plugin adds drag and drop functionality and many other features to the %2$s theme."
+msgstr "%1$s eklentisi, sürükle ve bırak işlevselliği ve diğer bir çok beceriyi %2$s temasına ekler."
+
+#: inc/translations.php:273
+msgid "%1$s plugin is recommended for the %2$s contact section."
+msgstr "%1$s eklentisi %2$s iletişim bölümü için önerilir."
+
+#: inc/translations.php:271
+msgid "Leave a review"
+msgstr "Bir değerlendirme bırakın"
+
+#: inc/translations.php:267
+msgid "We strive to provide our customers with the best service in our industry, so your feedback is very important to us. We would greatly appreciate it if you would take a few minutes to share your experience with us via this survey."
+msgstr "Müşterilerimize alanımızdaki en iyi servisi sağlamayı hedeflemekteyiz, bu yüzden geri bildiriminiz biçim için çok değerli. Bir kaç dakikanızı ayırıp anket yardımıyla deneyimlerinizi bizimle paylaşırsanız çok memnun oluruz."
+
+#: inc/translations.php:266
+msgid "Leave a Review"
+msgstr "Bir inceleme yapın"
+
+#: inc/translations.php:265
+msgid "Open a support ticket"
+msgstr "Bir destek çağrısı açın"
+
+#: inc/translations.php:261
+msgid "Our technical team is here to help you build an awesome website. We usually answer support issues in less than 1 business day."
+msgstr "Teknik ekibimiz harita bir web sitesi oluşturmanız için yardıma hazır. Genellikle destek isteklerine 1 iş gününden daha kısa sürede cevap veriyoruz."
+
+#: inc/translations.php:260
+msgid "Support"
+msgstr "Destek"
+
+#: inc/translations.php:259
+msgid "Check documentation"
+msgstr "Belgeleri incele"
+
+#: inc/translations.php:255
+msgid "Colibri is easy to learn and master, but you can always check out our documentation to check out features you might have missed."
+msgstr "Colibri öğrenmesi ve ustalaşması kolay bir temadır, fakat her zaman belgelerimizi inceleyerek özellikler arasından bir şey kaçırıp kaçırmadığınıza bakabilirsiniz."
+
+#: inc/translations.php:254
+msgid "Documentation"
+msgstr "Belgeler"
+
+#: inc/translations.php:252
+msgid "Check all demo sites page"
+msgstr "Tüm örnek isteler sayfasını incele"
+
+#: inc/translations.php:251
+msgid "Welcome to %s"
+msgstr "%s temasına hoş geldiniz"
+
+#: inc/translations.php:250
+msgid "Customize"
+msgstr "Özelleştir"
+
+#: inc/translations.php:249
+msgid "Customize menu"
+msgstr "Menüyü özelleştir"
+
+#: inc/translations.php:248
+msgid "Customize fonts"
+msgstr "Yazı tiplerini özelleştir"
+
+#: inc/translations.php:247
+msgid "Change color settings"
+msgstr "Renk ayarlarını değiştir"
+
+#: inc/translations.php:246
+msgid "Customize footer"
+msgstr "Alt kısmı özelleştir"
+
+#: inc/translations.php:245
+msgid "Customize frontpage hero"
+msgstr "Ana sayfa manşet alanını özelleştir"
+
+#: inc/translations.php:244
+msgid "Customize navigation"
+msgstr "Dolaşımı özelleştir"
+
+#: inc/translations.php:243
+msgid "Change the hero image"
+msgstr "Manşet görselini değiştir"
+
+#: inc/translations.php:242
+msgid "Set your logo"
+msgstr "Logonuzu ayarlayın"
+
+#: inc/translations.php:241
+msgid "Links to Customizer Settings"
+msgstr "Özelleştirici ayarlarına bağlantı verir"
+
+#: inc/translations.php:240
+msgid "Recommended plugins"
+msgstr "Önerilen eklentiler"
+
+#: inc/translations.php:239
+msgid "Get Started"
+msgstr "Başlangıç"
+
+#: inc/translations.php:238
+msgid "or"
+msgstr "ya da"
+
+#: inc/translations.php:237
+msgid "Colibri Settings"
+msgstr "Colibri ayarları"
+
+#: inc/translations.php:234
+msgid "Thumbnail placeholder color"
+msgstr "Küçük resim yer tutucu rengi"
+
+#: inc/translations.php:233
+msgid "Show thumbnail placeholder"
+msgstr "Küçük resim yer tutucuyu göster"
+
+#: inc/translations.php:232
+msgid "Enable masonry"
+msgstr "Masonry özelliğini etkinleştir"
+
+#: inc/translations.php:231
+msgid "Show blog sidebar "
+msgstr "Blog kenar çubuğunu göster"
+
+#: inc/translations.php:230
+msgid "Posts per row"
+msgstr "Satır başına yazı"
+
+#: inc/translations.php:226
+msgid "Activate %s"
+msgstr "%s eklentisini etkinleştir"
+
+#: inc/translations.php:225
+msgid "Install %s"
+msgstr "Yükle %s"
+
+#: inc/translations.php:221
+msgid "To enable all the theme features, please install %s plugin"
+msgstr "Tüm tema özelliklerini etkinleştirmek için, lütfen %s eklentisini yükleyin"
+
+#: inc/translations.php:217
+msgid "Read More"
+msgstr "Daha fazlasını oku"
+
+#: inc/translations.php:213
+msgid "Logo above"
+msgstr "Logo üstte"
+
+#: inc/translations.php:212
+msgid "Logo / Nav"
+msgstr "Logo / Dolaşım"
+
+#: inc/translations.php:209
+msgid "Shutter out vertical"
+msgstr "Dikey dışa parçalan"
+
+#: inc/translations.php:208
+msgid "Shutter in vertical"
+msgstr "Dikey içe parçalan"
+
+#: inc/translations.php:207
+msgid "Shutter out horizontal"
+msgstr "Yatay dışa parçalan"
+
+#: inc/translations.php:206
+msgid "Shutter in horizontal"
+msgstr "Yatay içe parçalan"
+
+#: inc/translations.php:205
+msgid "Grow right"
+msgstr "Sağa büyü"
+
+#: inc/translations.php:204
+msgid "Grow left"
+msgstr "Sola büyü"
+
+#: inc/translations.php:203
+msgid "Grow down"
+msgstr "Aşağı büyü"
+
+#: inc/translations.php:202
+msgid "Grow up"
+msgstr "Yukarı büyü"
+
+#: inc/translations.php:200
+msgid "Grow from center"
+msgstr "Merkezden büyü"
+
+#: inc/translations.php:199
+msgid "Grow from right"
+msgstr "Sağdan büyü"
+
+#: inc/translations.php:198
+msgid "Grow from left"
+msgstr "Soldan büyü"
+
+#: inc/translations.php:197
+msgid "Drop out"
+msgstr "Dışarı düşüş"
+
+#: inc/translations.php:196
+msgid "Drop in"
+msgstr "İçeri düşüş"
+
+#: inc/translations.php:194
+msgid "Background"
+msgstr "Arka plan"
+
+#: inc/translations.php:193
+msgid "Double line"
+msgstr "Çift çizgi"
+
+#: inc/translations.php:192
+msgid "Top line"
+msgstr "Üst çizgi"
+
+#: inc/translations.php:191
+msgid "Bottom line"
+msgstr "Alt çizgi"
+
+#: inc/translations.php:188
+msgid "Button hover effect"
+msgstr "Düğme vurgu efekti"
+
+#: inc/translations.php:187
+msgid "Button highlight type"
+msgstr "Düğme vurgu tipi"
+
+#: inc/translations.php:186
+msgid "Mobile, tablet and desktop"
+msgstr "Mobil, tablet ve masaüstü"
+
+#: inc/translations.php:185
+msgid "Mobile and tablet"
+msgstr "Mobil ve tablet"
+
+#: inc/translations.php:184
+msgid "Mobile"
+msgstr "Mobil"
+
+#: inc/translations.php:183
+msgid "Show offscreen menu on"
+msgstr "Ekran dışı menüyü gösterme açık"
+
+#: inc/translations.php:182
+msgid "Edit Menu Structure"
+msgstr "Menü yapısını düzenle"
+
+#: inc/translations.php:181
+msgid "- No menu -"
+msgstr "- Menü yok -"
+
+#: inc/translations.php:180
+msgid "Menu"
+msgstr "Menü"
+
+#: inc/translations.php:177
+msgid "Image with text on the left"
+msgstr "Solunda metin ile beraber görsel"
+
+#: inc/translations.php:176
+msgid "Image with text above"
+msgstr "Üstünde metin ile beraber görsel"
+
+#: inc/translations.php:175
+msgid "Image with text on the right"
+msgstr "Sağında metin ile beraber görsel"
+
+#: inc/translations.php:174
+msgid "Image with text below"
+msgstr "Altında metin ile beraber görsel"
+
+#: inc/translations.php:173
+msgid "Site title text only"
+msgstr "Site başlığı sadece metin"
+
+#: inc/translations.php:172
+msgid "Logo image only"
+msgstr "Sadece logo görseli"
+
+#: inc/translations.php:170
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/translations.php:169
+msgid "Navigation padding"
+msgstr "Dolaşım dolgusu"
+
+#: inc/translations.php:168
+msgid "Alternate logo image"
+msgstr "Alternatif logo görseli"
+
+#: inc/translations.php:167
+msgid "Layout type"
+msgstr "Yerleşim türü"
+
+#: inc/translations.php:164
+msgid "Button align"
+msgstr "Düğme hizalama"
+
+#: inc/translations.php:163
+msgid "Transparent nav"
+msgstr "Şeffaf dolaşım"
+
+#: inc/translations.php:162
+msgid "Full width"
+msgstr "Tam genişlik"
+
+#: inc/translations.php:161
+msgid "Container width"
+msgstr "Kapsayıcı genişliği"
+
+#: inc/translations.php:160
+msgid "Boxed"
+msgstr "Kutulu"
+
+#: inc/translations.php:159
+msgid "Show top bar"
+msgstr "Üst çubukta göster"
+
+#: inc/translations.php:156
+msgid "Text"
+msgstr "Metin"
+
+#: inc/translations.php:155
+msgid "Icon"
+msgstr "Simge"
+
+#: inc/translations.php:154
+msgid "Add Icon"
+msgstr "Simge ekle"
+
+#: inc/translations.php:153
+msgid "Add Item"
+msgstr "Öğe ekle"
+
+#: inc/translations.php:152
+msgid "Icon %s"
+msgstr "Simge %s"
+
+#: inc/translations.php:151
+msgid "Add Field"
+msgstr "Alan ekle"
+
+#: inc/translations.php:150
+msgid "Field %s"
+msgstr "Alan %s"
+
+#: inc/translations.php:149
+msgid "Content Type"
+msgstr "İçerik türü"
+
+#: inc/translations.php:148
+msgid "Social Icons"
+msgstr "Sosyal simgeler"
+
+#: inc/translations.php:147
+msgid "Information Fields"
+msgstr "Bilgi alanları"
+
+#: inc/translations.php:144
+msgid "Show frame shadow"
+msgstr "Çerçeve gölgesini göster"
+
+#: inc/translations.php:143
+msgid "Show frame over image"
+msgstr "Çerçeveyi görselin üstünden göster"
+
+#: inc/translations.php:142
+msgid "Frame thickness"
+msgstr "Çerçeve kalınlığı"
+
+#: inc/translations.php:141
+msgid "Offset top"
+msgstr "Üstten öteleme"
+
+#: inc/translations.php:140
+msgid "Offset left"
+msgstr "Soldan öteleme"
+
+#: inc/translations.php:139
+msgid "Offset"
+msgstr "Ofset"
+
+#: inc/translations.php:138
+msgid "Height"
+msgstr "Yükseklik"
+
+#: inc/translations.php:137
+msgid "Width"
+msgstr "Genişlik"
+
+#: inc/translations.php:136
+msgid "Border"
+msgstr "Kenar"
+
+#: inc/translations.php:134
+msgid "Frame options"
+msgstr "Çerçeve seçenekleri"
+
+#: inc/translations.php:133
+msgid "Blur"
+msgstr "Buğula"
+
+#: inc/translations.php:132
+msgid "Spread"
+msgstr "Yay"
+
+#: inc/translations.php:131
+msgid "Vertical"
+msgstr "Dikey"
+
+#: inc/translations.php:130
+msgid "Horizontal"
+msgstr "Yatay"
+
+#: inc/translations.php:129
+msgid "Box shadow"
+msgstr "Kutu gölgesi"
+
+#: inc/translations.php:126
+msgid "Text column width"
+msgstr "Metin sütun genişliği"
+
+#: inc/translations.php:125
+msgid "Full Height"
+msgstr "Tam yükseklik"
+
+#: inc/translations.php:124
+msgid "Spacing bottom"
+msgstr "Alt boşluk"
+
+#: inc/translations.php:123
+msgid "Spacing top"
+msgstr "Üst boşluk"
+
+#: inc/translations.php:122
+msgid "Align"
+msgstr "Hizala"
+
+#: inc/translations.php:121
+msgid "Icons"
+msgstr "Simgeler"
+
+#: inc/translations.php:120
+msgid "Link"
+msgstr "Bağlantı"
+
+#: inc/translations.php:119
+msgid "Label"
+msgstr "Etiket"
+
+#: inc/translations.php:118
+msgid "Secondary Button"
+msgstr "İkincil tuş"
+
+#: inc/translations.php:117
+msgid "Primary Button"
+msgstr "Birincil düğme"
+
+#: inc/translations.php:116
+msgid "Button Type"
+msgstr "Düğme türü"
+
+#: inc/translations.php:115
+msgid "Buttons"
+msgstr "Butonlar"
+
+#: inc/translations.php:114
+msgid "Add Button"
+msgstr "Düğme ekle"
+
+#: inc/translations.php:113
+msgid "Button"
+msgstr "Düğme"
+
+#: inc/translations.php:112
+msgid "Text width"
+msgstr "Metin genişliği"
+
+#: inc/translations.php:111
+msgid "Subtitle"
+msgstr "Alt başlık"
+
+#: inc/translations.php:110
+msgid "Title"
+msgstr "Başlık"
+
+#: inc/translations.php:109
+msgid "Show Subtitle"
+msgstr "Altyazıyı göster"
+
+#: inc/translations.php:108
+msgid "Show Title"
+msgstr "Başlık Görüntüle"
+
+#: inc/translations.php:107
+msgid "Text with media on left"
+msgstr "Ortam solda yer alan metin"
+
+#: inc/translations.php:106
+msgid "Text with media on right"
+msgstr "Ortam sağda yer alan metin"
+
+#: inc/translations.php:105
+msgid "Text only"
+msgstr "Sadece metin"
+
+#: inc/translations.php:104
+msgid "Hero layout"
+msgstr "Manşet düzeni"
+
+#: inc/translations.php:101
+msgid "Overlay Shape"
+msgstr "Örtü şekli"
+
+#: inc/translations.php:100
+msgid "Shape Light"
+msgstr "Şekil ışığı"
+
+#: inc/translations.php:99
+msgid "Right Tilted Strips"
+msgstr "Sağa yatırılmış şeritler"
+
+#: inc/translations.php:98
+msgid "Right Tilted Lines"
+msgstr "Sağa yatırılmış çizgiler"
+
+#: inc/translations.php:97
+msgid "Left Tilted Lines"
+msgstr "Sol yatırılmış çizgiler"
+
+#: inc/translations.php:96
+msgid "Dots"
+msgstr "Noktalar"
+
+#: inc/translations.php:95
+msgid "Waves Inverted"
+msgstr "Ters dalgalar"
+
+#: inc/translations.php:94
+msgid "Waves"
+msgstr "Dalgalar"
+
+#: inc/translations.php:93
+msgid "Circles White Gradient"
+msgstr "Çemberler beyaz gradyan"
+
+#: inc/translations.php:92
+msgid "Circles Gradient"
+msgstr "Çemberler gradyan"
+
+#: inc/translations.php:91
+msgid "Circles 3"
+msgstr "Çemberler 3"
+
+#: inc/translations.php:90
+msgid "Circles 2"
+msgstr "Çemberler 2"
+
+#: inc/translations.php:89
+msgid "Two Circles"
+msgstr "İki çember"
+
+#: inc/translations.php:88
+msgid "Many Rounded Squares Blue"
+msgstr "Birçok yuvarlatılmış kare mavi"
+
+#: inc/translations.php:87
+msgid "Rounded Square Blue"
+msgstr "Yuvarlatışmış kare mavi"
+
+#: inc/translations.php:86
+msgid "10deg Stripes"
+msgstr "10 derece çizgili"
+
+#: inc/translations.php:85
+msgid "Circles"
+msgstr "Çemberler"
+
+#: inc/translations.php:84
+msgid "Opacity"
+msgstr "Opaklık"
+
+#: inc/translations.php:83
+msgid "Shape Only"
+msgstr "Sadece şekil"
+
+#: inc/translations.php:82
+msgid "Overlay Type"
+msgstr "Örtü tipi"
+
+#: inc/translations.php:81
+msgid "Show Background Overlay"
+msgstr "Arka plan örtüsünü göster"
+
+#: inc/translations.php:80
+msgid "Youtube link"
+msgstr "Youtube bağlantısı"
+
+#: inc/translations.php:79
+msgid "Video Poster"
+msgstr "Video posteri"
+
+#: inc/translations.php:78
+msgid "External"
+msgstr "Harici"
+
+#: inc/translations.php:77
+msgid "Self Hosted Video"
+msgstr "Kendi sunucunuzdaki video"
+
+#: inc/translations.php:76
+msgid "Self Hosted"
+msgstr "Sizin barındırdığınız"
+
+#: inc/translations.php:75
+msgid "Video type"
+msgstr "Video türü"
+
+#: inc/translations.php:74
+msgid "Effect Speed"
+msgstr "Efekt hızı"
+
+#: inc/translations.php:73
+msgid "Slide Duration"
+msgstr "Slayt süresi"
+
+#: inc/translations.php:72
+msgid "Contain"
+msgstr "Doldur"
+
+#: inc/translations.php:71
+msgid "Cover"
+msgstr "Kapak"
+
+#: inc/translations.php:70
+msgid "Auto"
+msgstr "Otomatik"
+
+#: inc/translations.php:69
+msgid "Repeat %s"
+msgstr "Tekrarla %s"
+
+#: inc/translations.php:68
+msgid "Do not repeat"
+msgstr "Tekrar etme"
+
+#: inc/translations.php:67
+msgid "Size"
+msgstr "Boyut"
+
+#: inc/translations.php:66
+msgid "Fixed"
+msgstr "Sabit"
+
+#: inc/translations.php:65
+msgid "Scroll"
+msgstr "Kaydırma"
+
+#: inc/translations.php:64
+msgid "Attachment"
+msgstr "Ek"
+
+#: inc/translations.php:63
+msgid "Bottom Right"
+msgstr "Alt sağ"
+
+#: inc/translations.php:62
+msgid "Bottom Center"
+msgstr "Alt orta"
+
+#: inc/translations.php:61
+msgid "Bottom Left"
+msgstr "Alt sol"
+
+#: inc/translations.php:60
+msgid "Center Right"
+msgstr "Orta sağ"
+
+#: inc/translations.php:59
+msgid "Center Center"
+msgstr "Tam orta"
+
+#: inc/translations.php:58
+msgid "Center Left"
+msgstr "Orta sol"
+
+#: inc/translations.php:57
+msgid "Top Right"
+msgstr "Sağ üst"
+
+#: inc/translations.php:56
+msgid "Top Center"
+msgstr "Üst orta"
+
+#: inc/translations.php:55
+msgid "Top Left"
+msgstr "Sol üst"
+
+#: inc/translations.php:52
+msgid "Position"
+msgstr "Konum"
+
+#: inc/translations.php:51
+msgid "Add Slide"
+msgstr "Slayt ekle"
+
+#: inc/translations.php:50
+msgid "Slide %s"
+msgstr "Slayt %s"
+
+#: inc/translations.php:49
+msgid "Remove"
+msgstr "Kaldır"
+
+#: inc/translations.php:48
+msgid "Add"
+msgstr "Ekle"
+
+#: inc/translations.php:47
+msgid "None"
+msgstr "Hiç biri"
+
+#: inc/translations.php:46
+msgid "Clear"
+msgstr "Temizle"
+
+#: inc/translations.php:45
+msgid "OK"
+msgstr "Tamam"
+
+#: inc/translations.php:44
+msgid "Select image"
+msgstr "Görsel seç"
+
+#: inc/translations.php:43
+msgid "Select item"
+msgstr "Öğeyi seç"
+
+#: inc/translations.php:42 resources/react/black-wizard/index.js:2699
+msgid "Select"
+msgstr "Seç"
+
+#: inc/translations.php:39
+msgid "Tilt Flipped"
+msgstr "Çevirip eğ"
+
+#: inc/translations.php:38
+msgid "Tilt"
+msgstr "Eğ"
+
+#: inc/translations.php:36
+msgid "Divider negative"
+msgstr "Ayırıcı negatif"
+
+#: inc/translations.php:35
+msgid "Divider height"
+msgstr "Ayırıcı yüksekliği"
+
+#: inc/translations.php:34
+msgid "Divider style"
+msgstr "Ayırıcı biçemi"
+
+#: inc/translations.php:33
+msgid "Show bottom divider"
+msgstr "Alt ayırıcıyı göster"
+
+#: inc/translations.php:30
+msgid "Video"
+msgstr "Video"
+
+#: inc/translations.php:29
+msgid "Slideshow"
+msgstr "Slayt gösterisi"
+
+#: inc/translations.php:28
+msgid "Gradient"
+msgstr "Gradyan"
+
+#: inc/translations.php:27
+msgid "Image"
+msgstr "Görsel"
+
+#: inc/translations.php:26
+msgid "Color"
+msgstr "Renk"
+
+#: inc/translations.php:25
+msgid "Background Image"
+msgstr "Arka plan görseli"
+
+#: inc/translations.php:24
+msgid "Background Color"
+msgstr "Arka plan rengi"
+
+#: inc/translations.php:23
+msgid "Background Type"
+msgstr "Arka plan tipi"
+
+#: inc/translations.php:20
+msgid "Advanced"
+msgstr "Gelişmiş"
+
+#: inc/translations.php:19
+msgid "Style"
+msgstr "Stil"
+
+#: inc/translations.php:17
+msgid "Blog Settings"
+msgstr "Blog ayarları"
+
+#: inc/translations.php:16
+msgid "Footer Settings"
+msgstr "Alt bölüm ayarları"
+
+#: inc/translations.php:15
+msgid "Hero Settings"
+msgstr "Manşet ayarları"
+
+#: inc/translations.php:14
+msgid "Navigation Settings"
+msgstr "Dolaşım ayarları"
+
+#: inc/translations.php:13
+msgid "Top Bar Settings"
+msgstr "Üst çubuk ayarları"
+
+#: inc/translations.php:12
+msgid "Content Settings"
+msgstr "İçerik ayarları"
+
+#: inc/translations.php:11 inc/translations.php:18
+msgid "Content"
+msgstr "İçerik"
+
+#: inc/translations.php:10
+msgid "Footer"
+msgstr "Dip"
+
+#: inc/translations.php:9
+msgid "Header"
+msgstr "Başlık"
+
+#: inc/translations.php:8
+msgid "Help"
+msgstr "Yardım"
+
+#: inc/translations.php:7
+msgid "Back"
+msgstr "Geri"
+
+#: inc/translations.php:6
+msgid "Press return or enter to open this section"
+msgstr "Bu bölümü açmak için enter tuşuna basın"
+
+#: inc/template-functions.php:52
+msgid "Search Results for &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; için arama sonuçları"
+
+#: inc/template-functions.php:50
+msgid "Page not found"
+msgstr "Sayfa bulunamadı"
+
+#: inc/template-functions.php:18
+msgid "Created with ❤️ using WordPress and %s"
+msgstr "WordPress ve %s kullanılarak ❤️ ile oluşturuldu"
+
+#: lib/colibriwp/src/Components/FrontHeader/Title.php:46
+#: lib/kubio-themebase/src/Components/FrontHeader/Title.php:42
+msgid "Discover Nature"
+msgstr "Nature'u keşftet"
+
+#: lib/colibriwp/src/Components/FrontHeader/ButtonsGroup.php:23
+msgid "Contact us"
+msgstr "Bize ulaşın"
+
+#: lib/colibriwp/src/Components/FrontHeader/ButtonsGroup.php:22
+msgid "Start Your Journey"
+msgstr "Yolculuğunuza başlayın"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3778
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti %1$s (%2$d/%3$d) kuruluyor"
+
+#: inc/class-tgm-plugin-activation.php:3773
+msgid "All installations have been completed."
+msgstr "Tüm kurulumlar tamamlandı."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3763
+msgid "%1$s installed successfully."
+msgstr "%1$s başarıyla kuruldu."
+
+#: inc/class-tgm-plugin-activation.php:3758
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Kurulum işlemi başlıyor. Bu işlem, bazı ana bilgisayarlarda zaman alabilir, bu yüzden sabırlı olunuz."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3752
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti %1$s (%2$d/%3$d) kuruluyor ve etkinleştiriliyor"
+
+#: inc/class-tgm-plugin-activation.php:3747
+msgid "All installations and activations have been completed."
+msgstr "Tüm kurulum ve etkinleştirmeler tamamlandı."
+
+#: inc/class-tgm-plugin-activation.php:3743
+#: inc/class-tgm-plugin-activation.php:3769
+msgid "Hide Details"
+msgstr "Detayları gizle"
+
+#: inc/class-tgm-plugin-activation.php:3740
+#: inc/class-tgm-plugin-activation.php:3766
+msgid "Show Details"
+msgstr "Detayları göster"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3737
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s başarıyla kuruldu ve etkinleştirildi."
+
+#: inc/class-tgm-plugin-activation.php:3732
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Kurulum ve etkinleştirme işlemi başlıyor. Bu işlem, bazı ana bilgisayarlarda zaman alabilir, bu yüzden sabırlı olunuz."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3725
+msgid "The installation of %1$s failed."
+msgstr "%1$s kurulumu başarısız oldu."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3720
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s kurulurken bir hata oluştu: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3714
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti güncelleştiriliyor %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3365
+msgid "Plugin activation failed."
+msgstr "Eklenti etkinleştirmesi başarısız oldu."
+
+#: inc/class-tgm-plugin-activation.php:3119
+msgid "No plugins are available to be activated at this time."
+msgstr "Şu an için etkinleştirilebilecek eklenti bulunmamakta."
+
+#: inc/class-tgm-plugin-activation.php:3090
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Etkinleştirilmek üzere eklenti seçilmedi. Herhangi bir eylemde bulunulmadı."
+
+#: inc/class-tgm-plugin-activation.php:2978
+msgid "No plugins are available to be updated at this time."
+msgstr "Şu an için güncellenecek eklenti bulunmamakta."
+
+#: inc/class-tgm-plugin-activation.php:2976
+msgid "No plugins are available to be installed at this time."
+msgstr "Şu an için yüklenebilecek eklenti bulunmamakta."
+
+#: inc/class-tgm-plugin-activation.php:2935
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Güncellenmek üzere eklenti seçilmedi. Hiç bir eylem gerçekleştirilmedi."
+
+#: inc/class-tgm-plugin-activation.php:2933
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Yüklenmek üzere eklenti seçilmedi. Hiç bir eylem gerçekleştirilmedi."
+
+#: inc/class-tgm-plugin-activation.php:2902 inc/translations.php:282
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: inc/class-tgm-plugin-activation.php:2899
+msgid "Update"
+msgstr "Güncelle"
+
+#: inc/class-tgm-plugin-activation.php:2893 inc/translations.php:283
+msgid "Install"
+msgstr "Kur"
+
+#: inc/class-tgm-plugin-activation.php:2861
+msgid "Upgrade message from the plugin author:"
+msgstr "Eklenti geliştiricisinden güncelleme mesajı:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2784
+msgid "Activate %2$s"
+msgstr "%2$s etkinleştir"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2778
+msgid "Update %2$s"
+msgstr "%2$s güncelle"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2773
+msgid "Install %2$s"
+msgstr "%2$s yükle"
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Status"
+msgstr "Durum"
+
+#: inc/class-tgm-plugin-activation.php:2725
+msgid "Version"
+msgstr "Sürüm"
+
+#: inc/class-tgm-plugin-activation.php:2721 inc/translations.php:135
+msgid "Type"
+msgstr "Tip"
+
+#: inc/class-tgm-plugin-activation.php:2720
+msgid "Source"
+msgstr "Kaynak"
+
+#: inc/class-tgm-plugin-activation.php:2719
+msgid "Plugin"
+msgstr "Eklenti"
+
+#: inc/class-tgm-plugin-activation.php:2700
+msgid "No plugins to install, update or activate."
+msgstr "Kurulacak, güncellenecek ya da etkinleştirilecek hiç bir eklenti yok."
+
+#: inc/class-tgm-plugin-activation.php:2674
+msgid "Available version:"
+msgstr "Uygun sürüm:"
+
+#: inc/class-tgm-plugin-activation.php:2655
+msgid "Minimum required version:"
+msgstr "Gerekli en küçük sürüm:"
+
+#: inc/class-tgm-plugin-activation.php:2644
+msgid "Installed version:"
+msgstr "Yüklü sürüm:"
+
+#: inc/class-tgm-plugin-activation.php:2632
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "bilinmiyor"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2545
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Etkinleştirilecek <span class=\"count\">(%s)</span>"
+msgstr[1] "Etkinleştirilecek <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2536
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Güncelleme yayınlanmış <span class=\"count\">(%s)</span>"
+msgstr[1] "Güncelleme yayınlanmış <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2527
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Kurulacak <span class=\"count\">(%s)</span>"
+msgstr[1] "Kurulacak <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2517
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tümü <span class=\"count\">(%s)</span>"
+msgstr[1] "Tümü <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2472
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2463
+msgid "Update recommended"
+msgstr "Güncelleme öneriliyor"
+
+#: inc/class-tgm-plugin-activation.php:2460
+msgid "Requires Update"
+msgstr "Güncelleme gerektirir"
+
+#: inc/class-tgm-plugin-activation.php:2457
+msgid "Required Update not Available"
+msgstr "Gerekli güncelleme uygun değil"
+
+#: inc/class-tgm-plugin-activation.php:2451 inc/translations.php:292
+msgid "Active"
+msgstr "Etkinleştir"
+
+#: inc/class-tgm-plugin-activation.php:2449
+msgid "Installed But Not Activated"
+msgstr "Kurulmuş ancak etkinleştirilmemiş"
+
+#: inc/class-tgm-plugin-activation.php:2445
+msgid "Not Installed"
+msgstr "Kurulmamış"
+
+#: inc/class-tgm-plugin-activation.php:2428
+msgid "Pre-Packaged"
+msgstr "Önceden paketlenmiş"
+
+#: inc/class-tgm-plugin-activation.php:2425
+msgid "External Source"
+msgstr "Dış kaynak"
+
+#: inc/class-tgm-plugin-activation.php:2422
+msgid "WordPress Repository"
+msgstr "WordPress Veri Havuzu"
+
+#: inc/class-tgm-plugin-activation.php:2406
+msgid "Recommended"
+msgstr "Tavsiye edilen"
+
+#: inc/class-tgm-plugin-activation.php:2403
+msgid "Required"
+msgstr "Gerekli"
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:2099
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:1207
+#: inc/class-tgm-plugin-activation.php:3139
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "ve"
+
+#: inc/class-tgm-plugin-activation.php:998
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Uzaktaki eklenti paketi birden çok dosya içeriyor fakat dosyalar bir klasör içinde değiller."
+
+#: inc/class-tgm-plugin-activation.php:985
+#: inc/class-tgm-plugin-activation.php:1001
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Lütfen eklenti geliştiricisi ile iletişime geçip eklentisini WordPress kurallarına uygun paketlemesi gerektiğini iletin."
+
+#: inc/class-tgm-plugin-activation.php:982
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Uzaktaki eklenti paketi olması gereken kısa isimle bir klasör içermiyor ve isim değiştirme işe yaramadı."
+
+#: inc/class-tgm-plugin-activation.php:547
+msgid "Update Required"
+msgstr "Güncelleme gerekiyor"
+
+#: inc/class-tgm-plugin-activation.php:546
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Temanız ile uyumlu olabilmesi için bu eklentinin güncellenmesi gerekiyor."
+
+#: inc/class-tgm-plugin-activation.php:411
+msgid "Please contact the administrator of this site for help."
+msgstr "Lütfen yardım için bu sitenin yöneticisi ile iletişim kurun."
+
+#: inc/class-tgm-plugin-activation.php:407
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Yüklenecek, güncellenecek veya etkinleştirilmesi gerekli veya önerilen bir ya da daha fazla eklenti var."
+
+#: inc/class-tgm-plugin-activation.php:406
+msgid "Dismiss this notice"
+msgstr "Bu uyarıyı yoksay"
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:402
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tüm eklentiler başarıyla kuruldu ve etkinleştirildi. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Eklenti etkinleştirilmedi. Bu tema için %s eklentisinin daha yeni bir sürümü gerekiyor. Lütfen eklentiyi güncelleyin."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:392
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Hiç bir eylem yapılmadı. %1$s eklentisi zaten etkin."
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3148
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Şu eklenti başarıyla etkinleştirildi:"
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:3366
+msgid "Plugin activated successfully."
+msgstr "Eklenti başarıyla etkinleştirildi."
+
+#: inc/class-tgm-plugin-activation.php:385
+#: inc/class-tgm-plugin-activation.php:869
+#: inc/class-tgm-plugin-activation.php:2703
+#: inc/class-tgm-plugin-activation.php:3841
+msgid "Return to the Dashboard"
+msgstr "Başlangıca dön"
+
+#: inc/class-tgm-plugin-activation.php:384
+msgid "Return to Required Plugins Installer"
+msgstr "Gerekli eklenti kurulumuna dön"
+
+#: inc/class-tgm-plugin-activation.php:379
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Eklentiyi etkinleştirmeye başlayın"
+msgstr[1] "Eklentileri etkinleştirmeye başlayın"
+
+#: inc/class-tgm-plugin-activation.php:374
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Eklentiyi güncelleştirmeye başla"
+msgstr[1] "Eklentileri güncelleştirmeye başla"
+
+#: inc/class-tgm-plugin-activation.php:369
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Eklenti kurulumuna başlayın"
+msgstr[1] "Eklentilerin kurulumuna başlayın"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:363
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Aşağıdaki önerilen eklenti şu anda etkin değil:%1$s."
+msgstr[1] "Aşağıdaki önerilen eklentiler şu anda etkin değil: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:357
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Aşağıdaki zorunlu eklenti şu anda etkin değil:%1$s."
+msgstr[1] "Aşağıdaki zorunlu eklentiler şu anda etkin değil: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:351
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "%1$s için bir güncelleme var."
+msgstr[1] "Aşağıdaki eklentiler için güncellemeler mevcut: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:345
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Aşağıdaki eklentinin bu temayla en yüksek uyumluluğu sağlamak için en son sürümüne güncellenmesi gerekiyor: %1$s."
+msgstr[1] "Eklentileri güncellemeniz gerekmektedir %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:339
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Bu tema aşağıdaki eklentiyi önermektedir:%1$s."
+msgstr[1] "Bu tema aşağıdaki eklentileri önermektedir: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:333
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Bu tema aşağıdaki eklentiyi gerektirir:%1$s."
+msgstr[1] "Bu tema aşağıdaki eklentileri gerektirir: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:332
+msgid "Something went wrong with the plugin API."
+msgstr "Eklenti API'siyle ilgili bir şeyler yanlış gitti."
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:331
+msgid "Updating Plugin: %s"
+msgstr "Eklentiler güncelleniyor: %s"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:329
+msgid "Installing Plugin: %s"
+msgstr "Eklenti Kuruluyor: %s"
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Plugins"
+msgstr "Eklenti Kur"
+
+#: inc/class-tgm-plugin-activation.php:326
+msgid "Install Required Plugins"
+msgstr "Gerekli eklentileri kur"
+
+#: functions.php:367
+msgid "View site"
+msgstr "Siteyi görüntüle"
+
+#: functions.php:358
+msgid "%s design has been successfully imported! You can take a look at your new design or start editing it"
+msgstr "%s tasarımı başarıyla içe aktarıldı. Yeni tasarıma göz gezdirebilir veya düzenlemeye başlayabilirsiniz."
+
+#: functions.php:348
+msgid "%s design has been successfully imported!"
+msgstr "%s tasarımı başarıyla içe aktarıldı."
+
+#: functions.php:242
+msgid "Kubio"
+msgstr "Kubio"
+
+#: functions.php:242
+msgid "Kubio PRO"
+msgstr "Kubio PRO"
+
+#: functions.php:136
+msgid "Footer Menu"
+msgstr "Alt kısım menüsü"
+
+#: functions.php:135
+msgid "Header Menu"
+msgstr "Üst kısım menüsü"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı."
+
+#: comments.php:59
+msgid "Newer Comments"
+msgstr "Yeni yorumlar"
+
+#: comments.php:43
+msgid "Older Comments"
+msgstr "Eski yorumlar"
+
+#: comments.php:16
+msgid "% Responses"
+msgstr "% cevap"
+
+#: comments.php:15
+msgid "One Response"
+msgstr "Bir cevap"
+
+#: comments.php:14
+msgid "No Responses"
+msgstr "Yanıt yok"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://kubiobuilder.com"
+msgstr "https://kubiobuilder.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Extend Themes"
+msgstr "Extend Themes"

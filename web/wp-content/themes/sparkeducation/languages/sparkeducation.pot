@@ -1,0 +1,178 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SparkEducation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-30 06:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Domain: sparkeducation"
+
+#: functions.php:138
+msgid "Add widgets here footer widget"
+msgstr ""
+
+#: functions.php:136
+msgid "Footer Widget Area"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://sparklewpthemes.com"
+msgstr ""
+
+#. URI of the theme
+msgid ""
+"https://sparklewpthemes.com/wordpress-themes/sparkeducation-free-lms-"
+"education-theme/"
+msgstr ""
+
+#: patterns/about.php:2
+msgctxt "Pattern title"
+msgid "About Us"
+msgstr ""
+
+#: patterns/breadcrumb.php:2
+msgctxt "Pattern title"
+msgid "Breadcrumb"
+msgstr ""
+
+#: patterns/call-to-action-join.php:2
+msgctxt "Pattern title"
+msgid "Call To Action"
+msgstr ""
+
+#: patterns/category.php:2
+msgctxt "Pattern title"
+msgid "Category"
+msgstr ""
+
+#: patterns/counter.php:2
+msgctxt "Pattern title"
+msgid "Counter"
+msgstr ""
+
+#: patterns/courses.php:2
+msgctxt "Pattern title"
+msgid "Course"
+msgstr ""
+
+#: patterns/cta.php:2
+msgctxt "Pattern title"
+msgid "CTA"
+msgstr ""
+
+#: patterns/facility.php:2
+msgctxt "Pattern title"
+msgid "Facility"
+msgstr ""
+
+#: patterns/facility-list.php:2
+msgctxt "Pattern title"
+msgid "Facility List"
+msgstr ""
+
+#: patterns/footer.php:2
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/hero.php:2
+msgctxt "Pattern title"
+msgid "Hero"
+msgstr ""
+
+#: patterns/newslater.php:2
+msgctxt "Pattern title"
+msgid "News Later"
+msgstr ""
+
+#: patterns/sidebar.php:2
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/team.php:2
+msgctxt "Pattern title"
+msgid "Team"
+msgstr ""
+
+#: patterns/team-details.php:2
+msgctxt "Pattern title"
+msgid "Team Detail"
+msgstr ""
+
+#: patterns/team-list.php:2
+msgctxt "Pattern title"
+msgid "Team Member"
+msgstr ""
+
+#: patterns/testimonials.php:2
+msgctxt "Pattern title"
+msgid "Testimonials"
+msgstr ""
+
+#: starter-content/init.php:14
+msgid "Primary Menu"
+msgstr ""
+
+#. Name of the theme
+#: functions.php:114
+msgid "SparkEducation"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"SparkEducation is lightweight education WordPress theme. The theme builds "
+"with a focus on speed and Full Site Editing usability. Performance is very "
+"important to us so we include default Gutenberg blocks features with counter,"
+" progress bar, icon, and more. The theme includes more than 15 patterns that "
+"help you to build a site in one click. The theme is fully compatible with "
+"LearnPress plugin so you can create an online education Portal, and sell "
+"your course online. Also, it’s fully responsive so you don’t have to worry "
+"about the mobile and tablet design. Check demo at http: //demo."
+"sparklewpthemes.com/educenter/sparkedu and theme details at https: "
+"//sparklewpthemes.com/wordpress-themes/sparkeducation-free-lms-education-"
+"theme/ and get free support forum at https://sparklewpthemes.com/support/"
+msgstr ""
+
+#. Author of the theme
+msgid "sparklewpthemes"
+msgstr ""
+
+#: starter-content/blog.php:7
+msgctxt "Theme starter content"
+msgid "Blog"
+msgstr ""
+
+#: starter-content/service.php:7
+msgctxt "Theme starter content"
+msgid "Courses"
+msgstr ""
+
+#: starter-content/facility.php:7
+msgctxt "Theme starter content"
+msgid "Facility"
+msgstr ""
+
+#: starter-content/home.php:23
+msgctxt "Theme starter content"
+msgid "Home"
+msgstr ""
+
+#: starter-content/team.php:7
+msgctxt "Theme starter content"
+msgid "Team"
+msgstr ""
+
+#: starter-content/team-detail.php:7
+msgctxt "Theme starter content"
+msgid "Team Detail"
+msgstr ""

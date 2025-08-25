@@ -1,0 +1,3355 @@
+# Translation of Plugins - BetterDocs – Best Documentation, FAQ &amp; Knowledge Base Plugin with AI Support - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - BetterDocs – Best Documentation, FAQ &amp; Knowledge Base Plugin with AI Support - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-19 11:11:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - BetterDocs – Best Documentation, FAQ &amp; Knowledge Base Plugin with AI Support - Stable (latest release)\n"
+
+#: includes/Editors/BlockEditor.php:128
+msgid "Betterdocs"
+msgstr "Betterdocs"
+
+#: includes/Admin/PostsTable.php:452
+msgid "Export as JSON"
+msgstr "JSON olarak dışa aktar"
+
+#. translators: %s: Post title.
+#: includes/Admin/PostsTable.php:431
+msgid "Preview &#8220;%s&#8221;"
+msgstr "Önizle &#8220;%s&#8221;"
+
+#: includes/Admin/PostsTable.php:432
+msgid "Preview"
+msgstr "Önizle"
+
+#: includes/Admin/PostsTable.php:418
+msgid "Delete Permanently"
+msgstr "Kalıcı olarak sil"
+
+#. translators: %s: Post title.
+#: includes/Admin/PostsTable.php:417
+msgid "Delete &#8220;%s&#8221; permanently"
+msgstr "Kalıcı olarak &#8220;%s&#8221; sil"
+
+#: includes/Admin/PostsTable.php:409
+msgctxt "verb"
+msgid "Trash"
+msgstr "Çöpe At"
+
+#: includes/Admin/PostsTable.php:401
+msgid "Restore"
+msgstr "Geri alın"
+
+#: views/admin/docs-ui/classic-partials/status.php:12
+msgid "Inherit"
+msgstr "Inherit"
+
+#: views/admin/docs-ui/classic-partials/status.php:11
+msgid "Private"
+msgstr "Gizli"
+
+#: views/admin/docs-ui/classic-partials/status.php:10
+msgid "Future"
+msgstr "Gelecek"
+
+#: views/admin/docs-ui/classic-partials/status.php:9
+msgid "Auto Draft"
+msgstr "Otomatik Taslak"
+
+#: views/admin/docs-ui/classic-partials/status.php:8
+msgid "Draft"
+msgstr "Taslak"
+
+#: views/admin/docs-ui/classic-partials/status.php:7
+msgid "Pending"
+msgstr "Onay bekliyor"
+
+#: views/admin/docs-ui/classic-partials/status.php:6
+msgid "Publish"
+msgstr "Yayınla"
+
+#: views/admin/docs-ui/classic-partials/categories.php:14
+msgid "All Categories"
+msgstr "Tüm kategoriler"
+
+#: views/admin/docs-ui/classic-partials/author.php:9
+msgid "All Authors"
+msgstr "Tüm yazarlar"
+
+#: views/admin/docs-ui/classic-partials/date.php:8
+msgid "Custom"
+msgstr "Özel"
+
+#: includes/Core/Admin.php:385
+msgid "Add New Doc"
+msgstr "Yeni Doküman Ekle"
+
+#: views/admin/docs-ui/classic-partials/date.php:5
+msgid "All Dates"
+msgstr "Tüm tarihler"
+
+#: views/admin/docs-ui/classic-partials/order.php:7 assets/blocks/editor.js:1
+msgid "Descending"
+msgstr "Azalan"
+
+#: views/admin/docs-ui/classic-partials/order.php:6 assets/blocks/editor.js:1
+msgid "Ascending"
+msgstr "Artan"
+
+#: includes/Core/Admin.php:341 includes/Core/Admin.php:354
+msgid "Switch to BetterDocs UI"
+msgstr "BetterDocs kullanıcı arayüzüne geç"
+
+#: includes/Core/Admin.php:384
+msgid "Switch to Classic UI"
+msgstr "Klasik kullanıcı arayüzüne geç"
+
+#: includes/Admin/PostsTable.php:381
+msgid "Edit"
+msgstr "Düzenle"
+
+#: views/admin/docs-ui/classic-partials/list.php:283
+msgid "Undo"
+msgstr "Geri Al"
+
+#. translators: %s: Number of blocks.
+#: views/admin/docs-ui/classic-partials/list.php:255
+msgid "%s block restored from the Trash."
+msgid_plural "%s blocks restored from the Trash."
+msgstr[0] "%s bloğu Çöp Kutusundan geri yüklendi."
+msgstr[1] "%s blokları Çöp Kutusundan geri yüklendi."
+
+#. translators: %s: Number of blocks.
+#: views/admin/docs-ui/classic-partials/list.php:253
+msgid "%s block moved to the Trash."
+msgid_plural "%s blocks moved to the Trash."
+msgstr[0] "%s blok çöpe taşındı."
+msgstr[1] "%s bloklar çöpe taşındı."
+
+#. translators: %s: Number of blocks.
+#: views/admin/docs-ui/classic-partials/list.php:251
+msgid "%s block permanently deleted."
+msgid_plural "%s blocks permanently deleted."
+msgstr[0] "%s blok kalıcı olarak silindi."
+msgstr[1] "%s bloklar kalıcı olarak silindi."
+
+#. translators: %s: Number of blocks.
+#: views/admin/docs-ui/classic-partials/list.php:249
+msgid "%s block not updated, somebody is editing it."
+msgid_plural "%s blocks not updated, somebody is editing them."
+msgstr[0] "%s blok güncellenemedi, şu an bir başkası düzenliyor."
+msgstr[1] "%s blokları güncellenemedi, şu an bir başkası düzenliyor."
+
+#: views/admin/docs-ui/classic-partials/list.php:247
+msgid "1 block not updated, somebody is editing it."
+msgstr "1 blok güncellenmedi, başka birisi düzenliyor."
+
+#. translators: %s: Number of blocks.
+#: views/admin/docs-ui/classic-partials/list.php:246
+msgid "%s block updated."
+msgid_plural "%s blocks updated."
+msgstr[0] "%s blok güncellendi."
+msgstr[1] "%s bloklar güncellendi."
+
+#. translators: %s: Number of pages.
+#: views/admin/docs-ui/classic-partials/list.php:242
+msgid "%s page restored from the Trash."
+msgid_plural "%s pages restored from the Trash."
+msgstr[0] "%s sayfa çöpten geri getirildi."
+msgstr[1] "%s sayfalar çöpten geri getirildi."
+
+#. translators: %s: Number of pages.
+#: views/admin/docs-ui/classic-partials/list.php:240
+msgid "%s page moved to the Trash."
+msgid_plural "%s pages moved to the Trash."
+msgstr[0] "%s sayfa çöpe taşındı."
+msgstr[1] "%s sayfalar çöpe taşındı."
+
+#. translators: %s: Number of pages.
+#: views/admin/docs-ui/classic-partials/list.php:238
+msgid "%s page permanently deleted."
+msgid_plural "%s pages permanently deleted."
+msgstr[0] "%s sayfa kalıcı olarak silindi."
+msgstr[1] "%s sayfalar kalıcı olarak silindi."
+
+#. translators: %s: Number of pages.
+#: views/admin/docs-ui/classic-partials/list.php:236
+msgid "%s page not updated, somebody is editing it."
+msgid_plural "%s pages not updated, somebody is editing them."
+msgstr[0] "%s sayfa güncellenmedi, birisi düzenliyor."
+msgstr[1] "%s sayfalar güncellenmedi, birisi düzenliyor."
+
+#: views/admin/docs-ui/classic-partials/list.php:234
+msgid "1 page not updated, somebody is editing it."
+msgstr "1 sayfa güncellenmedi, birileri o sayfayı düzenliyor."
+
+#. translators: %s: Number of pages.
+#: views/admin/docs-ui/classic-partials/list.php:233
+msgid "%s page updated."
+msgid_plural "%s pages updated."
+msgstr[0] "%s sayfa güncellendi."
+msgstr[1] "%s sayfalar güncellendi."
+
+#. translators: %s: Number of posts.
+#: views/admin/docs-ui/classic-partials/list.php:229
+msgid "%s post restored from the Trash."
+msgid_plural "%s posts restored from the Trash."
+msgstr[0] "%s yazı çöpten geri alındı."
+msgstr[1] "%s yazılar çöpten geri alındı."
+
+#. translators: %s: Number of posts.
+#: views/admin/docs-ui/classic-partials/list.php:227
+msgid "%s post moved to the Trash."
+msgid_plural "%s posts moved to the Trash."
+msgstr[0] "%s yazı çöpe taşındı."
+msgstr[1] "%s yazılar çöpe taşındı."
+
+#. translators: %s: Number of posts.
+#: views/admin/docs-ui/classic-partials/list.php:225
+msgid "%s post permanently deleted."
+msgid_plural "%s posts permanently deleted."
+msgstr[0] "%s yazı kalıcı olarak silindi."
+msgstr[1] "%s yazılar kalıcı olarak silindi."
+
+#. translators: %s: Number of posts.
+#: views/admin/docs-ui/classic-partials/list.php:223
+msgid "%s post not updated, somebody is editing it."
+msgid_plural "%s posts not updated, somebody is editing them."
+msgstr[0] "%s yazı güncellenmedi, birisi düzenliyor."
+msgstr[1] "%s yazılar güncellenmedi, birisi düzenliyor."
+
+#: views/admin/docs-ui/classic-partials/list.php:221
+msgid "1 post not updated, somebody is editing it."
+msgstr "1 yazı güncellenmedi, birisi tarafından düzenleniyor."
+
+#. translators: %s: Number of posts.
+#: views/admin/docs-ui/classic-partials/list.php:220
+msgid "%s post updated."
+msgid_plural "%s posts updated."
+msgstr[0] "%s yazı güncellendi."
+msgstr[1] "%s yazılar güncellendi."
+
+#: views/admin/docs-ui/classic-partials/list.php:131
+msgid "Error in deleting the item."
+msgstr "Öğe silinirken hata oluştu."
+
+#: views/admin/docs-ui/classic-partials/list.php:127
+msgid "Error in deleting the attachment."
+msgstr "Ek dosyası silinirken hata oluştu."
+
+#: views/admin/docs-ui/classic-partials/list.php:122
+msgid "Sorry, you are not allowed to delete this item."
+msgstr "Üzgünüm, bu öğeyi silmenize izin verilmiyor."
+
+#: views/admin/docs-ui/classic-partials/list.php:106
+msgid "Error in restoring the item from Trash."
+msgstr "Öğe çöpten geri getirilirken hata oluştu."
+
+#: views/admin/docs-ui/classic-partials/list.php:102
+msgid "Sorry, you are not allowed to restore this item from the Trash."
+msgstr "Üzgünüm, bu öğeyi çöpten geri almanıza izin verilmiyor."
+
+#: views/admin/docs-ui/classic-partials/list.php:78
+msgid "Error in moving the item to Trash."
+msgstr "Öğe çöpe taşınırken hata oluştu."
+
+#: views/admin/docs-ui/classic-partials/list.php:69
+msgid "Sorry, you are not allowed to move this item to the Trash."
+msgstr "Üzgünüm, bu ögeyi çöpe taşımanıza izin verilmiyor."
+
+#: views/admin/docs-ui/classic-partials/status.php:5
+msgid "Doc Status"
+msgstr "Doküman Durumu"
+
+#: views/admin/docs-ui/classic-partials/date.php:7
+msgid "Least Recent"
+msgstr "En Yeni"
+
+#: views/admin/docs-ui/classic-partials/date.php:6
+msgid "Most Recent"
+msgstr "En Yeni"
+
+#. translators: %s: Post title.
+#: includes/Admin/PostsTable.php:451
+msgid "Export &#8220;%s&#8221; as JSON"
+msgstr "Export &#8220;%s&#8221; as JSON"
+
+#. translators: %s: Post title.
+#: includes/Admin/PostsTable.php:440
+msgid "View &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; Görüntüle"
+
+#. translators: %s: Post title.
+#: includes/Admin/PostsTable.php:408
+msgid "Move &#8220;%s&#8221; to the Trash"
+msgstr "&#8220;%s&#8221; ögesini çöpe taşı"
+
+#. translators: %s: Post title.
+#: includes/Admin/PostsTable.php:400
+msgid "Restore &#8220;%s&#8221; from the Trash"
+msgstr "&#8220;%s&#8221; ögesini çöpten geri al"
+
+#: includes/Admin/PostsTable.php:389
+msgid "Quick&nbsp;Edit"
+msgstr "Hızlı&nbsp;Düzenle"
+
+#. translators: %s: Post title.
+#: includes/Admin/PostsTable.php:388
+msgid "Quick edit &#8220;%s&#8221; inline"
+msgstr "&#8220;%s&#8221; ögesini olduğu yerde hızlıca düzenle"
+
+#. translators: %s: Post title.
+#: includes/Admin/PostsTable.php:380
+msgid "Edit &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; Düzenle"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:408
+msgid "Doc Content Padding"
+msgstr "Doküman İçeriği Dolgusu"
+
+#: includes/Core/Admin.php:343
+msgid "Copied!"
+msgstr "Kopyalandı!"
+
+#: includes/Core/Settings.php:805 includes/Core/Settings.php:861
+#: includes/Editors/BlockEditor/Blocks/SearchForm.php:32
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:85
+#: includes/Shortcodes/SearchForm.php:199
+#: views/admin/docs-ui/classic-partials/button.php:4
+#: views/admin/docs-ui/classic-partials/filter.php:22 assets/blocks/editor.js:1
+msgid "Search"
+msgstr "Ara"
+
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:83
+#: assets/blocks/editor.js:1
+msgid "Placeholder"
+msgstr "Yer Tutucu"
+
+#: includes/Core/Settings.php:1479 assets/admin/js/quick-setup.js:1
+#: assets/admin/js/settings.js:1
+msgid "Internal Knowledge Base"
+msgstr "Dahili Bilgi Tabanı"
+
+#: includes/Core/Settings.php:1664 includes/Core/Settings.php:1671
+#: includes/Core/SetupWizard.php:226 assets/admin/js/quick-setup.js:1
+#: assets/admin/js/settings.js:1
+msgid "Instant Answer"
+msgstr "Anında Cevap"
+
+#: includes/Core/Settings.php:867
+msgid "Search Not Found Text"
+msgstr "Arama Bulunamadı"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1834
+msgid "Feedback Form Title Tag"
+msgstr "Geri Bildirim Formu Başlığı Etiketi"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:743
+msgid "Title Tag"
+msgstr "Başlık Etiketi"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:693
+#: includes/Admin/Customizer/Sections/DocsPage.php:471
+#: includes/Admin/Customizer/Sections/Sidebar.php:287
+#: includes/Editors/Elementor/Widget/Sidebar.php:151 assets/blocks/editor.js:1
+msgid "Category Title Tag"
+msgstr "Kategori Başlık Etiketi"
+
+#: includes/Core/Settings.php:930
+msgid "Docs Order By"
+msgstr "Dokümanlar Sıralaması"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1892
+msgid "Feedback Form Title Color"
+msgstr "Geri bildirim formu için başlık rengi "
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1866
+msgid "Feedback Form Title Font Size"
+msgstr "Geri Bildirim Formu Başlığı için yazı tipi boyut"
+
+#: includes/Core/Settings.php:942 assets/blocks/editor.js:1
+msgid "Menu Order"
+msgstr "Menü Sıralaması"
+
+#: includes/Core/Settings.php:941 assets/blocks/editor.js:1
+msgid "Comment Count"
+msgstr "Yorum sayısı"
+
+#: includes/Core/Settings.php:940 assets/blocks/editor.js:1
+msgid "Random"
+msgstr "Rastgele"
+
+#: includes/Core/Settings.php:938 assets/blocks/editor.js:1
+msgid "Last Modified Date"
+msgstr "En son değiştirme tarihi"
+
+#: includes/Core/Settings.php:937 assets/blocks/editor.js:1
+msgid "Date"
+msgstr "Tarih"
+
+#: includes/Utils/Insights.php:666
+msgid "What we collect."
+msgstr "Ne topluyoruz?"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:135
+#: assets/blocks/editor.js:1
+msgid "Grid Space"
+msgstr "Izgara Alanı"
+
+#: includes/Core/Settings.php:1086 includes/Editors/Elementor/Widget/ToC.php:67
+#: assets/blocks/editor.js:1
+msgid "TOC Title"
+msgstr "TOC Başlığı"
+
+#: includes/Core/Admin.php:135
+msgid "Want to help make <strong>BetterDocs</strong> even more awesome? You can get a <strong>10% discount coupon</strong> for Premium extensions if you allow us to track the usage."
+msgstr "<strong> BetterDocs </strong> 'u daha da mükemmel hale getirmeye yardımcı olmak ister misiniz? Kullanımı izlememize izin verirseniz, Premium uzantılar için <strong>% 10 indirim kuponu </strong> edinebilirsiniz."
+
+#: includes/Core/Settings.php:950
+msgid "Docs Order"
+msgstr "Dokümanlar sırası"
+
+#: includes/Core/Settings.php:904 includes/Core/Settings.php:933
+#: includes/Editors/Elementor.php:223 includes/Editors/Elementor.php:260
+#: includes/Editors/Elementor.php:485
+#: includes/Editors/Elementor/Widget/ArchiveList.php:65
+#: assets/blocks/editor.js:1
+msgid "No order"
+msgstr "Sıralama Yok"
+
+#: includes/Core/Settings.php:939 assets/blocks/editor.js:1
+msgid "Parent Id"
+msgstr "Parent Id"
+
+#: views/layout-parts/no-content.php:2
+msgid "No posts found!"
+msgstr "Hiç yazı bulunamadı."
+
+#: includes/Editors/Elementor.php:349
+msgid "Post Per Subcategory"
+msgstr "Kategori başına yazı"
+
+#: includes/Core/Settings.php:912 includes/Core/Settings.php:943
+#: includes/Editors/Elementor.php:231 includes/Editors/Elementor.php:268
+#: includes/Editors/Elementor.php:419 includes/Editors/Elementor.php:493
+#: includes/Editors/Elementor/Widget/ArchiveList.php:73
+#: assets/blocks/editor.js:1
+msgid "BetterDocs Order"
+msgstr "BetterDocs Sırası"
+
+#: includes/Editors/Elementor.php:589
+msgid "BetterDocs Multiple KB"
+msgstr "BetterDocs Çoklu KB"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1275
+msgid "Collapse Icon"
+msgstr "Menüyü Daralt"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1195
+msgid "Nested List"
+msgstr "İç İçe Liste"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1045
+#: assets/blocks/editor.js:1
+msgid "List"
+msgstr "liste"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:838
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:964
+msgid "Ticker Background"
+msgstr "Ticker Arka fon"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:413
+msgid "Grid Spacing"
+msgstr "Izgara aralığı"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:400
+#: assets/blocks/editor.js:1
+msgid "Grid Padding"
+msgstr "Izgara Dolgusu"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1276
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1356
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1471
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1553
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:320
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:367
+#: assets/blocks/editor.js:1
+msgid "Box Shadow"
+msgstr "Kutu Gölgesi"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:248
+#: assets/blocks/editor.js:1
+msgid "Show Button"
+msgstr "Buton Göster"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:236
+#: assets/blocks/editor.js:1
+msgid "Show List"
+msgstr "Listeyi Göster"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:157
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:221
+#: includes/Editors/Elementor/Widget/Sidebar.php:183 assets/blocks/editor.js:1
+msgid "Show Count"
+msgstr "Sayımı göster"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:146
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:209
+msgid "Div"
+msgstr "Div"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:734
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1215
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1295
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1399
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1490
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:559
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:744
+#: includes/Editors/Elementor/Widget/Basic/FAQ.php:212
+#: includes/Editors/Elementor/Widget/Basic/FAQ.php:321
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:151
+#: includes/Editors/Elementor/Widget/Sidebar.php:276
+#: includes/Editors/Elementor/Widget/Sidebar.php:789 assets/blocks/editor.js:1
+msgid "Margin"
+msgstr "Kenar boşluğu"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:145
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:208
+msgid "P"
+msgstr "P"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:144
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:207
+msgid "Span"
+msgstr "U"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:134
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:197
+#: assets/blocks/editor.js:1
+msgid "Select Tag"
+msgstr "Etiket seç"
+
+#: includes/Core/Settings.php:907 includes/Editors/Elementor.php:226
+#: includes/Editors/Elementor.php:263 includes/Editors/Elementor.php:414
+#: includes/Editors/Elementor.php:488
+#: includes/Editors/Elementor/Widget/ArchiveList.php:68
+#: assets/blocks/editor.js:1
+msgid "Term Group"
+msgstr "Terim Grupu"
+
+#: includes/Core/Settings.php:905 includes/Editors/Elementor.php:224
+#: includes/Editors/Elementor.php:261 includes/Editors/Elementor.php:412
+#: includes/Editors/Elementor.php:486
+#: includes/Editors/Elementor/Widget/ArchiveList.php:66
+#: views/shortcodes/feedback-form.php:6 assets/blocks/editor.js:1
+msgid "Name"
+msgstr "Ad"
+
+#: includes/Core/Settings.php:895 includes/Editors/Elementor.php:220
+#: includes/Editors/Elementor.php:257 includes/Editors/Elementor.php:314
+#: includes/Editors/Elementor/Widget/ArchiveList.php:62
+#: assets/blocks/editor.js:1
+msgid "Order By"
+msgstr "Sırala"
+
+#: includes/Editors/Elementor.php:209
+msgid "Offset"
+msgstr "Boşluk"
+
+#: includes/Editors/Elementor.php:199 assets/blocks/editor.js:1
+msgid "Box Per Page"
+msgstr "Sayfa Başına Yazı"
+
+#: includes/Editors/Elementor.php:190 assets/blocks/editor.js:1
+msgid "Grid Per Page"
+msgstr "Izgara başına yazı"
+
+#: includes/Editors/Elementor.php:177 assets/blocks/editor.js:1
+msgid "Exclude"
+msgstr "Hariç tut"
+
+#: includes/Editors/Elementor.php:165 assets/blocks/editor.js:1
+msgid "Include"
+msgstr "Dahil et"
+
+#: includes/Editors/Elementor.php:145
+msgid "All Knowledge Base"
+msgstr "Bilgi Tabanını Görüntüle"
+
+#: includes/Editors/Elementor.php:138
+msgid "Knowledge Bases"
+msgstr "Bilgi Tabanı"
+
+#: includes/Editors/Elementor.php:125 assets/blocks/editor.js:1
+msgid "Query"
+msgstr "Sorgu"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:184
+#: assets/blocks/editor.js:1
+msgid "Prefix"
+msgstr "Önek"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:84
+#: assets/blocks/editor.js:1
+msgid "Box Column"
+msgstr "Kutu Sütunu"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1391
+#: assets/blocks/editor.js:1
+msgid "After"
+msgstr "Sonra"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1390
+#: assets/blocks/editor.js:1
+msgid "Before"
+msgstr "Önce"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1287
+msgid "Open Icon"
+msgstr "Açık Simge"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:122
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:182
+#: assets/blocks/editor.js:1
+msgid "Show Title"
+msgstr "Başlığı Göster"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:110
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:167
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1359
+#: includes/Editors/Elementor/Widget/Sidebar.php:168 assets/blocks/editor.js:1
+msgid "Show Icon"
+msgstr "Simgeyi Göster"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:155
+#: assets/blocks/editor.js:1
+msgid "Show Header"
+msgstr "Başlığı göster"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:109
+#: assets/blocks/editor.js:1
+msgid "Grid Column"
+msgstr "Izgara sütunu"
+
+#: includes/Core/Settings.php:717
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:99
+#: assets/blocks/editor.js:1
+msgid "Masonry"
+msgstr "Duvar Yapımı"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:98
+msgid "Fit to Screen"
+msgstr "Ekrana sığdır"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:97
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:294
+#: assets/blocks/editor.js:1
+msgid "Grid"
+msgstr "Izgara"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:94
+#: assets/blocks/editor.js:1
+msgid "Layout Mode"
+msgstr "Düzen Modu"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1386
+msgid "Icon Position"
+msgstr "Simge Konumu"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:197
+#: assets/blocks/editor.js:1
+msgid "Suffix"
+msgstr "Son ek "
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:211
+#: assets/blocks/editor.js:1
+msgid "Suffix Singular"
+msgstr "Son ek Tekil"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:66
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:76
+#: includes/Editors/Elementor/Widget/Basic/FAQ.php:52
+msgid "Layout Options"
+msgstr "Düzen Seçenekleri"
+
+#: includes/Editors/Elementor.php:340 includes/Editors/Elementor.php:366
+#: includes/Editors/Elementor.php:380 includes/Editors/Elementor.php:445
+#: assets/admin/js/faq.js:1
+msgid "No"
+msgstr "Hayır"
+
+#: includes/Editors/Elementor.php:339 includes/Editors/Elementor.php:365
+#: includes/Editors/Elementor.php:379 includes/Editors/Elementor.php:444
+#: assets/admin/js/faq.js:1
+msgid "Yes"
+msgstr "Evet"
+
+#: includes/Editors/Elementor.php:337 assets/blocks/editor.js:1
+msgid "Enable Nested Subcategory"
+msgstr "İç İçe Alt Kategoriyi Etkinleştir"
+
+#: includes/Editors/Elementor.php:305
+msgid "Post Per Page"
+msgstr "Sayfa Başına Yazı"
+
+#: includes/Editors/Elementor.php:296
+msgid "Grid List Posts"
+msgstr "Izgara Listesi Gönderileri"
+
+#: includes/Core/Settings.php:911 includes/Editors/Elementor.php:230
+#: includes/Editors/Elementor.php:267 includes/Editors/Elementor.php:418
+#: includes/Editors/Elementor.php:492
+#: includes/Editors/Elementor/Widget/ArchiveList.php:72
+msgid "Parent"
+msgstr "Ebeveyn"
+
+#: includes/Core/Settings.php:909 includes/Editors/Elementor.php:228
+#: includes/Editors/Elementor.php:265 includes/Editors/Elementor.php:416
+#: includes/Editors/Elementor.php:490
+#: includes/Editors/Elementor/Widget/ArchiveList.php:70
+#: assets/blocks/editor.js:1
+msgid "ID"
+msgstr "Numara"
+
+#: includes/Core/Settings.php:908 includes/Editors/Elementor.php:227
+#: includes/Editors/Elementor.php:264 includes/Editors/Elementor.php:415
+#: includes/Editors/Elementor.php:489
+#: includes/Editors/Elementor/Widget/ArchiveList.php:69
+msgid "Term ID"
+msgstr "Terim Numarası"
+
+#: includes/Core/Settings.php:906 includes/Editors/Elementor.php:225
+#: includes/Editors/Elementor.php:262 includes/Editors/Elementor.php:413
+#: includes/Editors/Elementor.php:487
+#: includes/Editors/Elementor/Widget/ArchiveList.php:67
+#: assets/blocks/editor.js:1
+msgid "Slug"
+msgstr " Kısa İsim"
+
+#: includes/Editors/Elementor/Conditions/ArchiveCondition.php:39
+msgid "All Docs Archive"
+msgstr "Tüm Etiketler Arşivi"
+
+#: includes/Editors/Elementor/Widget/ArchiveList.php:255
+msgid "Sub Category"
+msgstr "Alt Kategori "
+
+#: includes/Editors/Elementor/Widget/ArchiveList.php:195
+#: includes/Editors/Elementor/Widget/ArchiveList.php:405
+#: assets/blocks/editor.js:1
+msgid "List Icon"
+msgstr "Liste Simgesi"
+
+#: includes/Editors/Elementor/Widget/ArchiveList.php:109
+msgid "Note: This is the preview only for Elementor Editor. You will see the real view in the archive page itself."
+msgstr ""
+"Not: Bu ön izleme sadece elementtir editörü içindir. \n"
+"Gerçek görünümü arşiv sayfasının kendisinde göreceksiniz"
+
+#: includes/Editors/Elementor/Widget/ArchiveList.php:22
+msgid "Doc Category Archive List"
+msgstr "Doküman Kategori Arşiv Listesi"
+
+#: includes/blocks.php:24
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:25
+#: assets/blocks/editor.js:1
+msgid "BetterDocs Category Grid"
+msgstr "BetterDocs Kategori Izgarası "
+
+#: includes/Editors/Elementor/Conditions/ArchiveCondition.php:35
+#: includes/Editors/Elementor/DocsArchive.php:25
+#: includes/Editors/Elementor/DocsArchive.php:77
+msgid "Docs Archive"
+msgstr "Dokümanlar Arşivi "
+
+#: includes/blocks.php:32
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:27
+#: assets/blocks/editor.js:1
+msgid "BetterDocs Category Box"
+msgstr "BetterDocs Kategori Kutusu"
+
+#: includes/Editors/Elementor/Widget/ArchiveList.php:335
+msgid "Subcategory List"
+msgstr "Alt Kategori Listesi"
+
+#: includes/Editors/Elementor/Widget/ArchiveList.php:305
+#: includes/Editors/Elementor/Widget/Basic/FAQ.php:407
+#: assets/blocks/editor.js:1
+msgid "Icon Color"
+msgstr "Simge Rengi"
+
+#: includes/Core/Settings.php:763
+msgid "Count Text Singular"
+msgstr "Tekil metin sayacı "
+
+#: includes/Core/Settings.php:1374
+msgid "Category Grid- Layout 1"
+msgstr "Kategori Izgara- Yerleşim 1"
+
+#: includes/Core/Settings.php:1200
+msgid "Breadcrumb Home URL"
+msgstr "Ana metin bağlantı haritası "
+
+#: includes/Core/Settings.php:1192
+msgid "Breadcrumb Home Text"
+msgstr "Ana Metin Haberleşme Haritası "
+
+#: includes/Core/Settings.php:1385
+msgid "Category Box- Layout 2"
+msgstr "Kategori Kutu- Yerleşim 2"
+
+#: includes/Editors/Elementor/Widget/Sidebar.php:139
+msgid "This layout is available in pro version only!"
+msgstr "Bu Yerleşim sadece pro sürümde mevcuttur!"
+
+#: includes/Editors/Elementor/Widget/Sidebar.php:128 assets/blocks/editor.js:1
+msgid "Layout 3"
+msgstr "Görünüm:"
+
+#: includes/Editors/Elementor/Widget/Sidebar.php:127 assets/blocks/editor.js:1
+msgid "Layout 2"
+msgstr "Düzen 2"
+
+#: includes/Editors/Elementor/Widget/Sidebar.php:126 assets/blocks/editor.js:1
+msgid "Layout 1"
+msgstr "Düzen 1 "
+
+#: includes/Editors/Elementor/Widget/Sidebar.php:121 assets/blocks/editor.js:1
+msgid "Select layout"
+msgstr "Düzen seç"
+
+#: includes/Editors/Elementor/Widget/Sidebar.php:72
+msgid "Unlock more possibilities"
+msgstr "Daha fazla olasılığın kilidini açın"
+
+#: includes/Editors/Elementor/Widget/Sidebar.php:65
+msgid "Go Premium for More Features"
+msgstr "Daha Fazla Özellik için Premium'a Geçin "
+
+#: includes/Editors/Elementor/Widget/Sidebar.php:227
+msgid "TOC Width"
+msgstr "TOC Genişliği"
+
+#: includes/Core/Settings.php:1122
+#: includes/Editors/Elementor/Widget/Sidebar.php:207
+msgid "Sticky TOC"
+msgstr "Yapışkan TOC"
+
+#: includes/Editors/Elementor/Widget/ArchiveList.php:142
+#: includes/Editors/Elementor/Widget/ArchiveList.php:352
+#: includes/Editors/Elementor/Widget/ToC.php:370
+msgid "Word Wrap"
+msgstr "Uzun satırları kes"
+
+#: includes/Editors/Elementor/Widget/ToC.php:118
+msgid "Collapsible on small devices"
+msgstr "Küçük cihazlarda katlanabilir"
+
+#: includes/Editors/Elementor/Widget/Sidebar.php:249
+msgid "Z index"
+msgstr "Z-index"
+
+#: includes/Editors/Elementor/Widget/ToC.php:147
+msgid "Box Width (%)"
+msgstr "Kutu Genişliği (%)"
+
+#: includes/Editors/Elementor/Widget/ToC.php:106 assets/blocks/editor.js:1
+msgid "List Number"
+msgstr "Liste numarası"
+
+#: includes/Editors/Elementor/Widget/ArchiveList.php:98
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:112
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:124
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:159
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:171
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:321
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:445
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:157
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:169
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:184
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:223
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:238
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:250
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1361
+#: includes/Editors/Elementor/Widget/Content.php:52
+#: includes/Editors/Elementor/Widget/DocShare.php:232
+#: includes/Editors/Elementor/Widget/DocShare.php:244
+#: includes/Editors/Elementor/Widget/DocShare.php:256
+#: includes/Editors/Elementor/Widget/DocShare.php:268
+#: includes/Editors/Elementor/Widget/Sidebar.php:170
+#: includes/Editors/Elementor/Widget/Sidebar.php:185
+#: includes/Editors/Elementor/Widget/Sidebar.php:217
+#: includes/Editors/Elementor/Widget/ToC.php:96
+#: includes/Editors/Elementor/Widget/ToC.php:108
+#: includes/Editors/Elementor/Widget/ToC.php:120
+msgid "Show"
+msgstr "Göster"
+
+#: includes/Editors/Elementor/Widget/ArchiveList.php:99
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:113
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:125
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:160
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:172
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:322
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:446
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:158
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:170
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:185
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:224
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:239
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:251
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1362
+#: includes/Editors/Elementor/Widget/Content.php:53
+#: includes/Editors/Elementor/Widget/DocShare.php:233
+#: includes/Editors/Elementor/Widget/DocShare.php:245
+#: includes/Editors/Elementor/Widget/DocShare.php:257
+#: includes/Editors/Elementor/Widget/DocShare.php:269
+#: includes/Editors/Elementor/Widget/Sidebar.php:171
+#: includes/Editors/Elementor/Widget/Sidebar.php:186
+#: includes/Editors/Elementor/Widget/Sidebar.php:218
+#: includes/Editors/Elementor/Widget/ToC.php:97
+#: includes/Editors/Elementor/Widget/ToC.php:109
+#: includes/Editors/Elementor/Widget/ToC.php:121
+msgid "Hide"
+msgstr "Gizle"
+
+#: includes/Editors/Elementor/Widget/ToC.php:94
+msgid "List Hierarchy"
+msgstr "Hiyerarşiyi göster"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:143
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:206
+#: includes/Editors/Elementor/Widget/Sidebar.php:160
+#: includes/Editors/Elementor/Widget/ToC.php:85 assets/blocks/editor.js:1
+msgid "H6"
+msgstr "H6"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:142
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:205
+#: includes/Editors/Elementor/Widget/Sidebar.php:159
+#: includes/Editors/Elementor/Widget/ToC.php:84 assets/blocks/editor.js:1
+msgid "H5"
+msgstr "H5"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:141
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:204
+#: includes/Editors/Elementor/Widget/Sidebar.php:158
+#: includes/Editors/Elementor/Widget/ToC.php:83 assets/blocks/editor.js:1
+msgid "H4"
+msgstr "H4"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:140
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:203
+#: includes/Editors/Elementor/Widget/Sidebar.php:157
+#: includes/Editors/Elementor/Widget/ToC.php:82 assets/blocks/editor.js:1
+msgid "H3"
+msgstr "H3"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:139
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:202
+#: includes/Editors/Elementor/Widget/Sidebar.php:156
+#: includes/Editors/Elementor/Widget/ToC.php:81 assets/blocks/editor.js:1
+msgid "H2"
+msgstr "H2"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:138
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:201
+#: includes/Editors/Elementor/Widget/Sidebar.php:155
+#: includes/Editors/Elementor/Widget/ToC.php:80 assets/blocks/editor.js:1
+msgid "H1"
+msgstr "H1"
+
+#: includes/Editors/Elementor/Widget/ToC.php:76 assets/blocks/editor.js:1
+msgid "Supported Heading Tags"
+msgstr "Uyumluluk Etiketleri"
+
+#: includes/Editors/Elementor/Widget/ArchiveList.php:55
+#: includes/Editors/Elementor/Widget/DocShare.php:213
+#: includes/Editors/Elementor/Widget/ToC.php:60 assets/blocks/editor.js:1
+msgid "Controls"
+msgstr "Denetimler"
+
+#: includes/Editors/Elementor/TemplateSource.php:33
+msgid "BetterDocs Templates"
+msgstr "BetterDocs Şablonları"
+
+#: includes/Editors/Elementor/Widget/DocShare.php:266
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: includes/Editors/Elementor/Widget/DocShare.php:254
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: includes/Editors/Elementor/Widget/DocShare.php:242
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/Editors/Elementor/Widget/DocShare.php:230
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/Editors/Elementor/Widget/DocShare.php:223
+msgid "Type share title here"
+msgstr "Paylaşım başlığını buraya yazın"
+
+#: includes/Editors/Elementor/Widget/Content.php:50
+msgid "Print Button"
+msgstr "Yazdır Düğmesi"
+
+#: includes/Editors/Elementor/Widget/Feedback.php:81
+msgid "Enter button text here"
+msgstr "Düğme metnini buraya girin"
+
+#: includes/Editors/Elementor/Widget/Feedback.php:80
+msgid "Enter button text"
+msgstr "Düğme metnini girin"
+
+#: views/admin/setup-wizard/welcome.php:21
+msgid "Share non-sensitive diagnostic data and plugin usage information."
+msgstr "Hassas olmayan teşhis verilerini ve eklenti kullanım bilgilerini paylaşın."
+
+#: includes/Core/SetupWizard.php:150
+msgid "We collect non-sensitive diagnostic data and plugin usage information. Your site URL, WordPress & PHP version, plugins & themes and email address to send you the discount coupon. This data lets us make sure this plugin always stays compatible with the most popular plugins and themes. No spam, we promise."
+msgstr "Hassas olmayan teşhis verilerini ve eklenti kullanım bilgilerini topluyoruz. Size indirim kuponu göndermek için site URL'niz, WordPress ve PHP sürümünüz, eklentileriniz ve temalarınız ve e-posta adresiniz. Bu veriler, bu eklentinin her zaman en popüler eklentiler ve temalarla uyumlu olduğundan emin olmamızı sağlar. Spam yok, söz veriyoruz."
+
+#: includes/Core/SetupWizard.php:32 assets/admin/js/quick-setup.js:1
+msgid "Finish"
+msgstr "Bitir"
+
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:482
+msgid "Category"
+msgstr "Kategori"
+
+#: includes/Editors/Elementor/Widget/ToC.php:354
+msgid "Toc List"
+msgstr "Toc Listesi"
+
+#: includes/Editors/Elementor/Widget/ToC.php:197
+msgid "Box Border Radius"
+msgstr "Kutu Sınır Yarıçapı"
+
+#: includes/Core/Settings.php:1104
+msgid "TOC List Number"
+msgstr "TOC Liste Numarası"
+
+#: includes/Editors/Elementor/Widget/ToC.php:23
+msgid "Doc Table of Contents"
+msgstr "Doc Table of Contents"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:1395
+#: includes/Admin/Customizer/Sections/DocsPage.php:2216
+msgid "Subcategory List Icon Color"
+msgstr "Alt Kategori Listesi için Simge Rengi"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:1352
+#: includes/Admin/Customizer/Sections/DocsPage.php:2169
+msgid "Subcategory Docs List Color"
+msgstr "Alt Kategori Dokümanlar Listesi Rengi"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:1277
+#: includes/Admin/Customizer/Sections/DocsPage.php:2088
+msgid "Docs Subcategory Font Size"
+msgstr "Dokümanlar Alt Kategorisi Yazı tipi Boyutu"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:1233
+#: includes/Admin/Customizer/Sections/DocsPage.php:2041
+msgid "Docs Subcategory Color"
+msgstr "Dokümanlar Alt Kategorisi Rengi"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:1132
+msgid "Docs List Margin"
+msgstr "Dokümanlar Listesi Marjı"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:1581
+msgid "Docs List Background Color"
+msgstr "Dokümanlar Listesi Arka fon Renk"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:1560
+msgid "Docs List"
+msgstr "Dokümanlar Listesi"
+
+#: includes/Core/Settings.php:1444
+msgid "Who Can Write Docs?"
+msgstr "Kimler Doküman Yazabilir?"
+
+#: includes/Core/Settings.php:756
+msgid "Count Text"
+msgstr "Metin Sayacı"
+
+#: includes/Editors/Elementor/Widget/Title.php:84
+msgid "HTML Tag"
+msgstr "HTML etiketi"
+
+#: includes/Editors/Elementor/Widget/Title.php:69
+msgid "Link"
+msgstr "Bağlantı"
+
+#: includes/Editors/Elementor/Widget/Title.php:62
+msgid "Add Your Heading Text Here"
+msgstr "Başlık Metninizi Buraya Ekleyin"
+
+#: includes/Editors/Elementor/Widget/Title.php:61
+msgid "Enter your title"
+msgstr "Başlığınızı girin"
+
+#: includes/Core/Settings.php:1005
+#: includes/Editors/Elementor/Tags/TitleTag.php:17
+#: includes/Editors/Elementor/Widget/Title.php:26
+#: views/admin/email/analytics/leading-docs.php:19
+msgid "Doc Title"
+msgstr "Doküman Başlığı"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:520
+#: includes/Editors/Elementor/Widget/Reactions.php:210
+msgid "Area"
+msgstr "Alan"
+
+#: includes/Editors/Elementor/Widget/Navigation.php:96
+#: includes/Editors/Elementor/Widget/Sidebar.php:555
+#: includes/Editors/Elementor/Widget/Sidebar.php:668 assets/blocks/editor.js:1
+msgid "Arrow Color"
+msgstr "Ok Rengi"
+
+#: includes/blocks.php:80 includes/Editors/Elementor/Widget/Navigation.php:19
+msgid "Doc Navigation"
+msgstr "Doküman Navigasyonu"
+
+#: includes/blocks.php:72 includes/Editors/Elementor/Widget/DocDate.php:20
+msgid "Doc Date"
+msgstr "Belge Tarihi"
+
+#: includes/Editors/Elementor/Widget/ArchiveList.php:234
+#: includes/Editors/Elementor/Widget/ArchiveList.php:443
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:632
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:768
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:867
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1767
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1801
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1175
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1254
+#: includes/Editors/Elementor/Widget/DocShare.php:290
+#: includes/Editors/Elementor/Widget/Sidebar.php:614
+#: includes/Editors/Elementor/Widget/Sidebar.php:1016
+#: includes/Editors/Elementor/Widget/Sidebar.php:1282
+#: includes/Editors/Elementor/Widget/Sidebar.php:1367 assets/blocks/editor.js:1
+msgid "Spacing"
+msgstr "Boşluk"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:255
+#: includes/Editors/Elementor/Widget/DocShare.php:137
+#: includes/Editors/Elementor/Widget/Reactions.php:121
+#: includes/Editors/Elementor/Widget/ToC.php:185 assets/blocks/editor.js:1
+msgid "Box Padding"
+msgstr "Dolgu Yok"
+
+#: includes/Editors/Elementor/Widget/DocShare.php:125
+#: includes/Editors/Elementor/Widget/Reactions.php:109
+#: includes/Editors/Elementor/Widget/ToC.php:173
+msgid "Box Spacing"
+msgstr "Üst Boşluk"
+
+#: includes/Editors/Elementor/Widget/DocShare.php:57
+#: includes/Editors/Elementor/Widget/Reactions.php:56
+msgid "Box Style"
+msgstr "Üst Tarz"
+
+#: includes/Editors/Elementor/Widget/DocShare.php:28
+msgid "Doc Share"
+msgstr "Dokümanı Paylaş"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:1373
+#: includes/Admin/Customizer/Sections/DocsPage.php:2192
+msgid "Subcategory List Hover Color"
+msgstr "Alt Kategori Listesi Vurgu Rengi"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1598
+#: assets/blocks/editor.js:1
+msgid "Button Alignment"
+msgstr "Düğme Hizalama"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1573
+msgid "Text Alignment"
+msgstr "Metin hizalama"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1329
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1480
+msgid "Area Spacing"
+msgstr "Kelime aralığı"
+
+#: includes/Editors/Elementor/Widget/Sidebar.php:1304
+msgid "Sub-Category List"
+msgstr "Alt Kategori Listesi"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1110
+#: includes/Editors/Elementor/Widget/Sidebar.php:1230
+#: includes/Editors/Elementor/Widget/Sidebar.php:1354 assets/blocks/editor.js:1
+msgid "List Area Padding"
+msgstr "Alan Dolgusunu Listele"
+
+#: includes/Editors/Elementor/Widget/ArchiveList.php:183
+#: includes/Editors/Elementor/Widget/ArchiveList.php:393
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1086
+#: includes/Editors/Elementor/Widget/Sidebar.php:1218
+#: includes/Editors/Elementor/Widget/Sidebar.php:1342
+#: includes/Editors/Elementor/Widget/ToC.php:526 assets/blocks/editor.js:1
+msgid "List Item Spacing"
+msgstr "Liste Öğesi Aralığı"
+
+#: includes/Editors/Elementor/Widget/Sidebar.php:422
+msgid "Body"
+msgstr "Vücut"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:229
+#: includes/Editors/Elementor/Widget/ToC.php:139 assets/blocks/editor.js:1
+msgid "Box"
+msgstr "Kutu"
+
+#: includes/Editors/Elementor/Widget/Feedback.php:168
+msgid "FeedBack Form"
+msgstr "Geri Bildirim Formu"
+
+#: includes/Editors/Elementor/Widget/Feedback.php:125
+msgid "Icon "
+msgstr "İkon:"
+
+#: includes/Editors/Elementor/Widget/Feedback.php:90
+#: includes/Editors/Elementor/Widget/Reactions.php:172
+#: assets/blocks/editor.js:1
+msgid "Text"
+msgstr "Yazı"
+
+#: includes/Editors/Elementor/Widget/Sidebar.php:23
+msgid "Doc Sidebar"
+msgstr "Doküman Kenar çubuğu"
+
+#: includes/Editors/Elementor/Widget/Title.php:185
+#: includes/Editors/Elementor/Widget/ToC.php:282
+msgid "Blend Mode"
+msgstr "Harman Mod"
+
+#: includes/Admin/PostsTable.php:441
+#: includes/Editors/Elementor/Widget/Title.php:134
+msgid "View"
+msgstr "Görünüm"
+
+#: includes/Editors/Elementor/Widget/Breadcrumbs.php:47
+#: includes/Editors/Elementor/Widget/Content.php:42
+#: includes/Editors/Elementor/Widget/DocDate.php:44
+#: includes/Editors/Elementor/Widget/Navigation.php:47
+#: assets/blocks/editor.js:1
+msgid "Style"
+msgstr "Tarz"
+
+#: includes/Editors/Elementor/Widget/Breadcrumbs.php:19
+msgid "Doc Breadcrumbs"
+msgstr "Doküman Breadcrumbs"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:812
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:940
+#: includes/Editors/Elementor/Widget/Basic/FAQ.php:131
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:195
+#: includes/Editors/Elementor/Widget/Breadcrumbs.php:55
+#: includes/Editors/Elementor/Widget/Feedback.php:333
+#: includes/Editors/Elementor/Widget/Sidebar.php:947
+#: includes/Editors/Elementor/Widget/Sidebar.php:1063
+#: includes/Editors/Elementor/Widget/Title.php:153
+#: includes/Editors/Elementor/Widget/ToC.php:251 assets/blocks/editor.js:1
+msgid "Text Color"
+msgstr "Metin Rengi"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1239
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1319
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1423
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1514
+#: includes/Editors/Elementor/Widget/Basic/FAQ.php:261
+#: includes/Editors/Elementor/Widget/Basic/FAQ.php:287
+#: includes/Editors/Elementor/Widget/Basic/FAQ.php:334
+#: includes/Editors/Elementor/Widget/Feedback.php:322 assets/blocks/editor.js:1
+msgid "Background"
+msgstr "Arka fon"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1348
+#: includes/Editors/Elementor/Widget/Feedback.php:314 assets/blocks/editor.js:1
+msgid "Button"
+msgstr "Buton"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:506
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:546
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:430
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1123
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1132
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1266
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1371
+#: includes/Editors/Elementor/Widget/Breadcrumbs.php:110
+#: includes/Editors/Elementor/Widget/DocShare.php:282
+#: includes/Editors/Elementor/Widget/Reactions.php:202
+#: includes/Editors/Elementor/Widget/Sidebar.php:481
+#: includes/Editors/Elementor/Widget/Sidebar.php:1243 assets/blocks/editor.js:1
+msgid "Icon"
+msgstr "Simge"
+
+#: includes/Editors/Elementor/Widget/Feedback.php:296 assets/blocks/editor.js:1
+msgid "Space"
+msgstr "Uzay"
+
+#: includes/Editors/Elementor/Widget/Feedback.php:269
+msgid "Lable"
+msgstr "Etiket"
+
+#: includes/Editors/Elementor/Widget/Content.php:78
+#: includes/Editors/Elementor/Widget/DocDate.php:87
+#: includes/Editors/Elementor/Widget/Feedback.php:255
+#: includes/Editors/Elementor/Widget/Feedback.php:403
+#: includes/Editors/Elementor/Widget/Title.php:120
+#: includes/Editors/Elementor/Widget/ToC.php:225
+msgid "Justified"
+msgstr "Haklı"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1581
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1606
+#: includes/Editors/Elementor/Widget/Breadcrumbs.php:82
+#: includes/Editors/Elementor/Widget/Content.php:70
+#: includes/Editors/Elementor/Widget/DocDate.php:79
+#: includes/Editors/Elementor/Widget/Feedback.php:247
+#: includes/Editors/Elementor/Widget/Feedback.php:395
+#: includes/Editors/Elementor/Widget/Title.php:112
+#: includes/Editors/Elementor/Widget/ToC.php:217 assets/blocks/editor.js:1
+msgid "Center"
+msgstr "Merkez"
+
+#: includes/Editors/Elementor/Widget/Breadcrumbs.php:74
+#: includes/Editors/Elementor/Widget/Content.php:62
+#: includes/Editors/Elementor/Widget/DocDate.php:71
+#: includes/Editors/Elementor/Widget/Feedback.php:239
+#: includes/Editors/Elementor/Widget/Feedback.php:387
+#: includes/Editors/Elementor/Widget/Title.php:104
+#: includes/Editors/Elementor/Widget/ToC.php:209 assets/blocks/editor.js:1
+msgid "Alignment"
+msgstr "Hizalama"
+
+#: includes/Editors/Elementor/Widget/DocShare.php:98
+#: includes/Editors/Elementor/Widget/Feedback.php:194
+#: includes/Editors/Elementor/Widget/Reactions.php:82
+#: includes/Editors/Elementor/Widget/Sidebar.php:299 assets/blocks/editor.js:1
+msgid "Height"
+msgstr "Yükseklik"
+
+#: includes/Core/Settings.php:1243
+msgid "Feedback Link Text"
+msgstr "Geri bildirim Bağlantı Metini"
+
+#: includes/Editors/BlockEditor/Blocks/CategoryBox.php:46
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:214
+#: includes/Shortcodes/CategoryBox.php:98 assets/blocks/editor.js:1
+msgid "article"
+msgstr "Makale"
+
+#: includes/blocks.php:64 includes/Editors/Elementor/Widget/Content.php:19
+#: assets/blocks/editor.js:1
+msgid "Doc Content"
+msgstr "Doküman İçeriği"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:1711
+msgid "Docs List Item Color"
+msgstr "Docs List Item Color"
+
+#: includes/Core/Settings.php:1251
+#: includes/Editors/Elementor/Widget/Feedback.php:68 assets/blocks/editor.js:1
+msgid "Feedback Form Title"
+msgstr "Geri Bildirim Formu Başlığı"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1826
+#: includes/Editors/Elementor/Widget/Feedback.php:60 assets/blocks/editor.js:1
+msgid "Content"
+msgstr "İçerik"
+
+#: includes/Editors/Elementor/Widget/Feedback.php:53
+msgid "General "
+msgstr "Genel"
+
+#: includes/Editors/Elementor/Widget/Feedback.php:20
+msgid "Doc Feedback"
+msgstr "Geliştirici Geri Bildirimi"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:382
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:694
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:799
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:944
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:916
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1500
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:518
+#: includes/Editors/Elementor/Widget/Sidebar.php:399
+#: includes/Editors/Elementor/Widget/Sidebar.php:710
+#: includes/Editors/Elementor/Widget/Sidebar.php:841
+#: includes/Editors/Elementor/Widget/Sidebar.php:1117
+msgid "Transition"
+msgstr "Geçiş"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:376
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:653
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:782
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:938
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1288
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1483
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1661
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1783
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1899
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:351
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:485
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:673
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:910
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1494
+#: includes/Editors/Elementor/Widget/Basic/FAQ.php:271
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:512
+#: includes/Editors/Elementor/Widget/Sidebar.php:393
+#: includes/Editors/Elementor/Widget/Sidebar.php:662
+#: includes/Editors/Elementor/Widget/Sidebar.php:815
+#: includes/Editors/Elementor/Widget/Sidebar.php:1057
+msgid "Hover"
+msgstr "Vurgu"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:829
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:764
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:580
+#: includes/Editors/Elementor/Widget/Sidebar.php:923 assets/blocks/editor.js:1
+msgid "Count"
+msgstr "Adet"
+
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:450
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:560
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:589
+#: assets/blocks/editor.js:1
+msgid "Item Color"
+msgstr "Öğelerin rengi"
+
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:434
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:540
+msgid "Item"
+msgstr "Ürün"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:272
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:575
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:751
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:890
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1208
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1392
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1603
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1749
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1840
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:304
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:444
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:599
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:806
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1414
+#: includes/Editors/Elementor/Widget/Basic/FAQ.php:245
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:428
+#: includes/Editors/Elementor/Widget/Sidebar.php:345
+#: includes/Editors/Elementor/Widget/Sidebar.php:549
+#: includes/Editors/Elementor/Widget/Sidebar.php:755
+#: includes/Editors/Elementor/Widget/Sidebar.php:941
+#: includes/Editors/Elementor/Widget/Title.php:188
+#: includes/Editors/Elementor/Widget/ToC.php:285 assets/blocks/editor.js:1
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:418
+#: assets/blocks/editor.js:1
+msgid "Search Result List"
+msgstr "Arama Sonucu Formatı"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:288
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:414
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:594
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:670
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:908
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:987
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1257
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1267
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1337
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1347
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1452
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1462
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1534
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1544
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1637
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1696
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:329
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:376
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:463
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:504
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:629
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:703
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:853
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:979
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1246
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1445
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1548
+#: includes/Editors/Elementor/Widget/Basic/FAQ.php:252
+#: includes/Editors/Elementor/Widget/Basic/FAQ.php:278
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:403
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:462
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:572
+#: includes/Editors/Elementor/Widget/DocShare.php:150
+#: includes/Editors/Elementor/Widget/Reactions.php:134
+#: includes/Editors/Elementor/Widget/Sidebar.php:362
+#: includes/Editors/Elementor/Widget/Sidebar.php:441
+#: includes/Editors/Elementor/Widget/Sidebar.php:582
+#: includes/Editors/Elementor/Widget/Sidebar.php:689
+#: includes/Editors/Elementor/Widget/Sidebar.php:971
+#: includes/Editors/Elementor/Widget/Sidebar.php:1087 assets/blocks/editor.js:1
+msgid "Border"
+msgstr "Kenar"
+
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:371
+#: assets/blocks/editor.js:1
+msgid "Max Width"
+msgstr "Maksimum genişlik"
+
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:349
+#: includes/Editors/Elementor/Widget/DocShare.php:65
+#: includes/Editors/Elementor/Widget/Feedback.php:176
+#: includes/Editors/Elementor/Widget/Feedback.php:352
+#: includes/Editors/Elementor/Widget/Reactions.php:64 assets/blocks/editor.js:1
+msgid "Width"
+msgstr "Genişlik"
+
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:341
+#: assets/blocks/editor.js:1
+msgid "Search Result Box"
+msgstr "Arama Sonuç Kutusu"
+
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:323
+#: includes/Editors/Elementor/Widget/Sidebar.php:895 assets/blocks/editor.js:1
+msgid "Border Color"
+msgstr "Sınır rengi"
+
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:303
+#: assets/blocks/editor.js:1
+msgid "Close Icon"
+msgstr "Kapat Simgesi"
+
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:266
+#: assets/blocks/editor.js:1
+msgid "Search Icon"
+msgstr "Arama Simgesi"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:296
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:422
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:602
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:679
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:916
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:995
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1645
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:337
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:384
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:471
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:512
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:657
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:711
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:864
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:990
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1454
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1556
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:254
+#: includes/Editors/Elementor/Widget/DocShare.php:158
+#: includes/Editors/Elementor/Widget/Reactions.php:142
+#: includes/Editors/Elementor/Widget/Sidebar.php:370
+#: includes/Editors/Elementor/Widget/Sidebar.php:449
+#: includes/Editors/Elementor/Widget/Sidebar.php:590
+#: includes/Editors/Elementor/Widget/Sidebar.php:697
+#: includes/Editors/Elementor/Widget/Sidebar.php:979
+#: includes/Editors/Elementor/Widget/Sidebar.php:1096
+msgid "Border Radius"
+msgstr "Sınır Yarıçapı"
+
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:214
+#: assets/blocks/editor.js:1
+msgid "Field Padding"
+msgstr "Alan Dolgusu"
+
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:184
+#: assets/blocks/editor.js:1
+msgid "Field Background Color"
+msgstr "Alan Arkaplan Rengi"
+
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:176
+#: assets/blocks/editor.js:1
+msgid "Search Field"
+msgstr "Arama alanı"
+
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:116
+#: assets/blocks/editor.js:1
+msgid "Search Box"
+msgstr "Arama kutusu"
+
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:23
+msgid "Doc Search Form"
+msgstr "Doküman Arama Formu"
+
+#: includes/Editors/Elementor/Widget/Reactions.php:24
+msgid "Doc Reactions"
+msgstr "Dokümantasyon Tepkileri"
+
+#: includes/Core/Settings.php:1166
+msgid "Content Offset"
+msgstr "İçerik Uzaklığı"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:63
+msgid "Select Category Layout"
+msgstr "Kategori Düzeni Seçin"
+
+#: includes/Core/Settings.php:1169
+msgid "content offset from top on scroll."
+msgstr "içerik kaydırmada üstten uzak."
+
+#: includes/Core/Settings.php:555
+msgid "BetterDocs Root Slug"
+msgstr "BetterDocs Kalıcı Bağlantı Kökü"
+
+#: includes/Admin/Customizer/Sections/Sidebar.php:752
+msgid "Size (Height, Width)"
+msgstr "Boyut (Yükseklik, Genişlik)"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:1245
+#: includes/Admin/Customizer/Sections/Sidebar.php:730
+msgid "Inner Circle Background Color"
+msgstr "İç Çember Arka Plan Rengi"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:1135
+msgid "Category Item Counter"
+msgstr "Kategori Öğe Sayacı"
+
+#: includes/Core/Settings.php:852
+msgid "Search Placeholder"
+msgstr "Canlı Arama Kutusunun İçindeki Örnek Metin (Ara)"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:379
+msgid "Sub Heading Margin"
+msgstr "Alt Başlık Marjı"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:356
+msgid "Sub Heading Color"
+msgstr "Alt Başlık Rengi"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:839
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:617
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1227
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1307
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1411
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1502
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1621
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1680
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:547
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:730
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1467
+#: includes/Editors/Elementor/Widget/Basic/FAQ.php:200
+#: includes/Editors/Elementor/Widget/Basic/FAQ.php:309
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:133
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:470
+#: includes/Editors/Elementor/Widget/DocShare.php:302
+#: includes/Editors/Elementor/Widget/Feedback.php:375
+#: includes/Editors/Elementor/Widget/Sidebar.php:288
+#: includes/Editors/Elementor/Widget/Sidebar.php:602
+#: includes/Editors/Elementor/Widget/Sidebar.php:801 assets/blocks/editor.js:1
+msgid "Padding"
+msgstr "Dolgu"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:330
+msgid "Sub Heading Font Size"
+msgstr "Alt Başlık Yazı Tipi Boyutu"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:276
+msgid "Sub Heading"
+msgstr "Alt Başlık"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:171
+msgid "Heading Margin"
+msgstr "Başlık Marjı"
+
+#: includes/Core/Settings.php:548 includes/Core/SetupWizard.php:189
+msgid "Documentation Page Title"
+msgstr "Dokümantasyon Sayfa Başlığı"
+
+#: includes/Core/Scripts.php:60
+msgid "Copied"
+msgstr "Kopyalandı"
+
+#: views/admin/taxonomy/edit.php:4
+msgid "Category Id"
+msgstr "Kategori kimliği"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:148
+#: assets/blocks/editor.js:1
+msgid "Heading Color"
+msgstr "Başlık Rengi"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:122
+msgid "Heading Font Size"
+msgstr "Başlık Yazı tipi Boyutu"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:68
+#: includes/Editors/Elementor/Widget/Feedback.php:212
+msgid "Heading"
+msgstr "Başlık"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:47
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:92
+msgid "Search Heading"
+msgstr "Başlık Ara"
+
+#: includes/Admin/Customizer/Sections/Sidebar.php:426
+#: includes/Editors/Elementor/Widget/Basic/FAQ.php:171
+#: assets/blocks/editor.js:1
+msgid "Title Hover Color"
+msgstr "Başlık Vurgulu Rengi"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1746
+msgid "Feedback Icon"
+msgstr "Geri Bildirim Simgesi"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1723
+msgid "Feedback Icon Size"
+msgstr "Geri Bildirim Simgesi Boyutu"
+
+#: includes/Admin/Customizer/Sections/BreadCrumb.php:81
+#: includes/Editors/Elementor/Widget/ArchiveList.php:172
+#: includes/Editors/Elementor/Widget/ArchiveList.php:275
+#: includes/Editors/Elementor/Widget/ArchiveList.php:382
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1075
+#: includes/Editors/Elementor/Widget/Reactions.php:279
+#: includes/Editors/Elementor/Widget/Sidebar.php:1207
+#: includes/Editors/Elementor/Widget/Sidebar.php:1331 assets/blocks/editor.js:1
+msgid "Hover Color"
+msgstr "Vurgu Rengi"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:968
+msgid "Category Title Hover Color"
+msgstr "Kategori Başlığı Vurgu Rengi"
+
+#: includes/Core/Settings.php:1095
+msgid "TOC Hierarchy"
+msgstr "Hiyerarşiyi göster"
+
+#: includes/Core/Settings.php:1131
+msgid "Collapsible TOC on small devices"
+msgstr "Küçük cihazlarda daraltılabilir TOC"
+
+#: includes/Core/Settings.php:192 includes/Core/Settings.php:779
+#: includes/Editors/BlockEditor/Blocks/CategoryGrid.php:77
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:277
+#: assets/blocks/editor.js:1
+msgid "Explore More"
+msgstr "Daha Fazlasını Keşfedin"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:916
+msgid "Archive Description Margin"
+msgstr "Arşiv Açıklama Marjı"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:891
+msgid "Description Font Size"
+msgstr "Yazı Tipi Boyutu Açıklama"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:869
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1866
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1925
+#: assets/blocks/editor.js:1
+msgid "Description Color"
+msgstr "Açıklama Renk"
+
+#: includes/Shortcodes/FeedbackForm.php:108
+msgid "Send"
+msgstr "Gönder"
+
+#: includes/Core/KBMigration.php:58 includes/Core/KBMigration.php:65
+#: includes/Core/KBMigration.php:84 includes/Core/SetupWizard.php:316
+#: includes/Core/SetupWizard.php:323
+msgid "Migration"
+msgstr "Göç"
+
+#: includes/Core/Admin.php:530
+msgid "Quick Setup"
+msgstr "Hızlı Kurulum"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:913
+msgid "Sticky Toc Margin Top"
+msgstr "Yapışkan Toc Kenar Boşluğu Üst"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:893
+msgid "Sticky Toc z-index"
+msgstr "Yapışkan Toc z-endeksi"
+
+#: includes/Core/Settings.php:1297 includes/Editors/Elementor.php:363
+#: includes/Editors/Elementor.php:377 includes/Editors/Elementor.php:442
+#: includes/Editors/Elementor/Widget/ArchiveList.php:96
+#: assets/blocks/editor.js:1
+msgid "Nested Subcategory"
+msgstr "İç İçe Alt Kategori"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:1326
+#: includes/Admin/Customizer/Sections/DocsPage.php:2141
+msgid "Subcategory Icon Font Size"
+msgstr "Alt Kategori Simgesi Yazı Tipi Boyutu"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:1303
+#: includes/Admin/Customizer/Sections/DocsPage.php:2116
+msgid "Subcategory Icon Color"
+msgstr "Alt Kategori Simge Rengi"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:1254
+#: includes/Admin/Customizer/Sections/DocsPage.php:2064
+msgid "Docs Subcategory Hover Color"
+msgstr "Dokümanlar Alt Kategorisinin Fareyle Üzerine Gelme Rengi"
+
+#: includes/Core/Settings.php:1432 includes/Core/Settings.php:1438
+msgid "Advanced Settings"
+msgstr "Gelişmiş Ayarlar"
+
+#: includes/Core/Settings.php:1466
+msgid "Who Can Check Analytics?"
+msgstr "Analytics'i Kim Kontrol Edebilir?"
+
+#: includes/Core/Settings.php:1455
+msgid "Who Can Edit Settings?"
+msgstr "Ayarları Kim Düzenleyebilir?"
+
+#: includes/Core/Settings.php:206 includes/Core/Settings.php:1193
+msgid "Home"
+msgstr "Başlangıç"
+
+#: includes/Admin/Customizer/Sections/Sidebar.php:839
+msgid "List Background Color"
+msgstr "Başlık Arkaplan Rengi"
+
+#: includes/Admin/Customizer/Sections/Sidebar.php:819
+msgid "Sidebar Content"
+msgstr "Kenar Çubuğu İçeriği"
+
+#: includes/Admin/Customizer/Sections/Sidebar.php:689
+msgid "Sidebar Item Counter"
+msgstr "Kenar Çubuğu Öğe Sayacı"
+
+#: includes/Admin/Customizer/Sections/Sidebar.php:595
+#: includes/Editors/Elementor/Widget/Title.php:231
+#: includes/Editors/Elementor/Widget/ToC.php:321 assets/blocks/editor.js:1
+msgid "Title Margin"
+msgstr "Başlık Marjı"
+
+#: includes/Admin/Customizer/Sections/Sidebar.php:495
+#: includes/Editors/Elementor/Widget/Title.php:212
+#: includes/Editors/Elementor/Widget/ToC.php:309 assets/blocks/editor.js:1
+msgid "Title Padding"
+msgstr "Başlık Dolgusu"
+
+#: includes/Admin/Customizer/Sections/Sidebar.php:385
+msgid "Active Title Border Color"
+msgstr "Aktif Başlık Kenar Rengi"
+
+#: includes/Admin/Customizer/Sections/Sidebar.php:364
+msgid "Active Title Background Color"
+msgstr "Aktif Başlık Arka Plan Rengi"
+
+#: includes/Admin/Customizer/Sections/Sidebar.php:343
+msgid "Title Background Color"
+msgstr "Başlık Arka Plan Rengi"
+
+#: includes/Admin/Customizer/Sections/Sidebar.php:268
+msgid "Sidebar Title"
+msgstr "Kenar Çubuğu Başlığı"
+
+#: includes/Admin/Customizer/Sections/Sidebar.php:173
+msgid "Sidebar Border Radius"
+msgstr "Kenar Çubuğu Sınır Yarıçapı"
+
+#: includes/Admin/Customizer/Sections/Sidebar.php:71
+msgid "Sidebar Padding"
+msgstr "Kenar Çubuğu Dolgusu"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1465
+msgid "TOC Margin Bottom"
+msgstr "TOC Marjı Alt"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:845 includes/blocks.php:112
+#: includes/Core/Settings.php:195 includes/Core/Settings.php:1078
+#: includes/Core/Settings.php:1087 views/shortcodes/toc.php:13
+msgid "Table of Contents"
+msgstr "İçindekiler"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:515
+msgid "Post Content Padding"
+msgstr "Yazı İçeriği Dolgusu"
+
+#: views/admin/customizer/controls/multidimension.php:12
+#: views/admin/customizer/controls/number.php:15
+#: views/admin/customizer/controls/padding.php:20
+#: views/admin/customizer/controls/range-value.php:14
+#: views/admin/customizer/controls/title.php:15
+#: assets/admin/js/quick-setup.js:1 assets/admin/js/settings.js:1
+msgid "Reset"
+msgstr "Sıfırla"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:1008
+msgid "Category Description"
+msgstr "Kategori Açıklama"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:797
+msgid "Column Border Radius"
+msgstr "Sütun Kenarlığı Yarıçapı"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:599
+msgid "Column Hover Background Color"
+msgstr "Sütun Vurgusu Arka Plan Rengi"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:556
+#: includes/Admin/Customizer/Sections/DocsPage.php:578
+msgid "Column Background Color"
+msgstr "Sütun Arka Plan Rengi"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1616
+msgid "Title Text Color"
+msgstr "Başlık Metin Rengi"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:867
+msgid "Sticky Toc Width"
+msgstr "Yapışkan Toc Genişliği"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:723
+msgid "Post Title"
+msgstr "Yazı başlığı"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:1543
+msgid "Counter"
+msgstr "Sayaç"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:1522
+#: includes/Core/Settings.php:910 includes/Editors/Elementor.php:229
+#: includes/Editors/Elementor.php:266 includes/Editors/Elementor.php:417
+#: includes/Editors/Elementor.php:491
+#: includes/Editors/Elementor/Widget/ArchiveList.php:71
+#: assets/blocks/editor.js:1
+msgid "Description"
+msgstr "Açıklama"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:1459
+msgid "Content Space Between"
+msgstr "İçerik Boşluğu"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:1030
+msgid "Category Description Color"
+msgstr "Kategori Açıklama Renk"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:1501
+#: includes/Core/Settings.php:936
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:727
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1727
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:578
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1206
+#: includes/Editors/Elementor/Widget/DocShare.php:180
+#: includes/Editors/Elementor/Widget/DocShare.php:220
+#: includes/Editors/Elementor/Widget/Reactions.php:164
+#: includes/Editors/Elementor/Widget/Sidebar.php:745
+#: includes/Editors/Elementor/Widget/Title.php:49
+#: includes/Editors/Elementor/Widget/Title.php:56
+#: includes/Editors/Elementor/Widget/Title.php:145
+#: includes/Editors/Elementor/Widget/ToC.php:243 assets/blocks/editor.js:1
+msgid "Title"
+msgstr "Başlık"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1552
+#: includes/blocks.php:104
+msgid "Social Share"
+msgstr "Sosyal Paylaşım"
+
+#: views/templates/parts/credit.php:14
+msgid "Powered by "
+msgstr "Tarafından desteklenmektedir"
+
+#: includes/Core/Settings.php:216
+#: includes/Editors/BlockEditor/Blocks/FeedbackForm.php:31
+#: includes/Editors/Elementor/Widget/Feedback.php:70
+#: views/templates/feedback-parts/form.php:97
+#: views/widgets/feedback-form.php:79
+msgid "How can we help?"
+msgstr "Nasıl yardımcı olabiliriz?"
+
+#: includes/Core/Settings.php:214 includes/Core/Settings.php:1244
+#: includes/Core/Settings.php:1252
+#: includes/Editors/BlockEditor/Blocks/FeedbackForm.php:30
+#: includes/Editors/Elementor/Widget/Feedback.php:62
+#: views/templates/feedback-parts/form.php:86
+msgid "Still stuck? How can we help?"
+msgstr "Hala sıkışık? Nasıl yardımcı olabiliriz?"
+
+#: includes/FrontEnd/TemplateTags.php:333
+msgid "Copy URL"
+msgstr "Url'yi kopyala"
+
+#: includes/Shortcodes/FeedbackForm.php:89
+msgid "Thanks! Your message has been sent."
+msgstr "Teşekkürler! Mesajınız gönderildi."
+
+#: includes/Shortcodes/FeedbackForm.php:92
+msgid "Message was not sent. Try Again."
+msgstr "Mesaj gönderilmedi. Tekrar deneyin."
+
+#: includes/Shortcodes/FeedbackForm.php:52
+msgid "Please write your message."
+msgstr "Lütfen mesajınızı yazınız."
+
+#: includes/Shortcodes/FeedbackForm.php:47
+msgid "Enter a valid email address."
+msgstr "Geçerli bir e-posta adresi girin."
+
+#: includes/Core/PostType.php:601
+msgid "Add New Tag"
+msgstr "Yeni Etiket Ekle"
+
+#: includes/Core/PostType.php:600
+msgid "Update Tag"
+msgstr "Etiketi Güncelle"
+
+#: includes/Core/PostType.php:599
+msgid "Edit Tag"
+msgstr "Etiketi düzenle"
+
+#: includes/Core/PostType.php:596
+msgid "All Tags"
+msgstr "Tüm Etiketler"
+
+#: includes/Core/PostType.php:595
+msgid "Popular Tags"
+msgstr "Popüler etiketler"
+
+#: includes/Core/PostType.php:594
+msgid "Search Tags"
+msgstr "Etiketlerde Ara"
+
+#: includes/Core/PostType.php:593
+msgid "Tag"
+msgstr "Etiket"
+
+#: includes/Core/PostType.php:592
+msgid "Docs Tags"
+msgstr "Dokümanlar Etiketleri"
+
+#: includes/Core/PostType.php:554
+msgid "Add New Docs Category"
+msgstr "Yeni Dokümanlar Kategorisi Ekle"
+
+#: includes/Core/FAQBuilder.php:76 includes/Core/PostType.php:553
+msgid "Update Category"
+msgstr "Kategoriyi Güncelle"
+
+#: includes/Core/FAQBuilder.php:75 includes/Core/PostType.php:552
+msgid "Edit Category"
+msgstr "Kategoriyi Düzenle"
+
+#: includes/Core/PostType.php:551
+msgid "Parent Docs Category:"
+msgstr "Ana Dokümanlar Kategorisi:"
+
+#: includes/Core/PostType.php:550
+msgid "Parent Docs Category"
+msgstr "Üst Dokümanlar Kategorisi"
+
+#: includes/Core/PostType.php:548 includes/Core/Settings.php:1953
+#: includes/Editors/BlockEditor/Patterns/BasePattern.php:18
+#: includes/Utils/BlockTemplate.php:353
+msgid "Docs Category"
+msgstr "Dokümanlar Kategorisi"
+
+#: includes/Utils/Insights.php:787
+msgid "Other"
+msgstr "Diğer"
+
+#: includes/Utils/Insights.php:785
+msgid "It's a temporary deactivation"
+msgstr "Bu geçici bir devre dışı bırakma"
+
+#: includes/Utils/Insights.php:784
+msgid "I couldn't get the plugin to work"
+msgstr "Eklentinin çalışmasını sağlayamadım"
+
+#: includes/Utils/Insights.php:782
+msgid "Please share which plugin"
+msgstr "Lütfen hangi eklentiyi paylaşın"
+
+#: includes/Utils/Insights.php:781
+msgid "I found a better plugin"
+msgstr "Daha iyi bir eklenti buldum"
+
+#: includes/Utils/Insights.php:779
+msgid "I no longer need the plugin"
+msgstr "Artık eklentiye ihtiyacım yok"
+
+#: includes/Utils/Insights.php:776
+msgid "Before you deactivate the plugin, would you quickly give us your reason for doing so?"
+msgstr "Eklentiyi devre dışı bırakmadan önce, bize bunu yapma nedeninizi hemen söyler misiniz?"
+
+#: includes/Utils/Insights.php:775
+msgid "Sorry to see you go"
+msgstr "Gittiğini görmek üzücü"
+
+#: includes/Utils/Insights.php:668
+msgid "No Thanks."
+msgstr "Hayır teşekkürler."
+
+#: includes/Utils/Insights.php:667
+msgid "Sure, I'd like to help"
+msgstr "Elbette yardım etmek isterim"
+
+#: includes/Utils/Insights.php:397
+msgid "We can't detect any plugin information. This is most probably because you have not included the code in the plugin main file."
+msgstr "Herhangi bir eklenti bilgisi tespit edemiyoruz. Bunun nedeni büyük olasılıkla kodu eklenti ana dosyasına eklememiş olmanızdır."
+
+#: views/admin/settings/sidebar.php:19
+msgid "<a rel=\"nofollow\" href=\"%s\" target=\"_blank\">Upgrade to Pro</a>"
+msgstr "<a rel=\"nofollow\" href=\"%s\" target=\"_blank\">Yükselt PRO</a>"
+
+#: includes/Core/SetupWizard.php:93
+msgid "Previous"
+msgstr "Önceki"
+
+#: includes/Core/SetupWizard.php:287
+msgid "Finalize"
+msgstr "Sonuçlandırmak"
+
+#: includes/Core/SetupWizard.php:262
+msgid "Customize"
+msgstr "Özelleştir"
+
+#: includes/Core/SetupWizard.php:237
+msgid "Create Content"
+msgstr "İçerik Oluşturun"
+
+#: includes/Core/Settings.php:1686
+msgid "Enable Instant Answer"
+msgstr "Anında Yanıtlamayı Etkinleştir"
+
+#: includes/Core/SetupWizard.php:125
+msgid "Getting Started"
+msgstr "Başlarken"
+
+#: includes/Shortcodes/FeedbackForm.php:42
+msgid "Please enter your name."
+msgstr "Lütfen isim girin ."
+
+#: includes/Editors/BlockEditor/Blocks/CategoryBox.php:45
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:200
+#: includes/Shortcodes/CategoryBox.php:99 assets/blocks/editor.js:1
+msgid "articles"
+msgstr "nesne"
+
+#: includes/Core/Settings.php:176 views/templates/taxonomy-doc_tag.php:78
+msgid "Sorry, no docs were found."
+msgstr "Maalesef hiçbir doküman bulunamadı."
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:1480
+msgid "Image"
+msgstr "Resim"
+
+#: views/admin/taxonomy/add.php:28 views/admin/taxonomy/edit.php:55
+msgid "Remove Image"
+msgstr "Resimi Kaldır"
+
+#: views/admin/taxonomy/add.php:22 views/admin/taxonomy/edit.php:48
+msgid "Add Image"
+msgstr "Resim Ekle "
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1573
+#: views/admin/taxonomy/add.php:12 views/admin/taxonomy/edit.php:27
+msgid "Category Icon"
+msgstr "Kategori Simgesi"
+
+#: includes/Core/PostType.php:605
+msgid "Choose from the most used tags"
+msgstr "En çok kullanılan etiketler arasından seçim yapın"
+
+#: includes/Core/PostType.php:604
+msgid "Add or remove tags"
+msgstr "Etiket ekle veya kaldır"
+
+#: includes/Core/PostType.php:603
+msgid "Separate tags with commas"
+msgstr "Etiketleri virgülle ayırın"
+
+#: includes/Core/PostType.php:602
+msgid "New Tag Name"
+msgstr "Yeni Etiket İsim Soyisim"
+
+#: views/admin/settings/sidebar.php:17
+msgid "<a rel=\"nofollow\" href=\"%s\" target=\"_blank\">Manage License</a>"
+msgstr "<a rel=\"nofollow\" href=\"%s\" target=\"_blank\">Lisansı Yönet</a>"
+
+#: views/admin/settings/blocks.php:72
+msgid "Leave a Review"
+msgstr "İnceleme bırak"
+
+#: views/admin/settings/blocks.php:70
+msgid "We love to have you in BetterDocs family. We are making it more awesome everyday. Take your 2 minutes to review the plugin and spread the love to encourage us to keep it going."
+msgstr "BetterDocs ailesinde olmanızı çok seviyoruz. Her gün daha da harika hale getiriyoruz. Eklentiyi incelemek için 2 dakikanızı ayırın ve devam etmemiz için bizi cesaretlendirmek için sevginizi gösterin."
+
+#: views/admin/settings/blocks.php:69
+msgid "Show Your Love"
+msgstr "Sevgini göster"
+
+#: views/admin/settings/blocks.php:55
+msgid "Initiate a Chat"
+msgstr "Sohbet başlatın"
+
+#: views/admin/settings/blocks.php:53
+msgid "Stuck with something? Get help from live chat or support ticket."
+msgstr "Bir şeye mi takıldınız? Canlı sohbet veya destek biletinden yardım alın."
+
+#: views/admin/settings/blocks.php:52
+msgid "Need Help?"
+msgstr "Yardıma mı ihtiyacınız var?"
+
+#: views/admin/settings/blocks.php:19
+msgid "Get started by spending some time with the documentation to get familiar with BetterDocs. Build an awesome Knowledge Base for your customers with ease."
+msgstr "BetterDocs hakkında bilgi edinmek için belgelerle biraz zaman geçirerek başlayın. Müşterileriniz için kolaylıkla harika bir Bilgi Bankası oluşturun."
+
+#: views/admin/settings/blocks.php:18 views/admin/settings/blocks.php:21
+msgid "Documentation"
+msgstr "Dokümantasyon"
+
+#: includes/Core/SetupWizard.php:92
+msgid "Skip This Step"
+msgstr "Bu adımı atla"
+
+#: includes/Core/SetupWizard.php:149
+msgid "What We Collect?"
+msgstr "Ne Topluyoruz?"
+
+#: includes/Core/SetupWizard.php:33
+msgid "Next"
+msgstr "Sonraki"
+
+#: includes/Core/Admin.php:167
+msgid "We hope you're enjoying BetterDocs! Could you please do us a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+msgstr "BetterDocs'tan keyif aldığınızı umuyoruz! Lütfen bize BÜYÜK bir iyilik yapıp, kelimeyi yaymamıza ve motivasyonumuzu artırmamıza yardımcı olması için WordPress'te 5 yıldızlı bir derecelendirme verebilir misiniz?"
+
+#: includes/Core/Admin.php:203
+msgid "Never show again"
+msgstr "Bir daha asla gösterme"
+
+#: includes/Core/Admin.php:199
+msgid "I need help"
+msgstr "yardıma ihtiyacım var"
+
+#: includes/Core/Admin.php:187
+msgid "Maybe Later"
+msgstr "Belki sonra"
+
+#: includes/Core/Admin.php:180
+msgid "I already did"
+msgstr "zaten yaptım"
+
+#: includes/blocks.php:120 includes/Core/Settings.php:1363
+#: assets/blocks/editor.js:1
+msgid "Feedback Form"
+msgstr "Geri bildirim formu"
+
+#: includes/Core/Settings.php:1352
+msgid "Search Form"
+msgstr "Arama Formu"
+
+#: includes/Core/Settings.php:1396
+#: includes/Editors/Elementor/Widget/ArchiveList.php:126
+#: includes/Editors/Elementor/Widget/Sidebar.php:1180
+msgid "Category List"
+msgstr "Kategori Listesi"
+
+#: includes/Editors/Elementor.php:156
+msgid "Category Grid"
+msgstr "Kategori Tablosu"
+
+#: includes/Core/Settings.php:1325 assets/admin/js/settings.js:1
+msgid "Customize BetterDocs"
+msgstr "BetterDocs'u özelleştirin"
+
+#: includes/Core/Settings.php:1312 includes/Core/Settings.php:1318
+msgid "Design"
+msgstr "Tasarım "
+
+#: includes/Core/Settings.php:1259
+msgid "Email Address"
+msgstr "Email Adres"
+
+#: includes/Core/Settings.php:1140
+msgid "Title Link Copy To Clipboard"
+msgstr "Başlık Bağlantısı Panoya Kopyala"
+
+#: includes/Core/Settings.php:1147
+msgid "TOC Supported Heading Tag"
+msgstr "TOC Destekli Başlık Etiketi"
+
+#: includes/Editors/Elementor/Widget/Sidebar.php:215
+msgid "Enable Sticky TOC"
+msgstr "Yapışkan TOC'yi etkinleştir"
+
+#: includes/Core/PostType.php:547 includes/Core/PostType.php:549
+msgid "Docs Categories"
+msgstr "Dokümanlar Kategorileri"
+
+#: includes/Core/PostType.php:509
+msgid "Add new doc from here"
+msgstr "Buradan yeni doküman ekleyin"
+
+#: includes/Core/PostType.php:502
+msgid "No docs found in trash"
+msgstr "Çöp kutusunda doküman bulunamadı"
+
+#: includes/Core/PostType.php:501
+msgid "No docs found"
+msgstr "Doküman bulunamadı"
+
+#: includes/Core/PostType.php:499
+msgid "Search Docs"
+msgstr "Dokümanlarda Ara"
+
+#: includes/Core/Admin.php:490 includes/Core/PostType.php:498
+msgid "All Docs"
+msgstr "Tüm Dokümanlar"
+
+#: includes/Core/PostType.php:497
+msgid "View Docs"
+msgstr "Belgeleri Görüntüle"
+
+#: includes/Core/PostType.php:496
+msgid "Edit Docs"
+msgstr "Belgeleri Düzenle"
+
+#: includes/Core/PostType.php:495
+msgid "New Docs"
+msgstr "Yeni Dokümanlar"
+
+#: includes/Core/PostType.php:494
+#: views/admin/docs-ui/grid-partials/add-item.php:1
+#: views/admin/docs-ui/grid-partials/no-category-item.php:8
+msgid "Add New Docs"
+msgstr "Yeni Doküman Ekle"
+
+#: includes/Core/PostType.php:492 includes/Core/Settings.php:164
+#: includes/Core/Settings.php:1952 views/widgets/breadcrumbs.php:14
+msgid "Docs"
+msgstr "Dokümanlar"
+
+#: includes/Utils/Insights.php:990
+msgid "Just Deactivate"
+msgstr "Sadece Devre Dışı Bırak"
+
+#: includes/Utils/Insights.php:990
+msgid "Submit and Deactivate"
+msgstr "Gönder ve Devre Dışı Bırak"
+
+#: includes/Utils/Insights.php:980
+msgid "Submitting form"
+msgstr "Form gönderiliyor"
+
+#: includes/Utils/Insights.php:788
+msgid "Please share the reason"
+msgstr "Lütfen sebebini paylaşın"
+
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:272
+#: includes/Editors/Elementor/Widget/Feedback.php:77 assets/blocks/editor.js:1
+msgid "Button Text"
+msgstr "Düğme Metni"
+
+#: includes/Core/Settings.php:671 includes/Core/Settings.php:677
+msgid "Documentation Page"
+msgstr "Dokümantasyon Sayfası"
+
+#: includes/Core/Settings.php:633
+#: includes/Editors/Elementor/Widget/Sidebar.php:114
+msgid "Layout"
+msgstr "Yerleşim"
+
+#: includes/Core/Settings.php:581
+msgid "Custom Tag Slug"
+msgstr "Özel Etiket Kalıcı Bağlantı Kökü"
+
+#: includes/Core/Settings.php:574
+msgid "Custom Category Slug"
+msgstr "Özel Kategori Kalıcı Bağlantı Kökü"
+
+#: includes/Core/Settings.php:874
+msgid "Search Result Image"
+msgstr "Search Result Image"
+
+#: includes/Core/Settings.php:1335 includes/Core/Settings.php:1343
+msgid "Shortcodes"
+msgstr "Kısa Kodlar"
+
+#: includes/Editors/Elementor.php:240 includes/Editors/Elementor.php:277
+#: includes/Editors/Elementor.php:324 includes/Editors/Elementor.php:428
+#: includes/Editors/Elementor/Widget/ArchiveList.php:82
+#: views/admin/docs-ui/classic-partials/order.php:5
+#: views/admin/taxonomy/add.php:5 views/admin/taxonomy/edit.php:19
+#: assets/blocks/editor.js:1
+msgid "Order"
+msgstr "Sırala"
+
+#: includes/Core/Admin.php:570
+msgid "Visit Documentation"
+msgstr "Belgeleri Ziyaret Edin"
+
+#: includes/Core/Admin.php:498 includes/Core/PostType.php:606
+#: includes/Core/Settings.php:1029
+msgid "Tags"
+msgstr "Etiketler"
+
+#: includes/Core/Admin.php:493 includes/Core/FAQBuilder.php:79
+#: includes/Core/PostType.php:556
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: includes/Core/Admin.php:491 includes/Core/FAQBuilder.php:113
+#: includes/Core/PostType.php:493
+msgid "Add New"
+msgstr "Yeni ekle"
+
+#: includes/Core/Admin.php:503 includes/Core/Admin.php:540
+#: assets/blocks/editor.js:1
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: includes/Admin/Customizer/Customizer.php:62
+msgid "Controls the design settings for the theme."
+msgstr "Temanın tasarım ayarlarını kontrol eder."
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1589
+msgid "Search Result Item Border Color"
+msgstr "Arama Sonucu Öğesi Kenarlık Rengi"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1483
+msgid "Search Result Item Padding"
+msgstr "Arama Sonucu Öğesi Dolgusu"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1438
+msgid "Search Result Item Font Color"
+msgstr "Arama Sonucu Öğesi Yazı Tipi Rengi"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1412
+msgid "Search Result Item Font Size"
+msgstr "Arama Sonucu Öğesi Yazı Tipi Boyutu"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:939
+msgid "Search Field Settings"
+msgstr "Arama Alanı Ayarları"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:35
+#: includes/Core/Settings.php:811
+msgid "Live Search"
+msgstr "Canlı Arama"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:769
+msgid "Archive Title Margin"
+msgstr "Arşiv Başlık Marjı"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:670
+msgid "Archive Content Border Radius"
+msgstr "Arşiv İçerik Sınır Yarıçapı"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:469
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1068
+msgid "Content Area Margin"
+msgstr "İçerik Alan Marjı"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:427
+msgid "Content Area"
+msgstr "İçerik Alan"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:105
+msgid "Page Background Color"
+msgstr "Sayfa Arka Plan Rengi"
+
+#: includes/Core/Settings.php:1283
+msgid "Archive Page"
+msgstr "Arşiv Sayfa"
+
+#: includes/Admin/Customizer/Sections/Sidebar.php:1076
+msgid "Active List Item Color"
+msgstr "Etkin Liste Öğesi Rengi"
+
+#: includes/Admin/Customizer/Sections/Sidebar.php:975
+msgid "List Item Margin"
+msgstr "Liste Öğesi Marjı"
+
+#: includes/Admin/Customizer/Sections/Sidebar.php:447
+msgid "Active Title Color"
+msgstr "Aktif Başlık Rengi"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:745
+#: includes/Admin/Customizer/Sections/DocsPage.php:770
+#: includes/Admin/Customizer/Sections/Sidebar.php:318
+#: includes/Editors/Elementor/Widget/ArchiveList.php:317
+#: includes/Editors/Elementor/Widget/Reactions.php:228
+#: assets/blocks/editor.js:1
+msgid "Icon Size"
+msgstr "Simge Boyutu"
+
+#: includes/Admin/Customizer/Sections/Sidebar.php:33 includes/blocks.php:96
+msgid "Sidebar"
+msgstr "Kenar çubuğu"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:2105
+msgid "Powered By Font Size"
+msgstr "Tarafından desteklenmektedir Yazı tipi Boyutu"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:2131
+msgid "Powered By Link Color"
+msgstr "Tarafından desteklenmektedir kısmının bağlantı rengi"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1634
+msgid "Facebook Sharing"
+msgstr "Facebook Paylaşım"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1593
+msgid "Social Sharing Title"
+msgstr "Sosyal Paylaşım Başlığı"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1571
+msgid "Enable Social Sharing?"
+msgstr "Sosyal Paylaşım etkinleştirilsin mi?"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1534
+msgid "Font Color"
+msgstr "Yazı rengi"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1486
+msgid "Entry Content"
+msgstr "Giriş İçeriği"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1438
+msgid "List Number Font Size"
+msgstr "Liste Numarası Yazı Tipi Boyutu"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1416
+msgid "List Number Color"
+msgstr "Liste Numarası Rengi"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1311
+msgid "TOC List Margin"
+msgstr "TOC Liste Marjı"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:1106
+#: includes/Admin/Customizer/Sections/Sidebar.php:902
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1284
+msgid "List Item Font Size"
+msgstr "Liste Öğesi Yazı Tipi Boyutu"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:1084
+#: includes/Admin/Customizer/Sections/Sidebar.php:880
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1240
+msgid "List Item Hover Color"
+msgstr "Liste Öğesi Vurgu Rengi"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:1064
+#: includes/Admin/Customizer/Sections/Sidebar.php:860
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1219
+msgid "List Item Color"
+msgstr "Liste Öğesi Rengi"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:745
+#: includes/Admin/Customizer/Sections/Sidebar.php:469
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1194
+msgid "Title Font Size"
+msgstr "Başlık Yazı Tipi Boyutu"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:723
+#: includes/Admin/Customizer/Sections/Sidebar.php:406
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1171
+#: includes/Editors/Elementor/Widget/Basic/FAQ.php:160
+#: assets/blocks/editor.js:1
+msgid "Title Color"
+msgstr "Başlık Rengi"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:1224
+#: includes/Admin/Customizer/Sections/LiveSearch.php:485
+#: includes/Admin/Customizer/Sections/Sidebar.php:49
+#: includes/Admin/Customizer/Sections/Sidebar.php:709
+#: includes/Admin/Customizer/Sections/SingleDoc.php:939
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1432
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1523
+#: includes/Editors/Elementor/Widget/Reactions.php:246
+#: includes/Editors/Elementor/Widget/Sidebar.php:322
+#: includes/Editors/Elementor/Widget/ToC.php:162 assets/blocks/editor.js:1
+msgid "Background Color"
+msgstr "Arka plan rengi"
+
+#: includes/Admin/Customizer/Sections/BreadCrumb.php:125
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1261
+msgid "Active Item Color"
+msgstr "Aktif Öğe Rengi"
+
+#: includes/Core/Settings.php:524
+msgid "General Settings"
+msgstr "Genel Ayarlar"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:2082
+msgid "Powered by Color"
+msgstr "Renk ile Güçlendirildi"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:2056
+msgid "Last Updated Time Font Size"
+msgstr "Son Güncelleme Zamanı Yazı Tipi Boyutu"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:2033
+msgid "Last Updated Time Color"
+msgstr "Son Güncelleme Zamanı Rengi"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:2007
+msgid "Navigation Arrow Font Size"
+msgstr "Gezinme Oku Yazı Tipi Boyutu"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1984
+msgid "Navigation Arrow Color"
+msgstr "Gezinme Ok Rengi"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1962
+msgid "Navigation Hover Color"
+msgstr "Gezinme Vurgu Rengi"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1937
+msgid "Navigation Font Size"
+msgstr "Gezinme Yazı Tipi Boyutu"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1914
+msgid "Navigation Color"
+msgstr "Gezinme Rengi"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1809
+msgid "Feedback Link Font Size"
+msgstr "Geri Bildirim Bağlantısı Yazı Tipi Boyutu"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1786
+msgid "Feedback Link Hover Color"
+msgstr "Geri Bildirim Bağlantısı Vurgu Rengi"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1765
+msgid "Feedback Link Color"
+msgstr "Geri Bildirim Bağlantı Rengi"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1701
+msgid "Entry Footer"
+msgstr "Giriş Altbilgisi"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1685
+msgid "Pinterest Sharing"
+msgstr "Pinterest Paylaşımı"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1669
+msgid "Linkedin Sharing"
+msgstr "Linkedin Paylaşımı"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1652
+msgid "Twitter Sharing"
+msgstr "Twitter Paylaşımı"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1389
+msgid "Search Result Box Border Color"
+msgstr "Arama Sonucu Kutusu Kenarlık Rengi"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1367
+msgid "Search Result Box Background Color"
+msgstr "Arama Sonucu Kutusu Arka Plan Rengi"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1342
+msgid "Search Result Box Maximum Width"
+msgstr "Arama Sonucu Kutusu Maksimum Genişliği"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1316
+msgid "Search Result Box Width"
+msgstr "Arama Sonuç Kutusu Genişliği"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1294
+msgid "Search Result Settings"
+msgstr "Arama Sonucu Ayarları"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1276
+msgid "Close Icon Border Color"
+msgstr "Kapat Simgesi Kenarlık Rengi"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1254
+msgid "Close Icon Color"
+msgstr "Kapat Simge Rengi"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1232
+msgid "Search Icon Hover Color"
+msgstr "Arama Simgesi Vurgu Rengi"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1211
+msgid "Search Icon Color"
+msgstr "Arama Simgesi Rengi"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1186
+msgid "Search Icon Size"
+msgstr "Arama Simgesi Boyutu"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1160
+msgid "Search Field Border Radius"
+msgstr "Arama Alanı Sınır Yarıçapı"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1053
+msgid "Search Field Padding"
+msgstr "Arama Alanı Dolgusu"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:983
+msgid "Search Field Font Size"
+msgstr "Arama Alanı Yazı Tipi Boyutu"
+
+#: includes/Admin/Customizer/Sections/LiveSearch.php:960
+msgid "Search Field Background Color"
+msgstr "Arama Alanı Arka Plan Rengi"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:2299
+msgid "Button Border Color"
+msgstr "Düğme Kenar Rengi"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:2277
+#: assets/blocks/editor.js:1
+msgid "Button Text Color"
+msgstr "Düğme Metin Rengi"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:2255
+#: assets/blocks/editor.js:1
+msgid "Button Background Color"
+msgstr "Düğme Arka Plan Rengi"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:2234
+#: includes/Core/Settings.php:770
+msgid "Explore More Button"
+msgstr "Daha Fazla Düğmeyi Keşfedin"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:1039
+#: includes/Admin/Customizer/Sections/Sidebar.php:949
+msgid "List Icon Font Size"
+msgstr "Liste Simgesi Yazı Tipi Boyutu"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:1017
+#: includes/Admin/Customizer/Sections/Sidebar.php:927
+msgid "List Icon Color"
+msgstr "Liste Simgesi Rengi"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:1428
+msgid "Counter Size (Height, Width)"
+msgstr "Sayaç Boyutu (Yükseklik, Genişlik)"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:1182
+#: includes/Admin/Customizer/Sections/DocsPage.php:1203
+msgid "Item Count Color"
+msgstr "Öğe Sayısı Rengi"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:990
+msgid "Category Title Border Color"
+msgstr "Kategori Başlığı Kenarlık Rengi"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:927
+#: includes/Admin/Customizer/Sections/DocsPage.php:947
+msgid "Category Title Color"
+msgstr "Kategori Başlığı Rengi"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:901
+msgid "Category Title Font Size"
+msgstr "Kategori Başlığı Yazı Tipi Boyutu"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:622
+msgid "Column Padding"
+msgstr "Sütun Dolgusu"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:530
+msgid "Spacing Between Columns"
+msgstr "Sütunlar Arası Aralık"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:451
+msgid "Category Column Settings"
+msgstr "Kategori Sütun Ayarları"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:430
+msgid "Content Area Maximum Width"
+msgstr "İçerik Alanı Maksimum Genişliği"
+
+#: includes/Admin/Customizer/Sections/BreadCrumb.php:103
+msgid "Seperator Color"
+msgstr "Ayırıcı Rengi"
+
+#: includes/Admin/Customizer/Sections/BreadCrumb.php:60
+#: includes/Admin/Customizer/Sections/Sidebar.php:777
+#: includes/Admin/Customizer/Sections/SingleDoc.php:828
+#: includes/Editors/Elementor/Widget/ArchiveList.php:161
+#: includes/Editors/Elementor/Widget/ArchiveList.php:204
+#: includes/Editors/Elementor/Widget/ArchiveList.php:263
+#: includes/Editors/Elementor/Widget/ArchiveList.php:371
+#: includes/Editors/Elementor/Widget/ArchiveList.php:414
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:757
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:788
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:896
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:966
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1756
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1790
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:605
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:679
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1064
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1144
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1222
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1299
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1420
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1523
+#: includes/Editors/Elementor/Widget/Basic/FAQ.php:232
+#: includes/Editors/Elementor/Widget/Basic/FAQ.php:350
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:275
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:312
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:499
+#: includes/Editors/Elementor/Widget/Breadcrumbs.php:118
+#: includes/Editors/Elementor/Widget/DocDate.php:52
+#: includes/Editors/Elementor/Widget/DocShare.php:188
+#: includes/Editors/Elementor/Widget/Feedback.php:98
+#: includes/Editors/Elementor/Widget/Feedback.php:133
+#: includes/Editors/Elementor/Widget/Feedback.php:220
+#: includes/Editors/Elementor/Widget/Feedback.php:277
+#: includes/Editors/Elementor/Widget/Navigation.php:55
+#: includes/Editors/Elementor/Widget/Reactions.php:181
+#: includes/Editors/Elementor/Widget/Reactions.php:268
+#: includes/Editors/Elementor/Widget/Sidebar.php:761
+#: includes/Editors/Elementor/Widget/Sidebar.php:821
+#: includes/Editors/Elementor/Widget/Sidebar.php:872
+#: includes/Editors/Elementor/Widget/Sidebar.php:1196
+#: includes/Editors/Elementor/Widget/Sidebar.php:1252
+#: includes/Editors/Elementor/Widget/Sidebar.php:1320 assets/blocks/editor.js:1
+msgid "Color"
+msgstr "Renk"
+
+#: includes/Admin/Customizer/Sections/BreadCrumb.php:34
+#: includes/Admin/Customizer/Sections/DocsPage.php:1157
+#: includes/Admin/Customizer/Sections/Sidebar.php:799
+#: includes/Admin/Customizer/Sections/SingleDoc.php:803
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1508
+#: includes/Editors/Elementor/Widget/ArchiveList.php:287
+#: assets/blocks/editor.js:1
+msgid "Font Size"
+msgstr "Yazı Boyutu"
+
+#: includes/Admin/Customizer/Sections/BreadCrumb.php:17
+#: includes/Core/Settings.php:1178 includes/Core/Settings.php:1184
+msgid "Breadcrumb"
+msgstr "Breadcrumb"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:37
+#: includes/Core/Settings.php:968 includes/Core/Settings.php:974
+#: includes/Editors/Elementor/SingleDocs.php:40
+msgid "Single Doc"
+msgstr "Tek Doküman"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:877
+#: includes/Admin/Customizer/Sections/DocsPage.php:2735
+#: includes/Admin/Customizer/Sections/Sidebar.php:252
+msgid "Bottom Left"
+msgstr "Sol alt"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:857
+#: includes/Admin/Customizer/Sections/DocsPage.php:2714
+#: includes/Admin/Customizer/Sections/Sidebar.php:232
+msgid "Bottom Right"
+msgstr "Sağ alt"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:837
+#: includes/Admin/Customizer/Sections/DocsPage.php:2693
+#: includes/Admin/Customizer/Sections/Sidebar.php:212
+msgid "Top Right"
+msgstr "Sağ üst"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:817
+#: includes/Admin/Customizer/Sections/DocsPage.php:2672
+#: includes/Admin/Customizer/Sections/Sidebar.php:193
+msgid "Top Left"
+msgstr "Sol üst"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:2651
+msgid "Button Border Radius"
+msgstr "Düğme Kenarlığı Yarıçapı"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:2438
+#: assets/blocks/editor.js:1
+msgid "Button Padding"
+msgstr "Düğme Dolgusu"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:2385
+msgid "Button Font Size"
+msgstr "Düğme Yazı Tipi Boyutu"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:2362
+msgid "Button Hover Border Color"
+msgstr "Düğme Vurgulu Kenarlık Rengi"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:2341
+msgid "Button Hover Text Color"
+msgstr "Düğme Vurgulu Metin Rengi"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:2320
+msgid "Button Hover Background Color"
+msgstr "Düğme Vurgulu Arka Plan Rengi"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:403
+msgid "Content Area Width"
+msgstr "İçerik Alanı Genişliği"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:411
+#: includes/Admin/Customizer/Sections/ArchivePage.php:548
+#: includes/Admin/Customizer/Sections/ArchivePage.php:648
+#: includes/Admin/Customizer/Sections/ArchivePage.php:848
+#: includes/Admin/Customizer/Sections/ArchivePage.php:996
+#: includes/Admin/Customizer/Sections/ArchivePage.php:1212
+#: includes/Admin/Customizer/Sections/DocsPage.php:380
+#: includes/Admin/Customizer/Sections/DocsPage.php:705
+#: includes/Admin/Customizer/Sections/DocsPage.php:1405
+#: includes/Admin/Customizer/Sections/DocsPage.php:1689
+#: includes/Admin/Customizer/Sections/DocsPage.php:1912
+#: includes/Admin/Customizer/Sections/DocsPage.php:2018
+#: includes/Admin/Customizer/Sections/DocsPage.php:2521
+#: includes/Admin/Customizer/Sections/DocsPage.php:2628
+#: includes/Admin/Customizer/Sections/LiveSearch.php:255
+#: includes/Admin/Customizer/Sections/LiveSearch.php:463
+#: includes/Admin/Customizer/Sections/LiveSearch.php:817
+#: includes/Admin/Customizer/Sections/LiveSearch.php:922
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1137
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1567
+#: includes/Admin/Customizer/Sections/Sidebar.php:151
+#: includes/Admin/Customizer/Sections/Sidebar.php:574
+#: includes/Admin/Customizer/Sections/Sidebar.php:673
+#: includes/Admin/Customizer/Sections/Sidebar.php:1055
+#: includes/Admin/Customizer/Sections/SingleDoc.php:385
+#: includes/Admin/Customizer/Sections/SingleDoc.php:492
+#: includes/Admin/Customizer/Sections/SingleDoc.php:599
+#: includes/Admin/Customizer/Sections/SingleDoc.php:706
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1046
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1149
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1395
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1577
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1602
+#: includes/Editors/Elementor/Widget/Breadcrumbs.php:78
+#: includes/Editors/Elementor/Widget/Content.php:66
+#: includes/Editors/Elementor/Widget/DocDate.php:75
+#: includes/Editors/Elementor/Widget/Feedback.php:243
+#: includes/Editors/Elementor/Widget/Feedback.php:391
+#: includes/Editors/Elementor/Widget/Title.php:108
+#: includes/Editors/Elementor/Widget/ToC.php:213 assets/blocks/editor.js:1
+msgid "Left"
+msgstr "sol"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:391
+#: includes/Admin/Customizer/Sections/ArchivePage.php:528
+#: includes/Admin/Customizer/Sections/ArchivePage.php:628
+#: includes/Admin/Customizer/Sections/ArchivePage.php:829
+#: includes/Admin/Customizer/Sections/ArchivePage.php:976
+#: includes/Admin/Customizer/Sections/ArchivePage.php:1192
+#: includes/Admin/Customizer/Sections/DocsPage.php:360
+#: includes/Admin/Customizer/Sections/DocsPage.php:685
+#: includes/Admin/Customizer/Sections/DocsPage.php:1384
+#: includes/Admin/Customizer/Sections/DocsPage.php:1668
+#: includes/Admin/Customizer/Sections/DocsPage.php:1891
+#: includes/Admin/Customizer/Sections/DocsPage.php:1997
+#: includes/Admin/Customizer/Sections/DocsPage.php:2500
+#: includes/Admin/Customizer/Sections/DocsPage.php:2607
+#: includes/Admin/Customizer/Sections/LiveSearch.php:234
+#: includes/Admin/Customizer/Sections/LiveSearch.php:442
+#: includes/Admin/Customizer/Sections/LiveSearch.php:797
+#: includes/Admin/Customizer/Sections/LiveSearch.php:901
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1116
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1546
+#: includes/Admin/Customizer/Sections/Sidebar.php:131
+#: includes/Admin/Customizer/Sections/Sidebar.php:554
+#: includes/Admin/Customizer/Sections/Sidebar.php:654
+#: includes/Admin/Customizer/Sections/Sidebar.php:1035
+#: includes/Admin/Customizer/Sections/SingleDoc.php:364
+#: includes/Admin/Customizer/Sections/SingleDoc.php:471
+#: includes/Admin/Customizer/Sections/SingleDoc.php:578
+#: includes/Admin/Customizer/Sections/SingleDoc.php:685
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1025
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1129
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1374
+msgid "Bottom"
+msgstr "Alt"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:371
+#: includes/Admin/Customizer/Sections/ArchivePage.php:508
+#: includes/Admin/Customizer/Sections/ArchivePage.php:608
+#: includes/Admin/Customizer/Sections/ArchivePage.php:809
+#: includes/Admin/Customizer/Sections/ArchivePage.php:956
+#: includes/Admin/Customizer/Sections/ArchivePage.php:1172
+#: includes/Admin/Customizer/Sections/DocsPage.php:340
+#: includes/Admin/Customizer/Sections/DocsPage.php:664
+#: includes/Admin/Customizer/Sections/DocsPage.php:1363
+#: includes/Admin/Customizer/Sections/DocsPage.php:1645
+#: includes/Admin/Customizer/Sections/DocsPage.php:1870
+#: includes/Admin/Customizer/Sections/DocsPage.php:1977
+#: includes/Admin/Customizer/Sections/DocsPage.php:2479
+#: includes/Admin/Customizer/Sections/DocsPage.php:2586
+#: includes/Admin/Customizer/Sections/LiveSearch.php:213
+#: includes/Admin/Customizer/Sections/LiveSearch.php:421
+#: includes/Admin/Customizer/Sections/LiveSearch.php:776
+#: includes/Admin/Customizer/Sections/LiveSearch.php:881
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1095
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1525
+#: includes/Admin/Customizer/Sections/Sidebar.php:111
+#: includes/Admin/Customizer/Sections/Sidebar.php:534
+#: includes/Admin/Customizer/Sections/Sidebar.php:634
+#: includes/Admin/Customizer/Sections/Sidebar.php:1015
+#: includes/Admin/Customizer/Sections/SingleDoc.php:343
+#: includes/Admin/Customizer/Sections/SingleDoc.php:450
+#: includes/Admin/Customizer/Sections/SingleDoc.php:557
+#: includes/Admin/Customizer/Sections/SingleDoc.php:664
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1004
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1109
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1353
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1585
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1610
+#: includes/Editors/Elementor/Widget/Breadcrumbs.php:86
+#: includes/Editors/Elementor/Widget/Content.php:74
+#: includes/Editors/Elementor/Widget/DocDate.php:83
+#: includes/Editors/Elementor/Widget/Feedback.php:251
+#: includes/Editors/Elementor/Widget/Feedback.php:399
+#: includes/Editors/Elementor/Widget/Title.php:116
+#: includes/Editors/Elementor/Widget/ToC.php:221 assets/blocks/editor.js:1
+msgid "Right"
+msgstr "Sağ"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:570
+#: includes/Admin/Customizer/Sections/DocsPage.php:299
+#: includes/Admin/Customizer/Sections/SingleDoc.php:301
+#: includes/Admin/Customizer/Sections/SingleDoc.php:962
+msgid "Content Area Padding"
+msgstr "İçerik Alanı Dolgusu"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:260
+#: includes/Admin/Customizer/Sections/DocsPage.php:279
+#: includes/Admin/Customizer/Sections/LiveSearch.php:646
+#: includes/Admin/Customizer/Sections/SingleDoc.php:281
+msgid "center bottom"
+msgstr "orta alt"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:258
+#: includes/Admin/Customizer/Sections/DocsPage.php:277
+#: includes/Admin/Customizer/Sections/LiveSearch.php:644
+#: includes/Admin/Customizer/Sections/SingleDoc.php:279
+msgid "center top"
+msgstr "orta üst"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:351
+#: includes/Admin/Customizer/Sections/ArchivePage.php:488
+#: includes/Admin/Customizer/Sections/ArchivePage.php:590
+#: includes/Admin/Customizer/Sections/ArchivePage.php:789
+#: includes/Admin/Customizer/Sections/ArchivePage.php:936
+#: includes/Admin/Customizer/Sections/ArchivePage.php:1152
+#: includes/Admin/Customizer/Sections/DocsPage.php:320
+#: includes/Admin/Customizer/Sections/DocsPage.php:643
+#: includes/Admin/Customizer/Sections/DocsPage.php:1342
+#: includes/Admin/Customizer/Sections/DocsPage.php:1624
+#: includes/Admin/Customizer/Sections/DocsPage.php:1849
+#: includes/Admin/Customizer/Sections/DocsPage.php:1956
+#: includes/Admin/Customizer/Sections/DocsPage.php:2459
+#: includes/Admin/Customizer/Sections/DocsPage.php:2565
+#: includes/Admin/Customizer/Sections/LiveSearch.php:192
+#: includes/Admin/Customizer/Sections/LiveSearch.php:400
+#: includes/Admin/Customizer/Sections/LiveSearch.php:755
+#: includes/Admin/Customizer/Sections/LiveSearch.php:860
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1074
+#: includes/Admin/Customizer/Sections/LiveSearch.php:1504
+#: includes/Admin/Customizer/Sections/Sidebar.php:91
+#: includes/Admin/Customizer/Sections/Sidebar.php:515
+#: includes/Admin/Customizer/Sections/Sidebar.php:615
+#: includes/Admin/Customizer/Sections/Sidebar.php:995
+#: includes/Admin/Customizer/Sections/SingleDoc.php:322
+#: includes/Admin/Customizer/Sections/SingleDoc.php:429
+#: includes/Admin/Customizer/Sections/SingleDoc.php:536
+#: includes/Admin/Customizer/Sections/SingleDoc.php:643
+#: includes/Admin/Customizer/Sections/SingleDoc.php:983
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1089
+#: includes/Admin/Customizer/Sections/SingleDoc.php:1332
+msgid "Top"
+msgstr "Üst"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:257
+#: includes/Admin/Customizer/Sections/DocsPage.php:276
+#: includes/Admin/Customizer/Sections/LiveSearch.php:643
+#: includes/Admin/Customizer/Sections/SingleDoc.php:278
+msgid "right bottom"
+msgstr "sağ alt"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:256
+#: includes/Admin/Customizer/Sections/DocsPage.php:275
+#: includes/Admin/Customizer/Sections/LiveSearch.php:642
+#: includes/Admin/Customizer/Sections/SingleDoc.php:277
+msgid "right center"
+msgstr "sağ merkez"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:259
+#: includes/Admin/Customizer/Sections/DocsPage.php:278
+#: includes/Admin/Customizer/Sections/LiveSearch.php:645
+#: includes/Admin/Customizer/Sections/SingleDoc.php:280
+msgid "center center"
+msgstr "merkez "
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:255
+#: includes/Admin/Customizer/Sections/DocsPage.php:274
+#: includes/Admin/Customizer/Sections/LiveSearch.php:641
+#: includes/Admin/Customizer/Sections/SingleDoc.php:276
+msgid "right top"
+msgstr "sağ üst"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:254
+#: includes/Admin/Customizer/Sections/DocsPage.php:273
+#: includes/Admin/Customizer/Sections/LiveSearch.php:640
+#: includes/Admin/Customizer/Sections/SingleDoc.php:275
+msgid "left bottom"
+msgstr "sol alt"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:253
+#: includes/Admin/Customizer/Sections/DocsPage.php:272
+#: includes/Admin/Customizer/Sections/LiveSearch.php:639
+#: includes/Admin/Customizer/Sections/SingleDoc.php:274
+msgid "left center"
+msgstr "sol merkez"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:252
+#: includes/Admin/Customizer/Sections/DocsPage.php:271
+#: includes/Admin/Customizer/Sections/LiveSearch.php:638
+#: includes/Admin/Customizer/Sections/SingleDoc.php:273
+msgid "left top"
+msgstr "sol üst"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:247
+#: includes/Admin/Customizer/Sections/DocsPage.php:265
+#: includes/Admin/Customizer/Sections/LiveSearch.php:633
+#: includes/Admin/Customizer/Sections/SingleDoc.php:268
+msgid "Position"
+msgstr "pozisyon"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:229
+#: includes/Admin/Customizer/Sections/DocsPage.php:248
+#: includes/Admin/Customizer/Sections/LiveSearch.php:614
+#: includes/Admin/Customizer/Sections/SingleDoc.php:247
+msgid "local"
+msgstr "yerel"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:228
+#: includes/Admin/Customizer/Sections/DocsPage.php:247
+#: includes/Admin/Customizer/Sections/LiveSearch.php:613
+#: includes/Admin/Customizer/Sections/SingleDoc.php:246
+msgid "fixed"
+msgstr "sabit"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:220
+#: includes/Admin/Customizer/Sections/DocsPage.php:238
+#: includes/Admin/Customizer/Sections/LiveSearch.php:605
+#: includes/Admin/Customizer/Sections/SingleDoc.php:238
+msgid "Attachment"
+msgstr "Ek dosya"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:201
+#: includes/Admin/Customizer/Sections/DocsPage.php:219
+#: includes/Admin/Customizer/Sections/LiveSearch.php:585
+#: includes/Admin/Customizer/Sections/SingleDoc.php:216
+msgid "repeat-x"
+msgstr "tekrar-x"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:202
+#: includes/Admin/Customizer/Sections/DocsPage.php:220
+#: includes/Admin/Customizer/Sections/LiveSearch.php:586
+#: includes/Admin/Customizer/Sections/SingleDoc.php:217
+msgid "repeat-y"
+msgstr "tekrar-y"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:174
+#: includes/Admin/Customizer/Sections/ArchivePage.php:199
+#: includes/Admin/Customizer/Sections/ArchivePage.php:226
+#: includes/Admin/Customizer/Sections/DocsPage.php:191
+#: includes/Admin/Customizer/Sections/DocsPage.php:217
+#: includes/Admin/Customizer/Sections/DocsPage.php:245
+#: includes/Admin/Customizer/Sections/LiveSearch.php:557
+#: includes/Admin/Customizer/Sections/LiveSearch.php:583
+#: includes/Admin/Customizer/Sections/LiveSearch.php:611
+#: includes/Admin/Customizer/Sections/SingleDoc.php:187
+#: includes/Admin/Customizer/Sections/SingleDoc.php:214
+#: includes/Admin/Customizer/Sections/SingleDoc.php:244
+msgid "inherit"
+msgstr "inherit"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:173
+#: includes/Admin/Customizer/Sections/ArchivePage.php:198
+#: includes/Admin/Customizer/Sections/ArchivePage.php:225
+#: includes/Admin/Customizer/Sections/DocsPage.php:190
+#: includes/Admin/Customizer/Sections/DocsPage.php:216
+#: includes/Admin/Customizer/Sections/DocsPage.php:244
+#: includes/Admin/Customizer/Sections/LiveSearch.php:556
+#: includes/Admin/Customizer/Sections/LiveSearch.php:582
+#: includes/Admin/Customizer/Sections/LiveSearch.php:610
+#: includes/Admin/Customizer/Sections/SingleDoc.php:186
+#: includes/Admin/Customizer/Sections/SingleDoc.php:213
+#: includes/Admin/Customizer/Sections/SingleDoc.php:243
+msgid "initial"
+msgstr "initial"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:171
+#: includes/Admin/Customizer/Sections/DocsPage.php:188
+#: includes/Admin/Customizer/Sections/LiveSearch.php:554
+#: includes/Admin/Customizer/Sections/SingleDoc.php:184
+msgid "cover"
+msgstr "örtmek"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:170
+#: includes/Admin/Customizer/Sections/DocsPage.php:187
+#: includes/Admin/Customizer/Sections/LiveSearch.php:553
+#: includes/Admin/Customizer/Sections/SingleDoc.php:183
+msgid "length"
+msgstr "uzunluk"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:172
+#: includes/Admin/Customizer/Sections/DocsPage.php:189
+#: includes/Admin/Customizer/Sections/LiveSearch.php:555
+#: includes/Admin/Customizer/Sections/SingleDoc.php:185
+msgid "contain"
+msgstr "contain"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:169
+#: includes/Admin/Customizer/Sections/DocsPage.php:186
+#: includes/Admin/Customizer/Sections/LiveSearch.php:552
+#: includes/Admin/Customizer/Sections/SingleDoc.php:182
+msgid "auto"
+msgstr "Otomatik"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:164
+#: includes/Admin/Customizer/Sections/DocsPage.php:180
+#: includes/Admin/Customizer/Sections/LiveSearch.php:547
+#: includes/Admin/Customizer/Sections/SingleDoc.php:177
+#: includes/Editors/Elementor/Widget/ArchiveList.php:215
+#: includes/Editors/Elementor/Widget/ArchiveList.php:425
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:528
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:555
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:850
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:1584
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:528
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:783
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1156
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:1310
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:238
+#: includes/Editors/Elementor/Widget/Basic/SearchForm.php:286
+#: includes/Editors/Elementor/Widget/Breadcrumbs.php:129
+#: includes/Editors/Elementor/Widget/DocShare.php:314
+#: includes/Editors/Elementor/Widget/Feedback.php:141
+#: includes/Editors/Elementor/Widget/Navigation.php:74
+#: includes/Editors/Elementor/Widget/Sidebar.php:489
+#: includes/Editors/Elementor/Widget/Sidebar.php:999
+#: includes/Editors/Elementor/Widget/Sidebar.php:1263 assets/blocks/editor.js:1
+msgid "Size"
+msgstr "Boyut"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:143
+#: includes/Admin/Customizer/Sections/DocsPage.php:159
+#: includes/Admin/Customizer/Sections/LiveSearch.php:525
+#: includes/Admin/Customizer/Sections/SingleDoc.php:153
+msgid "Background Property"
+msgstr "Arka Plan Özelliği"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:125
+#: includes/Admin/Customizer/Sections/DocsPage.php:138
+#: includes/Admin/Customizer/Sections/LiveSearch.php:506
+#: includes/Admin/Customizer/Sections/SingleDoc.php:130
+msgid "Background Image"
+msgstr "Arka plan görüntüsü"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:447
+#: includes/Admin/Customizer/Sections/DocsPage.php:117
+#: includes/Admin/Customizer/Sections/SingleDoc.php:109
+msgid "Content Area Background Color"
+msgstr "İçerik Alanı Arka Plan Rengi"
+
+#: includes/Admin/Customizer/Sections/SingleDoc.php:55
+#: includes/Editors/Elementor/Widget/Basic/CategoryBox.php:73
+#: includes/Editors/Elementor/Widget/Basic/CategoryGrid.php:83
+#: includes/Editors/Elementor/Widget/Basic/FAQ.php:59
+msgid "Select Layout"
+msgstr "Düzen seçin"
+
+#: includes/Admin/Customizer/Sections/DocsPage.php:45
+#: includes/Core/Settings.php:562
+#: includes/Editors/BlockEditor/Patterns/BasePattern.php:14
+#: includes/Editors/BlockEditor/Patterns/DocsPage.php:11
+#: includes/Editors/Elementor/Conditions/DocsPage.php:26
+#: includes/Utils/BlockTemplate.php:351
+msgid "Docs Page"
+msgstr "Dokümanlar Sayfası"
+
+#: includes/Admin/Customizer/Defaults.php:192
+#: includes/Editors/Elementor/Widget/DocShare.php:222
+#: includes/Shortcodes/SocialShare.php:32
+msgid "Share This Article :"
+msgstr "Bu makaleyi paylaş :"
+
+#: views/admin/customizer/controls/radio-image.php:36
+msgid "Go Pro"
+msgstr "Pro'ya geçin"
+
+#. Author of the plugin
+msgid "WPDeveloper"
+msgstr "WPDeveloper"
+
+#. Plugin URI of the plugin
+msgid "https://betterdocs.co/"
+msgstr "https://betterdocs.co/"
+
+#. Plugin Name of the plugin
+#: includes/Admin/Customizer/Customizer.php:61 includes/Core/PostType.php:491
+#: includes/Editors/BlockEditor.php:42 includes/Editors/Elementor.php:570
+#: includes/Editors/Elementor/SingleDocs.php:104
+#: views/templates/parts/credit.php:16
+msgid "BetterDocs"
+msgstr "BetterDocs"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:200
+#: includes/Admin/Customizer/Sections/DocsPage.php:218
+#: includes/Admin/Customizer/Sections/LiveSearch.php:584
+#: includes/Admin/Customizer/Sections/SingleDoc.php:215
+msgid "repeat"
+msgstr "Tekrar"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:192
+#: includes/Admin/Customizer/Sections/DocsPage.php:209
+#: includes/Admin/Customizer/Sections/LiveSearch.php:576
+#: includes/Admin/Customizer/Sections/SingleDoc.php:207
+msgid "Repeat"
+msgstr "Tekrar"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:197
+#: includes/Admin/Customizer/Sections/DocsPage.php:215
+#: includes/Admin/Customizer/Sections/LiveSearch.php:581
+#: includes/Admin/Customizer/Sections/SingleDoc.php:212
+msgid "no-repeat"
+msgstr "Tekrar yok"
+
+#: includes/Admin/Customizer/Sections/ArchivePage.php:227
+#: includes/Admin/Customizer/Sections/DocsPage.php:246
+#: includes/Admin/Customizer/Sections/LiveSearch.php:612
+#: includes/Admin/Customizer/Sections/SingleDoc.php:245
+msgid "scroll"
+msgstr "Kaydırma"
+
+#: includes/Core/Settings.php:517 includes/Core/Settings.php:702
+#: includes/Core/Settings.php:999 assets/blocks/editor.js:1
+msgid "General"
+msgstr "Genel"
+
+#: includes/Editors/Elementor/Widget/ToC.php:69
+msgid "Table of contents"
+msgstr "İçindekiler"
+
+#. Author URI of the plugin
+msgid "https://wpdeveloper.com"
+msgstr "https://wpdeveloper.com"

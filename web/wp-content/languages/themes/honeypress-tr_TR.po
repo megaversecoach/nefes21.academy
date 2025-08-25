@@ -1,0 +1,713 @@
+# Translation of Themes - HoneyPress in Turkish
+# This file is distributed under the same license as the Themes - HoneyPress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-08 11:40:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - HoneyPress\n"
+
+#. Theme Name of the theme
+#: inc/customizer/helper-function.php:132
+#, gp-priority: high
+msgid "HoneyPress"
+msgstr "HoneyPress"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "HoneyPress is a lightweight, elegant and fully featured theme, crafted for businesses, magazines, newspaper, personal blogs, online shops, restaurants, wedding planners, gyms, and more. HoneyPress has special features like a slider banner, testimonials, services, and blogs. It's fully responsive and compatible with any device. Easy to use and implement, HoneyPress is also compatible with WooCommerce. You can easily import dummy data with the SpiceBox plugin."
+msgstr "HoneyPress işletmeler, dergiler, gazeteler, kişisel bloglar, çevrimiçi mağazalar, restoranlar, düğün planlayıcıları, spor salonları ve daha bir çok amaç için oluşturulmuş, hafif, şık ve çok özellikli bir temadır. HoneyPress kaydırak afiş alanı, deneyimler, servisler ve bloglar gibi bir çok özellik barındırır. Tamamıyla duyarlı bir tasarıma sahiptir ve her cihazla uyumludur. Kullanımı ve bütünleştirmesi kolaydır, ayrıca WooCommerce ile uyumludur. SpiceBox eklentisi ile mıgır içeriği içe aktarabilirsiniz."
+
+#: 404.php:15
+msgid "4"
+msgstr "4"
+
+#: 404.php:16
+msgid "Oops! Page not found!"
+msgstr "Off! Bu sayfa bulunamadı!"
+
+#: 404.php:17
+msgid "The page you are looking for can't be found"
+msgstr "Aradığınız sayfa bulunamadı"
+
+#: 404.php:19
+msgid "Go Back"
+msgstr "Geri dön"
+
+#. translators: 1: title.
+#: comments.php:30
+msgid "1 COMMENT"
+msgstr "1 YORUM"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s COMMENT"
+msgid_plural "%1$s COMMENTS"
+msgstr[0] "%1$s YORUM"
+msgstr[1] "%1$s YORUM"
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı."
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:568
+msgid "Slide Format"
+msgstr "Slayt biçimi"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:572
+msgid "Standard"
+msgstr "Standart"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:576
+msgid "Aside"
+msgstr "Ayrı"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:580
+msgid "Quote"
+msgstr "Alıntı"
+
+#: inc/class-tgm-plugin-activation.php:2554
+#: inc/customizer-repeater/class/customizer-repeater-control.php:584
+msgid "Status"
+msgstr "Durum"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:588
+msgid "Video"
+msgstr "Video"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:598
+msgid "Image type"
+msgstr "Görsel tipi"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:603
+#: inc/customizer/general_settings.php:132
+msgid "None"
+msgstr "Hiçbiri"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:611
+msgid "Social icons"
+msgstr "Sosyal simgeler"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:628
+#: inc/customizer-repeater/class/customizer-repeater-control.php:658
+msgid "Remove Icon"
+msgstr "Simgeyi kaldır"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:633
+#: inc/customizer-repeater/class/customizer-repeater-control.php:666
+msgid "Add Icon"
+msgstr "Simge ekle"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#: admin/inc/class-spicethemes-about-page.php:69
+#: admin/inc/include-companion.php:41 admin/inc/plugin-include-control.php:40
+msgid "Installing"
+msgstr "Yükleniyor"
+
+#: admin/inc/class-spicethemes-about-page.php:70
+#: admin/inc/include-companion.php:42 admin/inc/plugin-include-control.php:41
+#: inc/customizer-notify/honeypress-customizer-notify.php:109
+msgid "Activating"
+msgstr "Etkinleştiriliyor"
+
+#: admin/inc/class-spicethemes-about-page.php:71
+#: admin/inc/include-companion.php:43 admin/inc/plugin-include-control.php:42
+msgid "Error"
+msgstr "Hata"
+
+#: admin/inc/class-spicethemes-about-page.php:109
+msgid "View Theme Info"
+msgstr "Tema bilgisini görüntüle"
+
+#: admin/inc/class-spicethemes-about-page.php:117
+msgid "About %1$s %2$s"
+msgstr "%1$s hakkında %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:118
+msgid "Welcome to %1$s %2$s"
+msgstr "%1$s temasına hoşgeldiniz - Sürüm %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:132
+msgid "Get started with HoneyPress"
+msgstr "HoneyPress ile işe başlayın"
+
+#: admin/inc/class-spicethemes-about-page.php:217
+msgid "Getting Started"
+msgstr "Başlarken"
+
+#: admin/inc/class-spicethemes-about-page.php:223
+#: inc/customizer/customizer-recommended-plugin.php:12
+msgid "Recommended Actions"
+msgstr "Önerilen eylemler"
+
+#: admin/tab-pages/getting-started.php:81
+msgid "One Click Demo Import"
+msgstr "Tek tık ile örnek içeri aktarma"
+
+#: admin/tab-pages/getting-started.php:148
+msgid "Changelog"
+msgstr "Değişiklik listesi"
+
+#: admin/inc/class-spicethemes-about-page.php:301
+msgid "Install %s now"
+msgstr "%s temasını şimdi yükle"
+
+#: admin/inc/class-spicethemes-about-page.php:303
+#: admin/inc/include-companion.php:81
+msgid "Install and activate"
+msgstr "Yükle ve etkinleştir"
+
+#: admin/inc/class-spicethemes-about-page.php:320
+msgid "Activate %s now"
+msgstr "%s temasını etkinleştir"
+
+#: admin/inc/class-spicethemes-about-page.php:322
+#: inc/class-tgm-plugin-activation.php:2726
+#: inc/customizer/customizer-recommended-plugin.php:15
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: admin/inc/class-spicethemes-about-page.php:325
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Aktif"
+
+#: admin/inc/class-spicethemes-about-page.php:467
+#: admin/inc/include-companion.php:80 admin/inc/include-companion.php:97
+msgid "SpiceBox"
+msgstr "SpiceBox"
+
+#: admin/inc/class-spicethemes-about-page.php:469
+msgid "To access the advanced Frontpage sections and the other features, please install the SpiceBox plugin."
+msgstr "Gelişmiş ön sayfa bölümlerine ve diğer özelliklere erişmek için lütfen SpiceBox eklentisini yükleyin."
+
+#: admin/inc/class-spicethemes-about-page.php:473 functions.php:139
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: admin/inc/class-spicethemes-about-page.php:475
+msgid "To display the contact form, please install the Contact Form 7 plugin."
+msgstr "İletişim formunu görüntülemek için, lütfen Contact Form 7 eklentini kurun."
+
+#: admin/inc/class-spicethemes-about-page.php:491 functions.php:154
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: admin/inc/class-spicethemes-about-page.php:493
+msgid "To display breadcrumbs, please install the Yoast SEO plugin."
+msgstr "Gezinti bağlantılarını görüntülemek için, lütfen Yoast SEO eklentini kurun."
+
+#: admin/inc/include-companion.php:79
+msgid "To take advantage of this theme's features in the customizer you need to install the SpiceBox plugin."
+msgstr "Özelleştirici içinde bu temanın özelliklerini tam anlamıyla kullanabilmek için SpiceBox eklentisini kurun."
+
+#: admin/inc/include-companion.php:80
+msgid "Install SpiceBox Now"
+msgstr "SpiceBox'ı şimdi kur"
+
+#: admin/inc/include-companion.php:96
+msgid "You have installed the SpiceBox plugin. To take advantage of this theme's features in the customizer, you need to activate it."
+msgstr "SpiceBox eklentisini kurdunuz. Temanın özelliklerini özelleştirici içinde kullanabilmek için eklentiyi etkinleştirmeniz gerekiyor."
+
+#: admin/inc/include-companion.php:97
+msgid "Activate SpiceBox now"
+msgstr "SpiceBox'ı şimdi etkinleştir"
+
+#: admin/inc/include-companion.php:98
+msgid "Activate now"
+msgstr "Şimdi etkinleştir"
+
+#: inc/customizer/customizer-pro-feature.php:46
+msgid "Team Section"
+msgstr "Ekip bölümü"
+
+#: inc/customizer/customizer-pro-feature.php:42
+msgid "Client Section"
+msgstr "Müşteri bölümü"
+
+#: admin/tab-pages/getting-started.php:63
+msgid "Drag and drop section orders"
+msgstr "Bölüm sıralarını sürükle bırak ile değiştirin"
+
+#: admin/tab-pages/getting-started.php:78
+msgid "Homepage Sections Before/After Hooks"
+msgstr "Ana sayfa bölümleri önce/sonra kancaları"
+
+#: admin/tab-pages/getting-started.php:57
+msgid "WPML Support"
+msgstr "WPML desteği"
+
+#: admin/tab-pages/getting-started.php:89
+msgid "Links to Customizer Settings"
+msgstr "Özelleştirici ayarlarına bağlantı verir"
+
+#: admin/tab-pages/getting-started.php:93
+msgid "Site Logo"
+msgstr "Site Logosu"
+
+#: admin/tab-pages/getting-started.php:99
+#: inc/customizer/customizer_typography.php:1675
+#: inc/customizer/general_settings.php:283
+#: inc/customizer/general_settings.php:296
+msgid "Footer Widgets"
+msgstr "Alt alan bileşenleri"
+
+#: admin/tab-pages/getting-started.php:102
+#: inc/customizer/customizer_typography.php:416
+msgid "Homepage Sections"
+msgstr "Ana sayfa bölümleri"
+
+#: admin/tab-pages/getting-started.php:26
+msgid "Additional features in HoneyPress PRO"
+msgstr "HoneyPress Pro'daki ek özellikler"
+
+#: admin/tab-pages/getting-started.php:39
+msgid "Portfolio section"
+msgstr "Portföy bölümü"
+
+#: admin/tab-pages/getting-started.php:42
+msgid "Funfact section"
+msgstr "Eğlenceli bilgi bölümü"
+
+#: admin/tab-pages/getting-started.php:45
+msgid "Google Maps section"
+msgstr "Google Haritalar bölümü"
+
+#: admin/tab-pages/getting-started.php:48
+msgid "Client section"
+msgstr "Müşteri bölümü"
+
+#: admin/tab-pages/getting-started.php:51
+msgid "Multiple Blog Templates"
+msgstr "Çoklu blog şablonları"
+
+#: admin/tab-pages/getting-started.php:66
+msgid "Team section with carousel effect"
+msgstr "Atlı karınca efektli Ekip bölümü"
+
+#: admin/tab-pages/getting-started.php:69
+msgid "Shop section with unlimited items"
+msgstr "Sınırsız öğe ile mağaza bölümü"
+
+#: admin/tab-pages/getting-started.php:72
+msgid "Shop section with carousel effect"
+msgstr "Atlı karınca efekti ile Mağaza bölümü"
+
+#: admin/tab-pages/getting-started.php:75
+msgid "Testimonial section with carousel effect"
+msgstr "Atlı karınca efekti ile Deneyimler bölümü"
+
+#: admin/tab-pages/getting-started.php:120
+msgid "Useful Links"
+msgstr "İşe yarar bağlantılar"
+
+#: admin/tab-pages/getting-started.php:124
+msgid "HoneyPress Demo"
+msgstr "HoneyPress örnek site"
+
+#: admin/tab-pages/getting-started.php:127
+msgid "HoneyPress Pro Demo"
+msgstr "Honeypress Pro örnek site"
+
+#: admin/tab-pages/getting-started.php:130
+msgid "HoneyPress Theme Support"
+msgstr "HoneyPress tema desteği"
+
+#: admin/tab-pages/getting-started.php:133
+msgid "Your feedback is valuable to us"
+msgstr "Geri bildiriminiz bizim için değerlidir"
+
+#: admin/tab-pages/getting-started.php:136
+msgid "HoneyPress Pro Details"
+msgstr "HoneyPress Pro ayrıntıları"
+
+#: admin/tab-pages/getting-started.php:139
+msgid "HoneyPress Documentation"
+msgstr "HoneyPress belgeleri"
+
+#: admin/tab-pages/getting-started.php:142
+msgid "Pre-sales enquiry"
+msgstr "Satış öncesi sorgulama"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Tam sayfa genişlik"
+
+#: inc/breadcrumbs/breadcrumbs.php:56 inc/breadcrumbs/breadcrumbs.php:68
+#: inc/customizer/blog-page-options.php:19 inc/menu/default_menu_walker.php:17
+msgid "Home"
+msgstr "Ana sayfa"
+
+#: inc/breadcrumbs/breadcrumbs.php:103
+msgid "Error 404"
+msgstr "HATA 404"
+
+#: inc/breadcrumbs/breadcrumbs.php:107
+msgid "Category: "
+msgstr "Kategori: "
+
+#: inc/breadcrumbs/breadcrumbs.php:122
+msgid "Tag : "
+msgstr "Etiket : "
+
+#: inc/customizer/customizer-pro-feature.php:13
+#: inc/customizer/customizer-pro-feature.php:17
+#: inc/customizer/customizer-pro-feature.php:21
+#: inc/customizer/customizer-pro-feature.php:25
+#: inc/customizer/customizer-pro-feature.php:29
+#: inc/customizer/customizer-pro-feature.php:33
+#: inc/customizer/customizer-pro-feature.php:37
+#: inc/customizer/customizer-pro-feature.php:41
+#: inc/customizer/customizer-pro-feature.php:45
+#: inc/customizer/customizer-pro-feature.php:49
+#: inc/customizer/customizer-pro-feature.php:53
+#: inc/customizer/customizer-pro-feature.php:57
+msgid "PRO"
+msgstr "Pro"
+
+#: inc/customizer/customizer-pro-feature.php:14
+msgid "Advanced Hook Settings"
+msgstr "Gelişmiş kanca ayarları"
+
+#: inc/customizer/customizer-pro-feature.php:18
+msgid "Multiple Page Templates"
+msgstr "Çoklu sayfa şablonları"
+
+#: inc/customizer/customizer-pro-feature.php:22
+msgid "Portfolio Management"
+msgstr "Portföy yönetimi"
+
+#: inc/customizer/customizer-pro-feature.php:26
+msgid "Slide Variations"
+msgstr "Slayt varyasyonları"
+
+#: inc/customizer/customizer-pro-feature.php:30
+msgid "Create Unlimited Services"
+msgstr "Sınırsız servis oluşturun"
+
+#: admin/tab-pages/getting-started.php:111
+#: inc/customizer/customizer_typography.php:6
+msgid "Typography Settings"
+msgstr "Tipografi ayarları"
+
+#: inc/customizer/customizer-pro-feature.php:38
+msgid "Manage Contact Details"
+msgstr "İletişim ayrıntılarını yönet"
+
+#: inc/customizer/customizer-pro-feature.php:54
+msgid "Section Reordering"
+msgstr "Bölüm sıralama"
+
+#: inc/customizer/customizer-pro-feature.php:58
+msgid "Quality Support"
+msgstr "Kaliteli destek"
+
+#: inc/customizer/customizer-pro-feature.php:61
+msgid "UPGRADE TO PRO"
+msgstr "Ücretli sürüme yükselt"
+
+#: inc/customizer/customizer-pro-feature.php:68
+msgid "View PRO Details"
+msgstr "PRO Ayrıntılarını görüntüle"
+
+#: inc/customizer/customizer-pro-feature.php:93
+msgid "With individual hook settings, you can insert html or php code according to your needs."
+msgstr "Müferit kanca ayarları ile ihtiyacınıza göre ister html isterseniz php kodu ekleyebilirsiniz."
+
+#: inc/customizer/customizer-pro-feature.php:94
+msgid "Theme comes with multiple page settings like multiple blog, portfolio 2/3/4 column, about us etc."
+msgstr "Tema beraberinde çoklu sayfa ayarları ile gelmektedir, örneğin çoklu blok, 2/3/4 sütunlu portföy, hakkında vb."
+
+#: inc/customizer/customizer-pro-feature.php:95
+msgid "Create a professional-looking portfolio."
+msgstr "Profesyonel görünümlü bir portföy oluşturun."
+
+#: inc/customizer/customizer-pro-feature.php:96
+msgid "PRO version comes with slide variation options, so you can adjust your content through text alignment."
+msgstr "PRO sürümü slayt varyasyon seçenekleri ile gelir, böylece içeriğinize göre metin hizalaması yapabilirsiniz."
+
+#: inc/customizer/customizer-pro-feature.php:97
+msgid "Add as many services as you like. You can even display each service on a separate page."
+msgstr "İstediğiniz kadar servis ekleyin. Her bir servisi ayrı bir sayfada görüntüleyebilirsiniz."
+
+#: inc/customizer/customizer-pro-feature.php:99
+msgid "Theme comes with a beautifully designed section where you can manage your contact details."
+msgstr "Tema, iletişim bilgilerinizi düzenleyebileceğiniz güzel tasarlanmış bir bölüm ile beraber gelir."
+
+#: inc/customizer/customizer-pro-feature.php:100
+msgid "Show all your team members, clients, testimonials on front page."
+msgstr "Tüm ekim üyelerinizi, müşterilerinizi ve deneyimleri ön sayfada gösterin."
+
+#: inc/customizer/customizer-pro-feature.php:102
+msgid "The layout manager will help you rearrange all sections."
+msgstr "Tüm bölümlerin yerleşimini düzen yöneticisi yardımı ile yapabilirsiniz."
+
+#: inc/customizer/customizer-pro-feature.php:103
+msgid "Translation-ready, the theme supports popular plugins WPML and Polylang"
+msgstr "Çeviriye hazır, tema WPML ve Polylang gibi popüler eklentileri destekler"
+
+#: inc/customizer/customizer-pro-feature.php:104
+msgid "24/7 professional support for Google Maps"
+msgstr "Google Haritalar için 7/24 profesyonel destek"
+
+#: inc/customizer/customizer-pro-feature.php:105
+msgid "Dedicated support, widget and sidebar management."
+msgstr "Özel destek, bileşen ve kenar çubuğu yönetimi."
+
+#: inc/customizer/customizer-recommended-plugin.php:8
+msgid "Install and activate the %s plugin to take full advantage of all the features this theme has to offer."
+msgstr "Bu temanın size sunduğu tüm avantajlardan faydalanabilmek için %s eklentisini kurun ve etkinleştirin."
+
+#: inc/customizer/customizer-recommended-plugin.php:13
+msgid "Recommended Plugin"
+msgstr "Önerilen eklenti"
+
+#: inc/customizer/customizer-recommended-plugin.php:14
+msgid "Install and Activate"
+msgstr "Yükle ve etkinleştir"
+
+#: inc/customizer/customizer-recommended-plugin.php:16
+msgid "Deactivate"
+msgstr "Devredışı"
+
+#: inc/customizer/customizer.php:22
+msgid "HoneyPress theme options"
+msgstr "HoneyPress tema seçenekleri"
+
+#: inc/customizer/customizer_sections_settings.php:39
+msgid "ON"
+msgstr "Açık"
+
+#: inc/customizer/customizer_sections_settings.php:40
+msgid "OFF"
+msgstr "Kapalı"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:257
+#: inc/customizer-repeater/class/customizer-repeater-control.php:404
+#: inc/customizer/customizer_sections_settings.php:51
+msgid "Title"
+msgstr "Başlık"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:271
+#: inc/customizer-repeater/class/customizer-repeater-control.php:418
+#: inc/customizer/customizer_sections_settings.php:62
+msgid "Description"
+msgstr "Açıklama"
+
+#: inc/customizer/customizer_sections_settings.php:80
+msgid "Enable post meta values, like author name, date, comments, etc."
+msgstr "Yazar ismi, tarih, yorumlar vb. yazı meta değerlerini etkinleştir."
+
+#: inc/customizer/helper-function.php:13 inc/customizer/helper-function.php:20
+msgid "<i class=\"fa fa-angle-double-left\"></i>"
+msgstr "<i class=\"fa fa-angle-double-left\"></i>"
+
+#: inc/customizer/helper-function.php:14 inc/customizer/helper-function.php:19
+msgid "<i class=\"fa fa-angle-double-right\"></i>"
+msgstr "<i class=\"fa fa-angle-double-right\"></i>"
+
+#: inc/customizer/helper-function.php:39
+msgid "%1$s  %2$s"
+msgstr "%1$s  %2$s"
+
+#: inc/customizer/single-blog-options.php:25
+msgid "Hide/Show Categories"
+msgstr "Kategorileri gizle/göster"
+
+#: inc/customizer/single-blog-options.php:40
+msgid "Hide/Show Date"
+msgstr "Tarihi gizle/göster"
+
+#: inc/customizer/single-blog-options.php:55
+#: inc/customizer/single-blog-options.php:70
+msgid "Hide/Show Comments"
+msgstr "Yorumları gizle/göster"
+
+#: inc/customizer/single-blog-options.php:85
+msgid "Hide/Show Author Name"
+msgstr "Yazar ismini gizle/göster"
+
+#: inc/customizer/single-blog-options.php:100
+msgid "Hide/Show Tags"
+msgstr "Etiketleri gizle/göster"
+
+#: inc/customizer/single-blog-options.php:114
+msgid "Hide/Show Author Details"
+msgstr "Yazar ayrıntılarını gizle/göster"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:33
+msgid "Add new field"
+msgstr "Yeni ekle alanı"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:38
+msgid "Customizer Repeater"
+msgstr "Özelleştirici tekrarlayıcısı"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:264
+#: inc/customizer-repeater/class/customizer-repeater-control.php:411
+msgid "Subtitle"
+msgstr "Alt başlık"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:280
+#: inc/customizer-repeater/class/customizer-repeater-control.php:426
+#: inc/customizer/customizer_typography.php:1116
+#: inc/customizer/general_settings.php:147
+msgid "Button Text"
+msgstr "Tuş metni"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:291
+#: inc/customizer-repeater/class/customizer-repeater-control.php:436
+#: inc/customizer-repeater/class/customizer-repeater-control.php:625
+#: inc/customizer-repeater/class/customizer-repeater-control.php:647
+msgid "Link"
+msgstr "Bağlantı"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:310
+#: inc/customizer-repeater/class/customizer-repeater-control.php:454
+msgid "Video Url"
+msgstr "Video adresi"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:332
+#: inc/customizer-repeater/class/customizer-repeater-control.php:396
+msgid "Color"
+msgstr "Renk"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:342
+#: inc/customizer-repeater/class/customizer-repeater-control.php:465
+msgid "Shortcode"
+msgstr "Kısa kod"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:350
+#: inc/customizer-repeater/class/customizer-repeater-control.php:474
+msgid "Designation"
+msgstr "Tanımlama"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:366
+#: inc/customizer-repeater/class/customizer-repeater-control.php:485
+msgid "Delete field"
+msgstr "Sil alanı"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:522
+msgid "Open link in new tab:"
+msgstr "Bağlantıları yeni penerede aç:"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:533
+#: inc/customizer-repeater/class/customizer-repeater-control.php:601
+msgid "Icon"
+msgstr "Simge"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:538
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Not: Bazı simgeler burada görüntülenmeyebilir. Simgelerin tam listesini %1$s adresinde görebilirsiniz."
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:539
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:556
+#: inc/customizer-repeater/class/customizer-repeater-control.php:602
+msgid "Image"
+msgstr "Resim"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:559
+msgid "Upload Image"
+msgstr "Görsel yükle"
+
+#: inc/theme-setup.php:33
+msgid "Primary"
+msgstr "Birincil"
+
+#: inc/customizer/customizer_color_back_settings.php:473
+#: inc/widget/register-widget.php:9
+msgid "Sidebar"
+msgstr "Yan Menü"
+
+#: inc/widget/register-widget.php:11
+msgid "Add Sidebar widgets."
+msgstr "Kenar çubuğu bileşenleri ekleyin."
+
+#: inc/widget/register-widget.php:19
+msgid "Footer 1"
+msgstr "Alt Kısım 1"
+
+#: inc/widget/register-widget.php:21
+msgid "Add widgets here to show on footer 1."
+msgstr "Alt kısım 1'de gözükmesini istediğiniz bileşenleri buraya ekleyin."
+
+#: inc/widget/register-widget.php:29
+msgid "Footer 2"
+msgstr "Alt Kısım 2"
+
+#: inc/widget/register-widget.php:31
+msgid "Add widgets here to show on footer 2."
+msgstr "Alt kısım 2'de gözükmesini istediğiniz bileşenleri buraya ekleyin."
+
+#: inc/widget/register-widget.php:39
+msgid "Footer 3"
+msgstr "Alt kısım 3"
+
+#: inc/widget/register-widget.php:41
+msgid "Add widgets here to show on footer 3."
+msgstr "Alt kısım 3'de gözükmesini istediğiniz bileşenleri buraya ekleyin."
+
+#: inc/widget/register-widget.php:57 inc/widget/register-widget.php:59
+msgid "WooCommerce sidebar widget area"
+msgstr "WooCommerce yan sütun bileşen alanı"
+
+#: index-news.php:72 template-parts/content-search.php:17
+#: template-parts/content-single.php:19 template-parts/content.php:23
+msgid "By"
+msgstr "Yazarı"
+
+#: index-news.php:90 template-parts/content-search.php:35
+#: template-parts/content.php:54
+msgid "Read more"
+msgstr "Devamı"
+
+#: searchform.php:2
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Ara"
+
+#: searchform.php:4
+msgid "Go"
+msgstr "Git"
+
+#. Template Name of the theme
+msgid "Business Template"
+msgstr "İş şablonu"
+
+#: template-parts/auth-details.php:7
+msgid "Written by: "
+msgstr "Yazan: "
+
+#: template-parts/auth-details.php:15
+msgid "View All Posts"
+msgstr "Tüm yazıları gör"
+
+#: template-parts/content-none.php:3
+msgid "Nothing found"
+msgstr "Hiçbir şey bulunamadı"
+
+#: template-parts/content-none.php:4
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Üzgünüz fakat aradığınız kriterler ile örtüşen sonuç bulunamadı. Lütfen başka anahtar kelimeler ile tekrar deneyin."
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://spicethemes.com/honeypress-wordpress-theme/"
+msgstr "https://spicethemes.com/honeypress-wordpress-theme/"
+
+#. Author URI of the theme
+#: inc/customizer/helper-function.php:132
+#, gp-priority: low
+msgid "https://spicethemes.com"
+msgstr "https://spicethemes.com"

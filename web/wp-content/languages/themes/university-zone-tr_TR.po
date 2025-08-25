@@ -1,0 +1,252 @@
+# Translation of Themes - University Zone in Turkish
+# This file is distributed under the same license as the Themes - University Zone package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-06 23:24:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - University Zone\n"
+
+#. Description of the theme
+msgid "University Zone is a child theme of Education Zone free WordPress theme. This theme features an elegant, attractive and mobile-friendly design to help you create an appealing website for educational institutions like schools, college, university, LMS, Training Center, Academy, Primary School, High school and Kindergarten. You can create a fully responsive professional website using this theme without writing a single line of code or any technical experience. It is an easy to use theme and comes with multiple features and customization options to help you design your dream website. The theme is SEO friendly along with Schema.org  mark up ready to help your website rank at the top of search engine results. Also, it is performance optimized which will give your website visitors a smooth browsing experience while visiting your website. Designed with visitor engagement in mind, University Zone helps you to easily and intuitively create professional and appealing websites. If your school, college or university needs an online home that is dynamic and multi-functional, this theme is an excellent option to start. Check the demo at https://rarathemes.com/previews/?theme=university-zone, documentation at https://docs.rarathemes.com/docs/university-zone/, and get support at https://rarathemes.com/support-ticket/."
+msgstr "University Zone ücretsiz WordPress teması olan Education Zone'nun alt temasıdır. Bu tema, okullar, kolejler, üniversiteler, Eğitim Yönetim Sistemi , Eğitim Merkezi, Akademi, İlkokul, Lise ve Anaokulu gibi eğitim kurumları için çekici bir web sitesi oluşturmanıza yardımcı olacak zarif, ve mobil uyumlu bir tasarıma sahiptir. Tek bir satır kod  yazmadan veya herhangi bir teknik deneyime sahip olmadan bu temayı kullanarak diğer cihazlarla uyumlu profesyonel web sitesi oluşturabilirsiniz. Kullanımı kolay bir temadır ve rüyanızdaki web sitenizi tasarlamanıza yardımcı olacak çoklu özellikler ve özelleştirme seçeneklerine sahiptir. Tema, SEO dostu Schema.org ile birlikte web sitenizin arama motoru sonuçlarında üst sıralarda yer almasına yardımcı olmak için hazırdır. Ayrıca, web sitenizi ziyaret edenlere web sitenizi ziyaret ederken sorunsuz bir tarama deneyimi kazandıracak şekilde performansı optimize edilmiştir. Ziyaretçi katılımı göz önünde bulundurularak tasarlanan University Zone, profesyonel ve çekici web sitelerini kolayca ve sezgisel olarak oluşturmanıza yardımcı olur. Okulunuzun, kolejinizin veya üniversitenizin dinamik ve çok işlevli bir çevrimiçi siteye ihtiyacı varsa, bu tema başlamak için mükemmel bir seçenektir. https://rarathemes.com/previews/?theme=university-zone adresinden demo sürümüne, https://docs.rarathemes.com/docs/university-zone/ adresinden kullanım dökümanlarına, ve https://rarathemes.com/support-ticket/ adresinden desteğe ulaşabilirsiniz."
+
+#. Theme Name of the theme
+msgid "University Zone"
+msgstr "University Zone."
+
+#: inc/parent-functions.php:150
+msgid "Mobile"
+msgstr "Mobil"
+
+#: inc/parent-functions.php:65
+msgid "E-Mail"
+msgstr "E-posta"
+
+#: inc/parent-functions.php:60
+msgid "Phone Number"
+msgstr "Telefon numarası"
+
+#: header.php:25
+msgid "Skip to content (Press Enter)"
+msgstr "İçeriğe Geç (Enter tuşuna basın)"
+
+#: footer.php:55
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org"
+
+#: footer.php:55
+msgid "Powered by %s."
+msgstr "%s Tarafından Desteklenmektedir."
+
+#: footer.php:51
+msgid "University Zone | Developed By"
+msgstr "University Zone | Tarafından Geliştirildi"
+
+#: footer.php:47
+msgid "Y"
+msgstr "Y"
+
+#: footer.php:47
+msgid "Copyright &copy;"
+msgstr "Copyright &copy;"
+
+#: inc/parent-functions.php:253
+msgid "About University Zone"
+msgstr "University Zone Teması Hakkında"
+
+#: inc/parent-functions.php:250
+msgid "More WordPress Themes"
+msgstr "Daha Fazla WordPress Temaları"
+
+#: inc/parent-functions.php:248
+msgid "Support Ticket"
+msgstr "Destek bileti"
+
+#: inc/parent-functions.php:246
+msgid "Theme info"
+msgstr "Tema Bilgisi"
+
+#: inc/parent-functions.php:244
+msgid "Theme Demo"
+msgstr "Tema Demosu"
+
+#: inc/parent-functions.php:242 inc/parent-functions.php:244
+#: inc/parent-functions.php:246 inc/parent-functions.php:248
+#: inc/parent-functions.php:250
+msgid "Click here"
+msgstr "Buraya tıklayın"
+
+#: inc/parent-functions.php:242
+msgid "Theme Documentation"
+msgstr "Tema Dökümanları"
+
+#: inc/parent-functions.php:231
+msgid "Demo and Documentation"
+msgstr "Demo ve Dökümanlar"
+
+#: inc/parent-functions.php:219
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/parent-functions.php:217
+msgid "VK"
+msgstr "VK"
+
+#: inc/parent-functions.php:215
+msgid "OK"
+msgstr "Tamam."
+
+#: inc/parent-functions.php:213
+msgid "YouTube"
+msgstr "Youtube"
+
+#: inc/parent-functions.php:211
+msgid "Instagram"
+msgstr "İnstagram"
+
+#: inc/parent-functions.php:209
+msgid "LinkedIn"
+msgstr "Linkedln"
+
+#: inc/parent-functions.php:207
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/parent-functions.php:205
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/parent-functions.php:203
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/child-functions.php:397
+msgid " -- Choose -- "
+msgstr "--Seç--"
+
+#: inc/child-functions.php:351
+msgid "Featured Course Post Six"
+msgstr "Öne çıkan altı kurs yazısı"
+
+#: inc/child-functions.php:335
+msgid "Featured Course Post Five"
+msgstr "Öne çıkan beş kurs yazısı"
+
+#: inc/child-functions.php:314
+msgid "Link Url"
+msgstr "Link Url"
+
+#: inc/child-functions.php:296
+msgid "Link Label"
+msgstr "Bağlantı Etiketi"
+
+#: inc/child-functions.php:277
+msgid "Banner Title"
+msgstr "Afiş Başlığı"
+
+#: inc/child-functions.php:251
+msgid "Post Banner"
+msgstr "Gönderi Afişi "
+
+#: inc/child-functions.php:250
+msgid "Static/Video CTA Banner"
+msgstr "Statik/Video AG (Aksiyona Gel) Afişi"
+
+#: inc/child-functions.php:249
+msgid "Disable Banner Section"
+msgstr "Afiş Bölümünü Devre Dışı Bırak"
+
+#: inc/child-functions.php:246
+msgid "Choose banner as static image/video."
+msgstr "Statik görüntüyü/videoyu afiş olarak seçin."
+
+#: inc/child-functions.php:245
+msgid "Banner Options"
+msgstr "Afiş Seçenekleri"
+
+#: inc/child-functions.php:218
+msgid "Banner Section"
+msgstr "Afiş Bölümü"
+
+#: inc/child-functions.php:203
+msgid "Enable Search Form"
+msgstr "Arama Formunu Etkinleştir"
+
+#: inc/child-functions.php:187
+msgid "%s You can edit the Header Search Settings from here"
+msgstr "%s Başlık Arama Ayarlarını buradan düzenleyebilirsiniz"
+
+#: inc/child-functions.php:166
+msgid "Open In New Tab"
+msgstr "Yeni Bir Sekmede Aç"
+
+#: inc/child-functions.php:149
+msgid "CTA URL"
+msgstr "AG (Aksiyone gel) URL (bağlantısı)"
+
+#: inc/child-functions.php:132
+msgid "CTA Label"
+msgstr "AG Etiketi"
+
+#: inc/child-functions.php:108
+msgid "%s You can edit the Button with below settings."
+msgstr "%s Düğmeyi aşağıdaki ayarlarla düzenleyebilirsiniz."
+
+#: inc/child-functions.php:89
+msgid "Header Settings"
+msgstr "Üstbilgi Ayarları"
+
+#: sections/section-blog.php:57
+msgid "g:i A"
+msgstr "g:i A"
+
+#: sections/section-blog.php:56 sections/section-blog.php:108
+msgid "j M, Y"
+msgstr "j M, Y"
+
+#: inc/child-functions.php:117 inc/child-functions.php:286
+#: inc/child-functions.php:415 inc/parent-functions.php:13
+#: inc/parent-functions.php:105 sections/section-info.php:44
+#: sections/section-slider.php:8
+msgid "Apply Now"
+msgstr "Şimdi Uygula"
+
+#: inc/child-functions.php:262 inc/child-functions.php:419
+#: sections/section-slider.php:7
+msgid "Better Education for a Better World"
+msgstr "Daha iyi bir hayat için daha iyi bir eğitim"
+
+#: sections/section-choose.php:43
+msgid "Learn More"
+msgstr "Devamını Öğren"
+
+#: sections/section-blog.php:13 sections/section-courses.php:51
+#: sections/section-slider.php:12 sections/section-welcome.php:33
+msgid "Read More"
+msgstr "Devamını Oku"
+
+#: functions.php:134
+msgid "Gallery Image"
+msgstr "Resim Galerisi"
+
+#: functions.php:46
+msgid "Default Header Image"
+msgstr "Varsayılan Üstbilgi Resmi"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: footer.php:53
+msgid "Rara Theme"
+msgstr "Rara Teması"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/university-zone/"
+msgstr "https://rarathemes.com/wordpress-themes/university-zone/"

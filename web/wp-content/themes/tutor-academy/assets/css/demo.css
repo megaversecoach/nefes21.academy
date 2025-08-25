@@ -1,0 +1,17 @@
+a.button.button-primary.get{
+	background: #00cde7 !important;
+}
+thead.table-book {
+    background: #00cde7 !important;
+}
+a.button.button-primary.get:hover{
+	color: #000 !important;
+}
+a.button.button-primary.get.prem {
+    background: #24b751 !important;
+    color: #fff;
+}
+a.button.button-primary.get.prem:hover{
+    background: #24b751 !important;
+    color: #fff !important;
+}

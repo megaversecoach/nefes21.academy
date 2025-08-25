@@ -1,0 +1,282 @@
+@charset "UTF-8";
+/*
+Theme Name: Tutor Academy
+Author: TheMagnifico52
+Theme URI: https://www.themagnifico.net/products/free-academy-wordpress-theme
+Author URI: https://www.themagnifico.net/
+Description: Tutor Academy brings you a sophisticated design to start your website representing the tutoring services you offer, or any education institution, training academy, online learning facility, E-learning platform, online a well as distance courses, vocational training centers, etc. this free WordPress theme gives an interactive environment to create such educational and learning-based websites and brings you a Bootstrap framework based design that is easy to modify using the simple customization options brought by the intuitive theme options panel. With a responsive layout fitting perfectly to every screen, you will be impressed to see how easily your website can be accessed through any popular web browser. Its layout s elegant and professional with a minimal approach and throws light on key aspects. Stunning animations add life to your web page and the Call to Action Button (CTA) make the entire website interactive. Wel-optimized and secure codes are added to the core to make it robust and work well delivering faster page load time and unmatched experience to your users. It is made SEO friendly to secure higher ranks for you in search engines results and bring more traffic to your website. You will find this theme translation ready and many social media options are included for better promotion of your services.
+Version: 2.2.8
+Tested up to: 6.6
+Requires PHP: 7.2
+Requires at least: 5.0
+License: GNU General Public License v3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Template: online-tutor
+Text Domain: tutor-academy
+Tags: custom-logo, one-column, two-columns, wide-blocks, block-styles, editor-style, sticky-post, custom-background, custom-colors, custom-header, custom-menu, footer-widgets, featured-images, flexible-header, full-width-template, threaded-comments, theme-options, left-sidebar, right-sidebar, grid-layout, rtl-language-support, blog, e-commerce, education
+
+Tutor Academy WordPress Theme has been created by TheMagnifico52(themagnifico.net), 2022.
+Tutor Academy WordPress Theme is released under the terms of GNU GPL
+*/
+
+a {
+  text-decoration: none !important;
+}
+.page-content input.search-submit.btn.btn-primary {
+    background: #00cde7;
+    border: #00cde7;
+}
+.article-box a,h1, h2, h3, h4, h5, h6,.navbar-brand a,.navbar-brand p,.main-navigation .menu > li > a,.widget a:hover, .widget a:focus{
+	color: #034aaa;
+}
+.top_header, .searchbox h3, .slider-box-btn a:hover, .btn-primary:hover, #button:hover, .searchbox form.search-from, .searchbox, .woocommerce a.button:hover, .woocommerce-account .woocommerce-MyAccount-navigation ul li:hover, .woocommerce button.button:hover, .woocommerce button.button.alt:hover, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce a.button.alt:hover, .woocommerce a.added_to_cart:hover, .sidenav .closebtn,.main-navigation .sub-menu > li > a:hover, .main-navigation .sub-menu > li > a:focus,.button-box a.box1:hover {
+	background: #034aaa;
+}
+#colophon a:hover, #colophon a:focus,a, .main-navigation .menu > li > a:hover, .top_header span, a.btn-text, .widget a:hover, .sidebar ul li a:hover, .main-navigation .sub-menu > li > .menu-item-link-return:hover, p.price, .woocommerce ul.products li.product .price, .woocommerce div.product p.price, .woocommerce div.product span.price, .woocommerce ul.products li.product .star-rating, .woocommerce .star-rating, .woocommerce-message::before, .woocommerce-info::before,.social-link i:hover{
+	color: #00cde7;
+}
+#colophon{
+    background-color: #1b3075;
+}
+.navbar-brand a:hover, .slider-inner-box h1 a:hover{
+    color: #00cde7;
+}
+input.search-submit.btn.btn-primary{
+    background-color:  #00cde7;
+    border-color: #00cde7;
+}
+.top_header p a, .button-box a.box1, .button-box a.box2:hover, .slider-box-btn a, #button, .btn-primary, .box h5, .box:hover:before, .sidebar input[type="submit"], .sidebar button[type="submit"], .meta-info-box, .comment-respond input#submit, .post-navigation .nav-previous a:hover, .main-navigation .sub-menu > li > a, .main-navigation .sub-menu > li > .menu-item-link-return, .sidebar h5, .woocommerce .widget_shopping_cart .buttons a, .woocommerce.widget_shopping_cart .buttons a, .pro-button a, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce-account .woocommerce-MyAccount-navigation ul li, .woocommerce .woocommerce-ordering select, .toggle-nav i, .woocommerce a.added_to_cart, .sidebar .tagcloud a:hover,.post-navigation .nav-previous a:hover, .post-navigation .nav-next a:hover, .posts-navigation .nav-previous a:hover, .posts-navigation .nav-next a:hover{
+	background: #00cde7;
+}
+.social-link i:hover{
+	background: transparent;
+}
+.post-navigation .nav-previous a:hover, .post-navigation .nav-next a:hover, .posts-navigation .nav-previous a:hover, .posts-navigation .nav-next a:hover{
+	border-color: #00cde7;;
+}
+.top_header i {
+    color: #e0e9f5;
+    padding: 0;
+    border-radius: 0;
+    width: auto;
+    height: auto;
+    background: transparent;
+}
+a.info-text {
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+}
+.main-navigation .sub-menu > li{
+	border-color: #fff;
+}
+.page-template-home-template .navigation_header {
+    background: #fff;
+}
+.navigation_header {
+    background: #f1f1f1;
+}
+.main-navigation ul.sub-menu > li > a:hover, .main-navigation ul.sub-menu > li > a:focus {
+    background: #003e7d;
+    color: #fff !important;
+}
+#site-navigation .menu ul li a{
+    color: #034aaa;
+}
+#site-navigation .menu ul li a:hover {
+    color: #00cde7;
+}
+.slider-inner-box {
+    left: 50%;
+    text-align: right;
+}
+.slider-box-btn a{
+	border-radius: 5px;
+}
+.button-box a.box1:hover{
+	color: #fff;
+}
+.price-box {
+    margin-top: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.box h5 {
+	padding: 10px;
+    border-radius: 0 0 0 15px;
+}
+.box h3 {
+    font-size: 18px;
+    margin-bottom: 0;
+}
+.date-box p {
+    background: #41cde7;
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-size: 12px;
+    color: #fff;
+    font-weight: 700;
+}
+.date-box {
+    margin-top: -15px;
+    margin-left: 15px;
+    position: relative;
+}
+.article-box a, .article-box a.btn-text{
+    color: #034aaa;
+}
+.article-box:hover h3 a, .article-box:hover a.btn-text{
+    color: #00cde7;
+}
+/*--------------------------------------------------------------
+# Header Search
+--------------------------------------------------------------*/
+span.head-search {
+  position: relative;
+}
+span.search-main i{
+  color: #00cde7;
+}
+.header-search-wrapper .search-form-main {
+  background: #fff none repeat scroll 0 0;
+  -webkit-box-shadow: 1px 1px 7px rgba(0,0,0,.15);
+  box-shadow: 1px 1px 7px rgba(0,0,0,.15);
+  border-top: 2px solid #408c40;
+  padding: 15px;
+  position: absolute;
+  right: 0;
+  top: 124%;
+  width: 300px;
+  z-index: 9999;
+  opacity: 0;
+  visibility: hidden;
+}
+.search-form-main.active-search {
+  opacity: 1;
+  visibility: visible;
+}
+.search-form-main.active-search label{
+  display: block;
+}
+.header-search-wrapper .search-form-main {
+  border-top-color: #00cde7;
+}
+.header-search-wrapper .search-form-main:before {
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 10px solid #408c40;
+  content: "";
+  position: absolute;
+  right: 0px;
+  top: -12px;
+}
+.header-search-wrapper .search-form-main .search-field {
+  border-radius: 0;
+  padding: 5px 10px;
+  width: 100%;
+  height: 40px;
+  float: left;
+}
+.header-search-wrapper .search-form-main:before {
+  border-bottom-color: #00cde7;
+}
+.search-form-main input.search-submit {
+  position: absolute;
+  right: 15px;
+  margin-top: 0px !important;
+  top: 17px;
+  background-color: #00cde7;
+  border: 0px;
+}
+.search-form-main input.search-field.form-control {
+  position: relative;
+}
+.header-search-wrapper {
+  float: right;
+  position: relative;
+}
+.head-search span.search-main {
+    background: #000000;
+    padding: 12px;
+}
+/*--------------------------------------------------------------
+# Slider Arrows
+--------------------------------------------------------------*/
+#top-slider .owl-nav {
+    display: block;
+}
+#top-slider button.owl-prev {
+    left: 20px;
+}
+#top-slider button.owl-next {
+    right: 20px;
+}
+#top-slider button.owl-prev, #top-slider button.owl-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: transparent;
+    border: none;
+}
+#top-slider .owl-nav i {
+    background: #00cde7;
+    padding: 20px;
+    color: #fff;
+    border-radius: 30px;
+    font-size: 15px;
+}
+@keyframes loading {
+  0%,
+  100% {
+    transform: translatey(-2.5rem);
+    background-color: #fff;
+  }
+  50% {
+    transform: translatey(2.5rem);
+    background-color: #00cde7;
+  }
+}
+
+@media screen and (max-width: 1000px){
+	#site-navigation .menu ul li a, .main-navigation .menu > li > a, .main-navigation .sub-menu > li > a, .main-navigation .sub-menu > li > .menu-item-link-return {
+        color: #ffffff;
+        background: transparent;
+    }
+    .main-navigation .menu > li > a,.main-navigation .sub-menu > li > a, .main-navigation .sub-menu > li > .menu-item-link-return {
+        color: #fff;
+        display: block;
+        border: none;
+    }
+    .main-navigation ul.sub-menu > li > a:hover, .main-navigation ul.sub-menu > li > a:focus {
+        background: transparent;
+        color: #ffa155 !important;
+    }
+    #site-navigation .menu ul li a:hover{
+        color: #00cde7 !important;
+    }
+    #site-navigation .menu ul li a {
+        text-transform: uppercase;
+    }
+    .sidenav .closebtn{
+        background: #00cde7;
+    }
+}
+@media screen and (min-width: 320px) and (max-width: 720px){
+	.slider-inner-box p{
+		display: none;
+	}
+	.slider-inner-box {
+	    left: 10%;
+	}
+    #top-slider button.owl-prev, #top-slider button.owl-next{
+        top: 85%;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 999px){
+	.slider-inner-box {
+    	left: 30%;
+	}
+}

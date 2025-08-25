@@ -1,0 +1,20 @@
+# WP geçici/önbellek ve büyük medya
+wp-content/cache/
+wp-content/uploads/cache/
+*.log
+*.tmp
+*.tar*
+*.zip
+*.mp4
+*.mp3
+
+# Gizliler
+wp-config.php
+.env
+.env.*
+
+# Geliştirme klasörleri
+node_modules/
+vendor/
+.idea/
+.vscode/

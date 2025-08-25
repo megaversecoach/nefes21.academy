@@ -1,0 +1,22 @@
+= 1.6 =
+* Footer credentials tweaked and Compatibility check with WordPress version 6.7
+
+= 1.5 =
+* Removed footer link.
+
+= 1.4 =
+* Compatibility with WordPress 6.4
+* Added company footer credits
+
+= 1.3 =
+* Compatibility with WordPress 6.2
+* Resolved Submenu active color issue.
+
+= 1.2 =
+* Resolved dropdown menu color and width issue.
+
+= 1.1 =
+* Issue resolved as per reviewer comments.
+
+= 1.0 =
+* Initial version release.

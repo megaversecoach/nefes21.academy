@@ -1,0 +1,276 @@
+# Translation of Themes - Honeypress Dark in Turkish
+# This file is distributed under the same license as the Themes - Honeypress Dark package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-06-16 09:49:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - Honeypress Dark\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "HoneyPress Dark WordPress Theme is a lightweight, elegant, fully responsive theme. Those who want the dark variation can use this theme. It allows you to create stunning blogs and websites. The theme is well suited for companies, law firms, e-commerce, finance, agency, travel, photography, design, arts, personal, and any other creative websites and blogs. It comes with a predesigned home page, good-looking header designs and a number of content sections that you can easily customize. It also has lots of customization options (banner, services, testimonial, etc) that will help you create a beautiful, unique website in no time. HoneyPress is compatible with popular plugins like WPML, Polylang, WooCommerce, and Contact Form 7."
+msgstr "HoneyPress Dark WordPress teması zarif görünümlü, hafif ve tam duyarlı bir temadır. Koyu renkli bir varyasyon isteyenler bu temayı kullanabilir. Çarpıcı bloglar ve web siteleri oluşturmanıza olanak sağlar. Kurumlar, hukuk firmaları, e-ticaret, finans, ajans, turizm, fotoğrafçılık, tasarım, sanat, kişisel ve diğer yaratıcı web siteleri ve bloglar için son derece uygundur. Çok kısa sürede güzel görünümlü, eşsiz web siteleri hazırlamanızı sağlayacak bir çok özelleştirme seçeneği (banner, hizmetler, müşteri görüşleri vb.) içerir. HoneyPress WPML, Polylang, WooCommerce ve Contact Form 7 gibi popüler bir çok eklenti ile uyumludur."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Honeypress Dark"
+msgstr "HoneyPress Dark"
+
+#: functions.php:51
+msgid "HoneyPress Dark"
+msgstr "HoneyPress Dark"
+
+#: admin/inc/include-companion.php:98
+msgid "Activate now"
+msgstr "Şimdi etkinleştir"
+
+#: admin/inc/include-companion.php:97
+msgid "Activate SpiceBox now"
+msgstr "SpiceBox'ı şimdi etkinleştir"
+
+#: admin/inc/include-companion.php:96
+msgid "You have installed the SpiceBox plugin. To take advantage of this theme's features in the customizer, you need to activate it."
+msgstr "SpiceBox eklentisini kurdunuz. Temanın özelliklerini özelleştirici içinde kullanabilmek için eklentiyi etkinleştirmeniz gerekiyor."
+
+#: admin/inc/include-companion.php:80
+msgid "Install SpiceBox Now"
+msgstr "SpiceBox'ı şimdi kur"
+
+#: admin/inc/include-companion.php:79
+msgid "To take advantage of this theme's features in the customizer you need to install the SpiceBox plugin."
+msgstr "Özelleştirici içinde bu temanın özelliklerini tam anlamıyla kullanabilmek için SpiceBox eklentisini kurmalısınız."
+
+#: admin/inc/class-spicethemes-about-page.php:499
+msgid "You can add different banner image for a different page or post according to you"
+msgstr "Tercihinize bağlı olarak farklı sayfa ve yazılar için farklı banner görselleri ekleyebilirsiniz."
+
+#: admin/inc/class-spicethemes-about-page.php:497
+msgid "Unique Headers"
+msgstr "Unique Headers"
+
+#: admin/inc/class-spicethemes-about-page.php:493
+msgid "To display breadcrumbs, please install the Yoast SEO plugin."
+msgstr "Gezinti bağlantılarını görüntülemek için, lütfen Yoast SEO eklentini kurun."
+
+#: admin/inc/class-spicethemes-about-page.php:491
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: admin/inc/class-spicethemes-about-page.php:485
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: admin/inc/class-spicethemes-about-page.php:481
+msgid "To access the advance Frontpage sections and other theme features, please install the SpiceBox plugin."
+msgstr "Gelişmiş ön sayfa bölümleri ve diğer tema özellikleri için lütfen SpiceBox eklentisini yükleyin."
+
+#: admin/inc/class-spicethemes-about-page.php:479
+#: admin/inc/include-companion.php:80 admin/inc/include-companion.php:97
+msgid "SpiceBox"
+msgstr "SpiceBox"
+
+#: admin/inc/class-spicethemes-about-page.php:339
+msgid "Active"
+msgstr "Etkinleştir"
+
+#: admin/inc/class-spicethemes-about-page.php:336
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: admin/inc/class-spicethemes-about-page.php:334
+msgid "Activate %s now"
+msgstr "%s temasını etkinleştir"
+
+#: admin/inc/class-spicethemes-about-page.php:317
+#: admin/inc/include-companion.php:81
+msgid "Install and activate"
+msgstr "Yükle ve etkinleştir"
+
+#: admin/inc/class-spicethemes-about-page.php:315
+msgid "Install %s now"
+msgstr "%s temasını şimdi yükle"
+
+#: admin/inc/class-spicethemes-about-page.php:242
+msgid "Support"
+msgstr "Destek"
+
+#: admin/inc/class-spicethemes-about-page.php:234
+msgid "Recommended Actions"
+msgstr "Önerilen eylemler"
+
+#: admin/inc/class-spicethemes-about-page.php:134
+msgid "Get started with HoneyPress Dark theme"
+msgstr "Honeypress Dark temasını kullanmaya başlayın"
+
+#: admin/inc/class-spicethemes-about-page.php:133
+msgid "HoneyPress Dark theme is installed. To take full advantage of the features this theme has to offer visit our %1$s welcome page %2$s"
+msgstr "HoneyPress Dark teması kuruldu. Bu temanın sağladığı özelliklerin tamamından faydalanmak için %1$s hoşgeldiniz sayfamızı %2$s ziyaret edin."
+
+#: admin/inc/class-spicethemes-about-page.php:120
+msgid "Welcome to %1$s %2$s"
+msgstr "%1$s temasına hoşgeldiniz - Sürüm %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:119
+msgid "About %1$s %2$s"
+msgstr "%1$s hakkında %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:111
+msgid "View Theme Info"
+msgstr "Tema bilgisini görüntüleyin"
+
+#: admin/inc/class-spicethemes-about-page.php:72
+#: admin/inc/include-companion.php:43 admin/inc/plugin-include-control.php:42
+msgid "Error"
+msgstr "Hata"
+
+#: admin/inc/class-spicethemes-about-page.php:71
+#: admin/inc/include-companion.php:42 admin/inc/plugin-include-control.php:41
+msgid "Activating"
+msgstr "Etkinleştiriliyor"
+
+#: admin/inc/class-spicethemes-about-page.php:70
+#: admin/inc/include-companion.php:41 admin/inc/plugin-include-control.php:40
+msgid "Installing"
+msgstr "Yükleniyor"
+
+#: admin/tab-pages/getting-started.php:70
+msgid "Premium Theme Details"
+msgstr "Premium tema detayları"
+
+#: admin/tab-pages/getting-started.php:64
+msgid "Your feedback is valuable to us"
+msgstr "Geri bildiriminiz bizim için değerlidir"
+
+#: admin/tab-pages/getting-started.php:52
+msgid "PRO Demo"
+msgstr "PRO örneği"
+
+#: admin/tab-pages/getting-started.php:46
+msgid "Lite Demo"
+msgstr "Basit örnek site"
+
+#: admin/tab-pages/getting-started.php:40
+msgid "Useful Links"
+msgstr "İşe yarar bağlantılar"
+
+#: admin/tab-pages/getting-started.php:32
+msgid "HoneyPress Dark theme"
+msgstr "HoneyPress Dark teması"
+
+#: admin/tab-pages/getting-started.php:26
+msgid "Go to the Customizer"
+msgstr "Özelleştiriciye git"
+
+#: admin/tab-pages/getting-started.php:24
+msgid "To take full advantage of all the features this theme has to offer, install and activate the SpiceBox plugin. Go to Customize and install the SpiceBox plugin."
+msgstr "Bu temanın size sunduğu tüm imkanlardan faydalanabilmek için SpiceBox eklentisini kurun ve etkinleştirin. Özelleştir bölümüne gidin ve SpiceBox eklentisini kurun."
+
+#: admin/inc/class-spicethemes-about-page.php:229
+#: admin/tab-pages/getting-started.php:21
+msgid "Getting Started"
+msgstr "Başlarken"
+
+#: admin/tab-pages/getting-started.php:19
+msgid "You can use this theme for any type of activity. HoneyPress Dark is compatible with popular plugins like WPML and Polylang for the translation."
+msgstr "Bu temayı herhangi bir etkinlik için kullanabilirsiniz. HoneyPress Dark, WPML ve Polylang gibi popüler tercüme eklentileriyle uyumludur."
+
+#: admin/tab-pages/getting-started.php:17
+msgid "This theme is ideal for creating corporate and business websites. HoneyPress Dark is a child theme of the HoneyPress WordPress theme. The premium version has tons of features like a homepage with many sections where you can feature unlimited slides, portfolios, user reviews, latest news, services, call to action and much more. Each section in the Homepage template is carefully designed to fit to all business requirements."
+msgstr "Bu tema kurumsal ve işletme web siteleri oluşturmak için ideal bir temadır. HoneyPress Dark HoneyPress WordPress temasının alt temasıdır. Premium sürüm, ana sayfanızda sınırsız slayt, portföy, kullanıcı değerlendirmesi, son haberler, hizmetler, harekete geçirici mesajlar ve daha da fazlasını içeren özelliklerle gelir. Ana sayfa şablonundaki tüm bölümler, tüm ticari ihtiyaçlara yanıt verecek şekilde dikkatle tasarlanmıştır."
+
+#: admin/tab-pages/getting-started.php:10
+msgid "About the HoneyPress Dark theme"
+msgstr "HoneyPress Dark teması hakkında"
+
+#: admin/tab-pages/useful_plugins.php:21
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "Temadaki son değişiklikleri yakalamak mı istediniz? Aşağıdaki değişiklik kayıtlarına başvurarak güncel geliştirmeler ve yeni özellikler hakkında bilgi alabilirsiniz."
+
+#: admin/tab-pages/getting-started.php:91 admin/tab-pages/useful_plugins.php:20
+#: admin/tab-pages/useful_plugins.php:22
+msgid "Changelog"
+msgstr "Değişiklik listesi"
+
+#: admin/tab-pages/useful_plugins.php:13
+msgid "We want to make sure you have the best experience using HoneyPress Dark, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using HoneyPress Dark as much as we enjoy creating great products."
+msgstr "HoneyPress Dark temasını kullanırken en iyi deneyimi yaşadığınıza emin olmak istiyoruz, bu nedenle gerekli tüm bilgileri sizin için burada bir araya getirdik. HoneyPress Dark'ı kullanırken, bizim mükemmel ürünler oluşturmaktan keyif aldığımız kadar keyif almanızı umarız."
+
+#: admin/tab-pages/useful_plugins.php:12 admin/tab-pages/useful_plugins.php:14
+msgid "Contact Support"
+msgstr "Destek ile iletişim kur"
+
+#: functions.php:51
+msgid "by SpiceThemes"
+msgstr "SpiceThemes tarafından"
+
+#: functions.php:51
+msgid "https://spicethemes.com"
+msgstr "https://spicethemes.com"
+
+#: functions.php:51
+msgid "| Theme:"
+msgstr "| Tema:"
+
+#: functions.php:51
+msgid "WordPress"
+msgstr "WordPress"
+
+#: functions.php:51
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#: functions.php:51
+msgid "Proudly powered by"
+msgstr "Gururla sunan"
+
+#: index-news.php:73 index-news.php:104
+msgid "Read more"
+msgstr "Devamı"
+
+#: index-news.php:66 index-news.php:96
+msgid "By"
+msgstr "Yazarı"
+
+#: index-news.php:10
+msgid "Cras Vitae Placerat"
+msgstr "Cras Vitae Placerat"
+
+#: index-news.php:9
+msgid "Vitae Lacinia"
+msgstr "Vitae Lacinia"
+
+#: inc/header/header-nav.php:32 inc/header/header-nav.php:61
+msgid "Search…"
+msgstr "Ara…"
+
+#: inc/header/header-nav.php:32 inc/header/header-nav.php:61
+msgid "Search"
+msgstr "Ara"
+
+#: inc/header/header-nav.php:11
+msgid "Toggle navigation"
+msgstr "Navigasyonu değiştir"
+
+#: header.php:15
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://spicethemes.com/"
+msgstr "https://spicethemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "spicethemes"
+msgstr "spicethemes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://spicethemes.com/honeypress-dark-wordpress-theme/"
+msgstr "https://spicethemes.com/honeypress-dark-wordpress-theme/"

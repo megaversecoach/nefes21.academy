@@ -1,0 +1,881 @@
+# Translation of Plugins - SchedulePress – Auto Post &amp; Publish, Auto Social Share, Schedule Posts with Editorial Calendar &amp; Missed Schedule Post Publisher - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - SchedulePress – Auto Post &amp; Publish, Auto Social Share, Schedule Posts with Editorial Calendar &amp; Missed Schedule Post Publisher - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-14 11:38:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - SchedulePress – Auto Post &amp; Publish, Auto Social Share, Schedule Posts with Editorial Calendar &amp; Missed Schedule Post Publisher - Stable (latest release)\n"
+
+#: includes/Admin.php:306
+msgid "Sorry, you can't schedule this <strong>%s</strong>. Please allow this post type from <a href=\"%s\" target=\"_blank\">SchedulePress settings</a>."
+msgstr "Üzgünüz, bu <strong>%s</strong>'i planlayamazsınız. Lütfen <a href=\"%s\" target=\"_blank\">SchedulePress ayarlarından</a> bu gönderi türüne izin verin."
+
+#: includes/Admin/Settings.php:1280
+msgid "How to Configure SchedulePress Advanced Schedule in Classic Editor?"
+msgstr "Klasik Düzenleyicide SchedulePress Gelişmiş Zamanlama Nasıl Yapılandırılır?"
+
+#: includes/Admin/Settings.php:553
+msgid "For details on Pinterest configuration, check out this <a href=\"%s\" target=\"_blank\">Doc</a>.<br> <a href=\"%s\" target=\"_blank\">Click here</a> to Retrieve Your API Keys from your Pinterest account."
+msgstr "Pinterest yapılandırmasıyla ilgili ayrıntılar için bu <a href=\"%s\" target=\"_blank\">Doc</a>'a göz atın.<br> <a href=\"%s\" target=\"_blank\">Pinterest hesabınızdan API Anahtarlarınızı Almak için buraya tıklayın</a>."
+
+#: includes/Social/InstantShare.php:245
+msgid "You may forget to add or enable social media from <a href=\"%s\">SchedulePress settings</a>. "
+msgstr "<a href=\"%s\">SchedulePress ayarlarından</a> sosyal medya eklemeyi veya etkinleştirmeyi unutabilirsiniz. "
+
+#: includes/Admin/Settings.php:1079
+msgid "Max: 2100"
+msgstr "En fazla: 2100"
+
+#: includes/Admin/Settings.php:1067 includes/Admin/Settings.php:1148
+msgid "Define how to share the content on Instagram by setting the template. <strong>Default Structure: {title}{content}{url}{tags}</strong>"
+msgstr "Şablonu ayarlayarak içeriğin Instagram'da nasıl paylaşılacağını tanımlayın. <strong>Varsayılan yapı: {title}{content}{url}{tags}</strong>"
+
+#: includes/Admin/Settings.php:1027
+msgid "To configure the Instagram Settings, check out this <a target=\"_blank\" href=\"%s\">Doc.</a>"
+msgstr "Instagram ayarlarını yapılandırmak için bu <a target=\"_blank\" href=\"%s\">belgeye</a> göz atın."
+
+#: includes/Admin/Settings.php:1026
+msgid "Instagram Settings"
+msgstr "Instagram ayarları"
+
+#: includes/Admin/Settings.php:567
+msgid "Add this URL in the Redirect URLs field of your Instagram app."
+msgstr "Bu adresi Instagram uygulamanızın yönlendirme adresleri alanına ekleyin."
+
+#: includes/Admin/Settings.php:564
+msgid "You can enable/disable Instagram social share. To configure Instagram Social Profile, check out this <a target=\"__blank\" href=\"%s\">Doc</a>"
+msgstr "Instagram sosyal paylaşımını etkinleştirebilir/devre dışı bırakabilirsiniz. Instagram sosyal profilini yapılandırmak için bu <a target=\"__blank\" href=\"%s\">belgeye</a> göz atın"
+
+#: includes/Admin/Settings.php:561 includes/Admin/Settings.php:1019
+#: includes/Social/InstantShare.php:210 assets/gutenberg/social-share.js:638
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/Admin.php:668
+msgid "(Page)"
+msgstr "(Sayfa)"
+
+#: includes/Admin.php:637
+msgid "(Profile)"
+msgstr "(Profil)"
+
+#: includes/Admin.php:569 includes/Admin.php:595 includes/Admin.php:644
+#: includes/Admin.php:675 includes/Admin.php:682 includes/Admin.php:730
+#: includes/Admin.php:757 includes/Admin.php:784
+msgid "You may forget to add or enable profile/page from <a href=\"%s\">SchedulePress settings</a>. "
+msgstr "<a href=\"%s\">SchedulePress ayarlarından</a> profil / sayfa eklemeyi veya etkinleştirmeyi unutabilirsiniz. "
+
+#: includes/Admin.php:555 includes/Admin.php:582 includes/Admin.php:631
+#: includes/Admin.php:662 includes/Admin.php:696 includes/Admin.php:743
+#: includes/Admin.php:770
+msgid "Custom"
+msgstr "Özel"
+
+#: includes/Admin.php:344
+msgid "Prev"
+msgstr "Önceki"
+
+#: includes/Social/Pinterest.php:269
+msgid "Your post has been successfully shared!"
+msgstr "Gönderiniz başarıyla paylaşıldı!"
+
+#: includes/Social/InstantShare.php:352 includes/Social/InstantShare.php:458
+#: includes/Social/SocialProfile.php:213 includes/Social/SocialProfile.php:290
+#: includes/Social/SocialProfile.php:659
+msgid "Invalid nonce."
+msgstr "Geçersiz nonce."
+
+#: includes/Social/InstantShare.php:357 includes/Social/InstantShare.php:464
+#: includes/Social/SocialProfile.php:217 includes/Social/SocialProfile.php:296
+#: includes/Social/SocialProfile.php:665
+msgid "You are unauthorized to access social profiles."
+msgstr "Sosyal profillere erişim yetkiniz yok."
+
+#: includes/Admin/Calendar.php:540 includes/Admin/Calendar.php:704
+#: includes/Admin/Calendar.php:732
+msgid "Post type isn't allowed in Settings page."
+msgstr "Yazı tipine ayarlar sayfasında izin verilmemiş."
+
+#: includes/Social/Facebook.php:228 includes/Social/Instagram.php:185
+#: includes/Social/Linkedin.php:181 includes/Social/Medium.php:208
+#: includes/Social/Pinterest.php:230 includes/Social/Twitter.php:174
+msgid "Your max share post limit has been executed!!"
+msgstr "En fazla yazı paylaşım limitiniz uygulandı!!!"
+
+#: includes/Admin/Settings.php:726 includes/Admin/Settings.php:815
+#: includes/Admin/Settings.php:917 includes/Admin/Settings.php:1007
+#: includes/Admin/Settings.php:1088 includes/Admin/Settings.php:1169
+msgid "Keep zero for no limit"
+msgstr "Limit olmaması için sıfır kullanın"
+
+#: includes/Admin/Settings.php:723 includes/Admin/Settings.php:812
+#: includes/Admin/Settings.php:914 includes/Admin/Settings.php:1004
+#: includes/Admin/Settings.php:1085 includes/Admin/Settings.php:1166
+msgid "How often to share a post?"
+msgstr "Bir yazı ne sıklıkla paylaşılsın?"
+
+#: includes/Admin.php:554 includes/Admin.php:581 includes/Admin.php:630
+#: includes/Admin.php:661 includes/Admin.php:695 includes/Admin.php:742
+#: includes/Admin.php:769 includes/Admin/Settings/assets/js/admin.js:1
+msgid "Default"
+msgstr "Varsayılan"
+
+#: includes/Admin.php:608 assets/gutenberg/social-share.js:488
+#: assets/gutenberg/social-share.js:517 assets/gutenberg/social-share.js:535
+#: assets/gutenberg/social-share.js:554 assets/gutenberg/social-share.js:577
+#: assets/gutenberg/social-share.js:657 assets/gutenberg/social-share.js:688
+#: assets/gutenberg/utils/SelectedSocialProfileModal.js:31
+#: assets/gutenberg/utils/SelectedSocialProfileModal.js:34
+#: assets/gutenberg/utils/SelectedSocialProfileModal.js:37
+#: assets/gutenberg/utils/SelectedSocialProfileModal.js:44
+#: includes/Admin/Settings/assets/js/admin.js:1
+msgid "Profile"
+msgstr "Profil"
+
+#: includes/Admin.php:611 assets/gutenberg/social-share.js:536
+#: assets/gutenberg/social-share.js:554 assets/gutenberg/social-share.js:577
+#: assets/gutenberg/utils/SelectedSocialProfileModal.js:37
+#: includes/Admin/Settings/assets/js/admin.js:1
+msgid "Page"
+msgstr "Sayfa"
+
+#: wp-scheduled-posts.php:131
+msgid "SchedulePress Free v5.0 needs SchedulePress Pro v5.0 for better performance. Please update SchedulePress Pro plugin to v5.0. Contact our <a href=\"%s\" target=\"_blank\">Support</a> if you need any assistance."
+msgstr "SchedulePress Free v5.0, daha iyi performans için SchedulePress Pro v5.0'a ihtiyaç duyar. Lütfen SchedulePress Pro eklentisini v5.0'a güncelleyin. Herhangi bir yardıma ihtiyacınız olursa <a href=\"%s\" target=\"_blank\">Destek</a> ekibimizle iletişime geçin."
+
+#: includes/Admin/Settings.php:1412
+msgid "How To Configure SchedulePress To Handle Missed Schedule Errors?"
+msgstr "SchedulePress kaçırılan zamanlama hatalarını işlemek için nasıl yapılandırılır?"
+
+#: includes/Admin/Settings.php:1408
+msgid "How To Manage The Missed Schedule Error In WordPress?"
+msgstr "WordPress'te kaçırılan zamanlama hatası nasıl yönetilir?"
+
+#: includes/Admin/Settings.php:1396
+msgid "WordPress might miss the schedule for a post for various reasons. Turn on this option to let SchedulePress take care of this and publish the missed schedule."
+msgstr "WordPress, çeşitli nedenlerle bir yazının zamanlamasını kaçırabilir. SchedulePress'in bununla ilgilenmesine ve kaçırılan zamanlamayı yayınlamasına izin vermek için bu seçeneği açın."
+
+#: includes/Admin/Settings.php:1385
+msgid "Enable to publish posts randomly"
+msgstr "Yazıları rastgele yayınlamayı etkinleştirin"
+
+#: includes/Admin/Settings.php:1298 includes/Admin/Settings.php:1429
+msgid "Watch The Video Walkthrough"
+msgstr "Videolu anlatımı izleyin"
+
+#: includes/Admin/Settings.php:1275
+msgid "How To Configure SchedulerPress Advanced Schedule In Gutenberg?"
+msgstr "Gutenberg'de SchedulerPress gelişmiş zamanlama nasıl yapılandırılır?"
+
+#: includes/Admin/Settings.php:1270
+msgid "How To Configure SchedulerPress Advanced Schedule In Elementor?"
+msgstr "Elementor’da SchedulerPress gelişmiş zamanlama nasıl yapılandırılır?"
+
+#: includes/Admin/Settings.php:1266 includes/Admin/Settings.php:1404
+msgid "Read Detailed Documentation:"
+msgstr "Detaylı belgelendirmeyi okuyun:"
+
+#: includes/Admin/Settings.php:1258
+msgid "Get options to set the published post status when scheduling it. Keep the post published and the updated content will be published according to schedule, or move the post to Draft until it is published."
+msgstr "Zamanlama yaparken yayınlanan yazı durumunu ayarlamak için seçenekler edinin. Yazıyı yayında tutarak, güncellenen içeriğiniz zamanlamaya göre yayınlansın veya yayınlanıncaya kadar gönderiyi Taslak'a taşıyın."
+
+#: includes/Admin/Settings.php:1248
+msgid "Enable to get options of scheduling a published post while updating it."
+msgstr "Yayınlanan bir yazıyı güncellerken zamanlama seçeneklerini almayı etkinleştirin."
+
+#: includes/Admin/Settings.php:1187
+msgid "Scheduling Hub"
+msgstr "Planlama merkezi"
+
+#: includes/Admin/Settings.php:998
+msgid "Max: 500"
+msgstr "En fazla: 500"
+
+#: includes/Admin/Settings.php:986
+msgid "Define how to share the content on Pinterest by setting the template. <strong>Default Structure: {title}{content}{url}{tags}</strong>"
+msgstr "Şablonu ayarlayarak içeriğin Pinterest'te nasıl paylaşılacağını tanımlayın. <strong>Varsayılan yapı: {title}{content}{url}{tags}</strong>"
+
+#: includes/Admin/Settings.php:951
+msgid "Enable if you want to add the Image link on Pinterest. "
+msgstr "Pinterest'e görsel bağlantısı eklemek istiyorsanız etkinleştirin. "
+
+#: includes/Admin/Settings.php:937
+msgid "To configure the Pinterest Pin Settings, check out this <a target=\"_blank\" href=\"%s\">Doc.</a>"
+msgstr "Pinterest Pin ayarlarını yapılandırmak için bu <a target=\"_blank\" href=\"%s\">belgeye</a> göz atın."
+
+#: includes/Admin/Settings.php:936
+msgid "Pinterest Pin Settings"
+msgstr "Pinterest pin ayarları"
+
+#: includes/Admin/Settings.php:908
+msgid "Max: 1300"
+msgstr "En fazla: 1300"
+
+#: includes/Admin/Settings.php:897
+msgid "Define how to share the content on LinkedIn by setting the template. <strong>Default Structure: {title}{content}{url}{tags}</strong>"
+msgstr "Şablonu ayarlayarak içeriğin LinkedIn'de nasıl paylaşılacağını tanımlayın. <strong>Varsayılan yapı: {title}{content}{url}{tags}</strong>"
+
+#: includes/Admin/Settings.php:835
+msgid "To configure the LinkedIn Status Settings, check out this <a target=\"_blank\" href=\"%s\">Doc.</a>"
+msgstr "LinkedIn durum ayarlarını yapılandırmak için bu <a target=\"_blank\" href=\"%s\">belgeye</a> göz atın."
+
+#: includes/Admin/Settings.php:806
+msgid "Max: 280"
+msgstr "En fazla: 280"
+
+#: includes/Admin/Settings.php:760
+msgid "Define how to share the content on Twitter by setting the template. <strong>Default Structure: {title}{content}{url}{tags}</strong>"
+msgstr "Şablonu ayarlayarak içeriğin Twitter'da nasıl paylaşılacağını tanımlayın. <strong>Varsayılan yapı: {title}{content}{url}{tags}</strong>"
+
+#: includes/Admin/Settings.php:746
+msgid "To configure the Twitter Tweet Settings, check out this <a target=\"_blank\" href=\"%s\">Doc.</a>"
+msgstr "Twitter Tweet ayarlarını yapılandırmak için bu <a target=\"_blank\" href=\"%s\">belgeye</a> göz atın."
+
+#: includes/Admin/Settings.php:717
+msgid "Max: 63206"
+msgstr "En fazla: 63206"
+
+#: includes/Admin/Settings.php:684 includes/Admin/Settings.php:782
+#: includes/Admin/Settings.php:875 includes/Admin/Settings.php:965
+#: includes/Admin/Settings.php:1046 includes/Admin/Settings.php:1127
+msgid "Content Source:"
+msgstr "İçerik kaynağı:"
+
+#: includes/Admin/Settings.php:679 includes/Admin/Settings.php:769
+#: includes/Admin/Settings.php:870 includes/Admin/Settings.php:959
+#: includes/Admin/Settings.php:1040 includes/Admin/Settings.php:1121
+msgid "Add Category as tags"
+msgstr "Kategoriyi etiketler olarak ekle"
+
+#: includes/Admin/Settings.php:678 includes/Admin/Settings.php:768
+#: includes/Admin/Settings.php:869 includes/Admin/Settings.php:960
+#: includes/Admin/Settings.php:1041 includes/Admin/Settings.php:1122
+msgid "The categories you select will be used as tags."
+msgstr "Seçtiğiniz kategoriler etiket olarak kullanılacaktır."
+
+#: includes/Admin/Settings.php:654 includes/Admin/Settings.php:845
+msgid "Content Type:"
+msgstr "İçerik Türü:"
+
+#: includes/Admin/Settings.php:635
+msgid "To configure the Facebook Status Settings, check out this <a target=\"_blank\" href=\"%s\">Doc.</a>"
+msgstr "Facebook durum ayarlarını yapılandırmak için bu <a target=\"_blank\" href=\"%s\">belgeye</a> göz atın."
+
+#: includes/Admin/Settings.php:633
+msgid "Facebook Status Settings"
+msgstr "Facebook durum ayarları"
+
+#: includes/Admin/Settings.php:568
+msgid "For details on Instagram configuration, check out this <a href=\"%s\" target=\"_blank\">Doc</a>.<br> <a href=\"%s\" target=\"_blank\">Click here</a> to Retrieve Your API Keys from your Instagram account."
+msgstr "Instagram yapılandırmasıyla ilgili ayrıntılar için bu <a href=\"%s\" target=\"_blank\">belgeye</a> göz atın.<br> API Anahtarlarınızı Instagram hesabınızdan almak için <a href=\"%s\" target=\"_blank\">buraya tıklayın</a>."
+
+#: includes/Admin/Settings.php:552
+msgid "Add this URL in the Redirect URLs field of your Pinterest app."
+msgstr "Bu adresi Pinterest uygulamanızın yönlendirme adresleri alanına ekleyin."
+
+#: includes/Admin/Settings.php:549
+msgid "You can enable/disable Pinterest social share. To configure Pinterest Social Profile, check out this <a target=\"__blank\" href=\"%s\">Doc</a>"
+msgstr "Pinterest sosyal paylaşımını etkinleştirebilir/devre dışı bırakabilirsiniz. Pinterest sosyal profilini yapılandırmak için bu <a target=\"__blank\" href=\"%s\">belgeye</a> göz atın"
+
+#: includes/Admin/Settings.php:538
+msgid "For details on LinkedIn configuration, check out this <a href=\"%s\" target=\"_blank\">Doc</a>.<br> <a href=\"%s\" target=\"_blank\">Click here</a> to Retrieve Your API Keys from your LinkedIn account."
+msgstr "LinkedIn yapılandırmasıyla ilgili ayrıntılar için bu <a href=\"%s\" target=\"_blank\">belgeye</a> göz atın.<br> API Anahtarlarınızı LinkedIn hesabınızdan almak için <a href=\"%s\" target=\"_blank\">buraya tıklayın</a>."
+
+#: includes/Admin/Settings.php:537
+msgid "Copy this and paste it in your linkedin app Callback url field."
+msgstr "Bunu kopyalayın ve linkedin uygulamanızın geri dönüş adresi alanına yapıştırın."
+
+#: includes/Admin/Settings.php:534
+msgid "You can enable/disable LinkedIn social share. To configure LinkedIn Social Profile, check out this <a target=\"__blank\" href=\"%s\">Doc</a>"
+msgstr "LinkedIn sosyal paylaşımını etkinleştirebilir/devre dışı bırakabilirsiniz. LinkedIn sosyal profilini yapılandırmak için bu <a target=\"__blank\" href=\"%s\">belgeye</a> göz atın"
+
+#: includes/Admin/Settings.php:523
+msgid "For details on Twitter configuration, check out this <a href=\"%s\" target=\"_blank\">Doc</a>.<br> <a href=\"%s\" target=\"_blank\">Click here</a> to Retrieve Your API Keys from your Twitter account."
+msgstr "Twitter yapılandırmasıyla ilgili ayrıntılar için bu <a href=\"%s\" target=\"_blank\">belgeye</a> göz atın.<br> API anahtarlarınızı Twitter hesabınızdan almak için <a href=\"%s\" target=\"_blank\">buraya tıklayın</a>."
+
+#: includes/Admin/Settings.php:522
+msgid "Copy this and paste it in your twitter app Callback url field."
+msgstr "Bunu kopyalayın ve twitter uygulamanızın geri dönüş adresi alanına yapıştırın."
+
+#: includes/Admin/Settings.php:519
+msgid "You can enable/disable Twitter social share. To configure Twitter Social Profile, check out this <a target=\"__blank\" href=\"%s\">Doc</a>"
+msgstr "Twitter sosyal paylaşımını etkinleştirebilir/devre dışı bırakabilirsiniz. Twitter sosyal profilini yapılandırmak için bu <a target=\"__blank\" href=\"%s\">belgeye</a> göz atın"
+
+#: includes/Admin/Settings.php:508
+msgid "For details on Facebook configuration, check out this <a target=\"_blank\" href=\"%s\">Doc</a>.<br> <a target=\"_blank\" href=\"%s\">Click here</a> to Retrieve Your API Keys from your Facebook account."
+msgstr "Facebook yapılandırmasıyla ilgili ayrıntılar için bu <a target=\"_blank\" href=\"%s\">belgeye</a> göz atın.<br> API anahtarlarınızı Facebook hesabınızdan almak için <a target=\"_blank\" href=\"%s\">buraya tıklayın</a>."
+
+#: includes/Admin/Settings.php:507
+msgid "Copy this and paste it in your facebook app Callback url field."
+msgstr "Bunu kopyalayın ve facebook uygulamanızın geri dönüş adresi alanına yapıştırın."
+
+#: includes/Admin/Settings.php:504
+msgid "You can enable/disable Facebook social share. To configure Facebook Social Profile, check out this <a target=\"_blank\" href=\"%s\">Doc</a>"
+msgstr "Facebook sosyal paylaşımını etkinleştirebilir/devre dışı bırakabilirsiniz. Facebook sosyal profilini yapılandırmak için bu <a target=\"_blank\" href=\"%s\">belgeye</a> göz atın"
+
+#: includes/Admin/Settings.php:386 includes/Admin/Settings.php:452
+msgid "Email:"
+msgstr "E-posta:"
+
+#: includes/Admin/Settings.php:373 includes/Admin/Settings.php:438
+msgid "Username:"
+msgstr "Kullanıcı adı:"
+
+#: includes/Admin/Settings.php:340
+msgid "To configure Email Notify Settings, check out this <a href=\"https://wpdeveloper.com/docs/email-notification-wordpress\" target=\"_blank\">Doc</a>"
+msgstr "E-posta bildirim ayarlarını yapılandırmak için bu <a href=\"https://wpdeveloper.com/docs/email-notification-wordpress\" target=\"_blank\">belgeye</a> göz atın"
+
+#: includes/Admin/Settings.php:293
+msgid "Active Republish Social Share"
+msgstr "Sosyal paylaşım yeniden paylaşma etkin"
+
+#: includes/Admin/Settings.php:278 includes/Admin/Settings.php:286
+#: includes/Admin/Settings.php:294
+msgid "Upgrade to Premium"
+msgstr "Premium sürüme yükselt"
+
+#: includes/Admin/Settings.php:284
+msgid "Post Republish and Unpublish"
+msgstr "Yazı yeniden yayınlama ve yayından kaldırma"
+
+#: includes/Admin/Settings.php:267
+msgid "Show Scheduled Posts in Elementor"
+msgstr "Elementor'da zamanlanmış yazıları göster"
+
+#: includes/Admin/Settings.php:261
+msgid "Immediately Publish Button only shows for Scheduled Post, after Enabling this option"
+msgstr "Hemen yayınla düğmesi, bu seçeneği etkinleştirdikten sonra yalnızca zamanlanmış yazı için gösterilir"
+
+#: includes/Admin/Settings.php:155
+msgid "General Settings"
+msgstr "Genel ayarlar"
+
+#: includes/Admin.php:444 includes/Admin/Settings.php:137
+#: includes/Admin/Settings.php:1226 includes/Admin/Settings.php:1247
+#: assets/gutenberg/utils/DummyProFeatures.js:51
+msgid "Advanced Schedule"
+msgstr "Gelişmiş zamanlama"
+
+#: includes/Admin/Settings.php:127
+msgid "Auto/Manual Scheduler"
+msgstr "Otomatik/el ile zamanlayıcı"
+
+#: includes/Admin/Settings.php:122
+msgid "View All Features"
+msgstr "Tüm özellikleri görüntüle"
+
+#: includes/Admin/Settings.php:84
+msgid "Layout"
+msgstr "Düzen"
+
+#: includes/Admin/Notices/upgrade.php:31
+msgid "Heads up, Please backup before upgrade!"
+msgstr "Dikkat, yükseltmeden önce lütfen yedekleyin!"
+
+#: includes/Admin/Calendar.php:664 includes/Admin/Calendar.php:686
+#: includes/Social/SocialProfile.php:72
+#: includes/Admin/Settings/assets/js/admin.js:1
+msgid "Something went wrong."
+msgstr "Bir şeyler yanlış gitti."
+
+#: includes/Admin/Calendar.php:661
+msgid "Type is required."
+msgstr "Tip gereklidir."
+
+#. translators: 1: `<h3>` opening tag, 2: `</h3>` closing tag, 3: PHP version.
+#. 4: Link opening tag, 5: Link closing tag.
+#: wp-scheduled-posts.php:315
+msgid "%1$sSchedulePress isn’t running because PHP is outdated.%2$s Update to PHP version %3$s and get back to creating!"
+msgstr "%1$sPHP güncel olmadığı için SchedulePress çalışmıyor.%2$s PHP sürümünü %3$s sürümüne güncelleyin ve oluşturmaya geri dönün!"
+
+#: includes/Admin/Settings.php:1362 includes/Admin/Settings.php:1384
+msgid "Missed Schedule"
+msgstr "Zamanlama kaçırıldı"
+
+#: includes/Admin/Settings.php:1314
+msgid "Manage Schedule"
+msgstr "Zamanlamayı yönet"
+
+#: includes/functions.php:213
+msgid "If you choose to publish this future post with the Future Date, it will be published immediately but the post’s date time will not set the current date rather it will be your scheduled future date time."
+msgstr "Bu ileri tarihli yazıyı gelecek tarih ile yayınlamayı seçerseniz, hemen yayınlanır, ancak gönderinin tarih saati geçerli tarihi değil, planladığınız gelecek tarih saatini ayarlar."
+
+#: includes/Assets.php:61
+msgid "Future Date"
+msgstr "Gelecek tarih"
+
+#: includes/Assets.php:60
+msgid "Current Date"
+msgstr "Geçerli tarih"
+
+#: includes/Admin/Settings.php:860
+msgid "Media"
+msgstr "Ortam"
+
+#: includes/Admin.php:1097
+msgid "Your post successfully scheduled"
+msgstr "Yazınız başarıyla zamanlandı"
+
+#: includes/Admin.php:1070
+msgid "Your post id is empty"
+msgstr "Yazı kimliğiniz boş"
+
+#: includes/Admin.php:1059
+msgid "Your post successfully published"
+msgstr "Yazınız başarıyla yayınlandı"
+
+#: includes/Admin.php:902
+msgid "Your post successfully updated"
+msgstr "Yazınız başarıyla güncellendi"
+
+#: includes/Admin.php:430 assets/gutenberg/utils/DummyProFeatures.js:37
+msgid "Unpublish On"
+msgstr "Yayından kaldırma zamanı"
+
+#: includes/Admin.php:433 includes/Admin.php:440 includes/Admin.php:446
+msgid "PRO"
+msgstr "PRO"
+
+#: includes/Admin.php:438 assets/gutenberg/utils/DummyProFeatures.js:43
+msgid "Republish On"
+msgstr "Yeniyen yayımlama zamanı"
+
+#: includes/Admin.php:325
+msgid "Publish On"
+msgstr "Yayımlama zamanı"
+
+#: includes/Admin.php:280
+msgid "WPSP Logo"
+msgstr "WPSP Logosu"
+
+#. Plugin Name of the plugin
+#: wp-scheduled-posts.php includes/Admin.php:382 includes/Admin.php:384
+#: includes/Admin.php:387 includes/Admin.php:421 includes/Admin/Menu.php:34
+msgid "SchedulePress"
+msgstr "SchedulePress"
+
+#: includes/Admin/Settings.php:649
+msgid "Add Open Graph metadata to your site head section and other social networks use this data when your pages are shared."
+msgstr "Site başı bölümüne Open Graph meta verileri ekleyin ve sayfalarınız paylaşıldığında diğer sosyal ağlar bu verileri kullansın."
+
+#: includes/Admin/Settings.php:235
+msgid "For item template use %TITLE% for the post title, %AUTHOR% for post author, and %DATE% for post scheduled date-time. You can use HTML tags with styles also."
+msgstr "Öğe şablonunda gönderi başlığı için %TITLE%, yazı yazarı için %AUTHOR% ve zamanlanmış yazı zamanı için %DATE% kullanın. HTML etiketlerini stillerle de kullanabilirsiniz."
+
+#. Description of the plugin
+#: wp-scheduled-posts.php
+msgid "Automate your content workflow with SchedulePress. Take a quick glance at your content planning with Schedule Calendar, Dashboard widget & Sitewide admin bar. Instantly share your posts on social media platforms such as Facebook, Twitter & many more."
+msgstr "SchedulePress ile içerik iş akışınızı otomatikleştirin. Takvim Planla, panel bileşeni ve site genelinde yönetici çubuğuyla içerik planlamanıza hızlı bir göz atın. Yazılarınızı Facebook, Twitter ve daha fazlası gibi sosyal medya platformlarında anında paylaşın."
+
+#: includes/Admin/Settings.php:950
+msgid "Add Image Link"
+msgstr "Görsel bağlantısı ekle"
+
+#: includes/Admin/Settings.php:834
+msgid "LinkedIn Status Settings"
+msgstr "LinkedIn durum ayarları"
+
+#: includes/Admin/Settings.php:713 includes/Admin/Settings.php:904
+#: includes/Admin/Settings.php:994 includes/Admin/Settings.php:1075
+#: includes/Admin/Settings.php:1156
+msgid "Status Limit"
+msgstr "Durum limiti"
+
+#: includes/Admin/Settings.php:704 includes/Admin/Settings.php:895
+#: includes/Admin/Settings.php:985 includes/Admin/Settings.php:1066
+#: includes/Admin/Settings.php:1147
+msgid "Status Template Settings"
+msgstr "Durum şablon ayarları"
+
+#: includes/Admin/Settings.php:669
+msgid "Status + Link"
+msgstr "Durum + Bağlantı"
+
+#: includes/Admin/Settings.php:661 includes/Admin/Settings.php:852
+msgid "Link"
+msgstr "Bağlantı"
+
+#: includes/Admin/Settings.php:648
+msgid "Facebook Meta Data"
+msgstr "Facebook meta verisi"
+
+#: includes/Admin/Settings.php:802
+msgid "Tweet Limit"
+msgstr "Tweet limiti"
+
+#: includes/Admin/Settings.php:691 includes/Admin/Settings.php:789
+#: includes/Admin/Settings.php:882 includes/Admin/Settings.php:972
+#: includes/Admin/Settings.php:1053 includes/Admin/Settings.php:1134
+msgid "Excerpt"
+msgstr "Özet"
+
+#: includes/Admin/Settings.php:777
+msgid "Show Post Thumbnail"
+msgstr "Yazı küçük görselini göster"
+
+#: includes/Admin/Settings.php:759
+msgid "Tweet Template Settings"
+msgstr "Tweet şablon ayarları"
+
+#: includes/Admin/Settings.php:747
+msgid "Twitter Tweet Settings"
+msgstr "Twitter Tweet ayarları"
+
+#: includes/Admin/Settings.php:531 includes/Admin/Settings.php:827
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/Admin/Settings.php:596 includes/Admin/Settings.php:603
+msgid "Social Templates"
+msgstr "Sosyal şablonlar"
+
+#: includes/Admin/Settings.php:486 includes/Admin/Settings.php:493
+msgid "Social Profile"
+msgstr "Sosyal profil"
+
+#: includes/Social/InstantShare.php:583
+msgid "Sorry, your requested platform integration is not added."
+msgstr "Üzgünüz, talep ettiğiniz platform bütünleştirmesi eklenmedi."
+
+#: includes/Social/InstantShare.php:445
+msgid "Failed!, You didn't select any social media."
+msgstr "Başarısız! Herhangi bir sosyal medya seçmediniz."
+
+#: includes/Admin.php:354 includes/Social/InstantShare.php:248
+#: assets/gutenberg/social-share.js:708
+msgid "Share Now"
+msgstr "Şimdi paylaş"
+
+#: includes/Social/InstantShare.php:171
+msgid "Custom Board"
+msgstr "Özel pano"
+
+#: includes/Social/InstantShare.php:170
+msgid "Default Board"
+msgstr "Varsayılan pano"
+
+#: includes/Admin/Settings.php:546 includes/Admin/Settings.php:929
+#: includes/Social/InstantShare.php:159
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: includes/Social/InstantShare.php:134
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: includes/Admin/Settings.php:516 includes/Admin/Settings.php:738
+#: includes/Social/InstantShare.php:114
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/Admin/Settings.php:501 includes/Admin/Settings.php:626
+#: includes/Social/InstantShare.php:96
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/Admin.php:543 includes/Social/InstantShare.php:85
+#: assets/gutenberg/social-share.js:465
+msgid "Choose Social Share Platform"
+msgstr "Sosyal paylaşım platformu seçin"
+
+#: includes/Social/InstantShare.php:52 assets/gutenberg/social-share.js:423
+msgid "Disable Social Share"
+msgstr "Sosyal paylaşımı devre dışı bırak"
+
+#: includes/Social/InstantShare.php:25 assets/gutenberg/social-share.js:420
+msgid "Social Share Settings"
+msgstr "Sosyal paylaşım ayarları"
+
+#: includes/Social/SocialProfile.php:25
+msgid "Multi Profile is a Premium Feature. To use this feature, Upgrade to Pro."
+msgstr "Çoklu profil bir premium özelliğidir. Bu özelliği kullanmak için PRO sürüme yükseltin."
+
+#: includes/Social/Twitter.php:227
+msgid "Twitter Connection Problem. error code: "
+msgstr "Twitter bağlantı problemi. hata kodu: "
+
+#: includes/Admin/Settings.php:214
+msgid "Calendar Default Schedule Time:"
+msgstr "Takvim varsayılan zamanlama zamanı:"
+
+#: includes/Admin.php:192
+msgid "Enjoying <strong>SchedulePress</strong>? Why not check our <strong><a href=\"https://wpdeveloper.com/in/wp-scheduled-posts-pro\" target=\"_blank\">Pro version</a></strong> which will enable auto schedule, multi social account share and many more features! [<strong><a href=\"https://wpdeveloper.com/plugins/wp-scheduled-posts/\" target=\"_blank\">Learn More</a></strong>]"
+msgstr "<strong>SchedulePress</strong>'ten memnun musunuz? Neden <strong><a href=\"https://wpdeveloper.com/in/wp-scheduled-posts-pro\" target=\"_blank\">Pro sürüme</a></strong> bir göz atmıyorsunuz? Otomatik zamanlama, çoklu sosyal medya hesap paylaşımı ve daha bir çok özellik var! [<strong><a href=\"https://wpdeveloper.com/plugins/wp-scheduled-posts/\" target=\"_blank\">Dahasını öğrenin</a></strong>]"
+
+#: includes/Admin.php:341
+msgid "Next"
+msgstr "Sonraki"
+
+#: includes/Admin/Settings.php:475
+msgid "Notify Author when a post is \"Published\""
+msgstr "Yazı \"Yayımlandı\" durumuna geçtiğinde yazarı bilgilendir"
+
+#: includes/Admin/Settings.php:468
+msgid "Notify Author when a Scheduled Post is \"Published\""
+msgstr "Zamanlanmış bir yazı \"Yayımlandı\" durumuna geçtiğinde yazarı bilgilendir"
+
+#: includes/Admin/Settings.php:417
+msgid "Notify User when a post is \"Scheduled\""
+msgstr "Yazı \"Zamanlandı\" durumuna geçtiğinde kullanıcıyı bilgilendir"
+
+#: includes/Admin/Settings.php:402
+msgid "Notify Author when a post is \"Rejected\""
+msgstr "Yazı \"Reddedildi\" durumuna geçtiğinde yazarı bilgilendir"
+
+#: includes/Admin/Settings.php:360 includes/Admin/Settings.php:424
+msgid "Role:"
+msgstr "Rol:"
+
+#: includes/Admin/Settings.php:354
+msgid "Notify User when a post is \"Under Review\""
+msgstr "  Bir yazı \"İnceleme bekliyor\" durumuna geçtiğinde kullanıcıyı bilgilendir"
+
+#: includes/Admin/Settings.php:333 includes/Admin/Settings.php:339
+msgid "Email Notify"
+msgstr "E-posta bildirimi"
+
+#: includes/Admin/Menu.php:57 includes/Admin/Menu.php:60
+#: includes/Admin/Settings.php:306
+msgid "Calendar"
+msgstr "Takvim"
+
+#: includes/Admin.php:352
+msgid "Publish Post Immediately"
+msgstr "Yazıyı hemen yayımla"
+
+#: includes/Admin.php:429 includes/Admin.php:437 includes/Admin.php:443
+msgid "Pro Feature"
+msgstr "Pro özellik"
+
+#: includes/Admin.php:296
+msgid "Close"
+msgstr "Kapat"
+
+#: includes/Admin.php:358 includes/Admin.php:370
+msgid "Publish"
+msgstr "Yayımla"
+
+#: includes/Admin/Settings.php:106
+msgid "General"
+msgstr "Genel"
+
+#: includes/Admin/Settings.php:142
+msgid "Premium Support"
+msgstr "Özel destek"
+
+#: includes/Admin/Settings.php:132
+msgid "Missed Schedule Handler"
+msgstr "Kaçan zamanlama işleticisi"
+
+#: includes/Admin/Settings.php:259
+msgid "Show Publish Post Immediately Button"
+msgstr "Gönder'i Hemen Göster Düğmesi"
+
+#: includes/Admin/Settings.php:250
+msgid "Date format:"
+msgstr "Tarih biçimi:"
+
+#: includes/Admin/Settings.php:242
+msgid "Title length:"
+msgstr "Başlık uzunluğu:"
+
+#: includes/Admin/Settings.php:233
+msgid "Item template:"
+msgstr "Öğe şablonu:"
+
+#: includes/Admin/Settings.php:222
+msgid "Custom item template for scheduled posts list in the admin bar:"
+msgstr "Yönetici çubuğundaki zamanlanmış yazılar için özel öğe şablonu:"
+
+#: includes/Admin/Settings.php:203
+msgid "Allow users:"
+msgstr "Kullanıcılara izin ver:"
+
+#: includes/Admin/Settings.php:194
+msgid "Show Categories:"
+msgstr "Kategorileri göster:"
+
+#: includes/Admin/Settings.php:184
+msgid "Show Post Types:"
+msgstr "Yazı tiplerini göster:"
+
+#: includes/Admin/Settings.php:178
+msgid "Show Scheduled Posts in Admin Bar"
+msgstr "Zamanlanmış yazıları yönetici çubuğunda göster"
+
+#: includes/Admin/Settings.php:171
+msgid "Show Scheduled Posts in Sitewide Admin Bar"
+msgstr "Zamanlanmış yazıları site geneli yönetici çubuğunda göster"
+
+#: includes/Admin/Settings.php:147 includes/Admin/Settings.php:164
+msgid "Show Scheduled Posts in Dashboard Widget"
+msgstr "Zamanlanmış yazıları başlangıç panosu bileşeninde göster"
+
+#: includes/Admin/Settings.php:665 includes/Admin/Settings.php:856
+msgid "Status"
+msgstr "Durum"
+
+#: includes/Admin.php:356 includes/Admin.php:366
+msgid "Schedule"
+msgstr "Zamanla"
+
+#: includes/Admin.php:357 includes/Admin.php:359 includes/Admin.php:368
+msgid "Update"
+msgstr "Güncelleme"
+
+#: includes/Admin/Settings.php:695 includes/Admin/Settings.php:793
+#: includes/Admin/Settings.php:886 includes/Admin/Settings.php:976
+#: includes/Admin/Settings.php:1057 includes/Admin/Settings.php:1138
+msgid "Content"
+msgstr "İçerik"
+
+#: includes/Admin.php:142
+msgid "We hope you're enjoying SchedulePress! Could you please do us a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+msgstr "Umuyoruz SchedulePress'ten memnunsunuzdur! Lütfen bize büyük bir iyilik yapın, WordPress eklenti dizininde bize 5-yıldız vererek eklentinin yayılmasını ve motivasyonumuzun artmasını sağlar mısınız?"
+
+#: includes/Admin.php:170
+msgid "Never show again"
+msgstr "Tekrar gösterme"
+
+#: includes/Admin.php:166
+msgid "I need help"
+msgstr "Yardıma ihtiyacım var"
+
+#: includes/Admin.php:158
+msgid "Maybe Later"
+msgstr "Belki daha sonra"
+
+#: includes/Admin.php:151
+msgid "I already did"
+msgstr "Zaten yaptım"
+
+#: includes/Admin.php:147
+msgid "Ok, you deserve it!"
+msgstr "Tama, bunu hak ettiniz!"
+
+#: includes/Admin.php:113
+msgid "Docs & FAQs"
+msgstr "Belgeler ve SSS"
+
+#: includes/Admin.php:98
+msgid "Go Pro"
+msgstr "Pro edinin"
+
+#: includes/Admin.php:94 includes/Admin/Menu.php:35
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: includes/functions.php:205
+msgid "Publish future post immediately"
+msgstr "Gelecek yazıları hemen yayımla"
+
+#: includes/Admin/WPDev/PluginUsageTracker.php:1029
+msgid "Just Deactivate"
+msgstr "Sadece devre dışı bırak"
+
+#: includes/Admin/WPDev/PluginUsageTracker.php:1029
+msgid "Submit and Deactivate"
+msgstr "Gönder ve devre dışı bırak"
+
+#: includes/Admin/WPDev/PluginUsageTracker.php:884
+msgid "Submitting form"
+msgstr "Form gönderiliyor"
+
+#: includes/Admin/WPDev/PluginUsageTracker.php:823
+msgid "Please share the reason"
+msgstr "Lütfen sebebi paylaşın"
+
+#: includes/Admin/WPDev/PluginUsageTracker.php:822
+msgid "Other"
+msgstr "Diğer"
+
+#: includes/Admin/WPDev/PluginUsageTracker.php:820
+msgid "I have "
+msgstr "Sahibim "
+
+#: includes/Admin/WPDev/PluginUsageTracker.php:819
+msgid "It's a temporary deactivation"
+msgstr "Geçici bir devre dışı bırakma"
+
+#: includes/Admin/WPDev/PluginUsageTracker.php:818
+msgid "I couldn't get the plugin to work"
+msgstr "Eklentiyi çalıştıramadım"
+
+#: includes/Admin/WPDev/PluginUsageTracker.php:816
+msgid "Please share which plugin"
+msgstr "Lütfen bulduğunuz eklentiyi paylaşın"
+
+#: includes/Admin/WPDev/PluginUsageTracker.php:815
+msgid "I found a better plugin"
+msgstr "Daha iyi bir eklenti buldum"
+
+#: includes/Admin/WPDev/PluginUsageTracker.php:813
+msgid "I no longer need the plugin"
+msgstr "Artık eklentiye ihtiyacım yok"
+
+#: includes/Admin/WPDev/PluginUsageTracker.php:810
+msgid "Before you deactivate the plugin, would you quickly give us your reason for doing so?"
+msgstr "Eklentiyi devre dışı bırakmadan önce, hızlıca ayrılma nedeninizi iletebilir misiniz?"
+
+#: includes/Admin/WPDev/PluginUsageTracker.php:809
+msgid "Sorry to see you go"
+msgstr "Gittiğinizi görmek üzücü"
+
+#: includes/Admin/WPDev/PluginUsageTracker.php:775
+msgid "No Thank You"
+msgstr "Hayır teşekkürler"
+
+#: includes/Admin/WPDev/PluginUsageTracker.php:774
+msgid "Yes Please"
+msgstr "Evet lütfen"
+
+#: includes/Admin/WPDev/PluginUsageTracker.php:767
+msgid "Thank you for opting in to tracking. Would you like to receive occasional news about this plugin, including details of new features and special offers?"
+msgstr "İzlemeye katıldığınız için teşekkürler. Arada sırada bu eklenti hakkında yeni özellikler ve özel tekliflerden bahsettiğimiz e-postalarımızı almak ister misiniz?"
+
+#: includes/Admin/WPDev/PluginUsageTracker.php:727
+msgid "No Thanks"
+msgstr "Hayır teşekkürler"
+
+#: includes/Admin/WPDev/PluginUsageTracker.php:726
+msgid "Sure, I'd like to help"
+msgstr "Elbette, yardım etmek isterim"
+
+#: includes/Admin/WPDev/PluginUsageTracker.php:723
+msgid "We collect non-sensitive diagnostic data and plugin usage information. Your site URL, WordPress & PHP version, plugins & themes and email address to send you the discount coupon. This data lets us make sure this plugin always stays compatible with the most popular plugins and themes. No spam, I promise."
+msgstr "Hassas olmayan tanısal verileri ve eklenti kullanım bilgilerini toplarız. Sitenizin web adresi, WordPress ve PHP sürümü, eklentiler, temalar ve size indirim kuponu göndermek için e-posta adresiniz. Bu veriler, bu eklentinin her zaman en popüler eklentiler ve temalarla uyumlu kalmasını sağlar. Spam yok, söz veriyoruz."
+
+#: includes/Admin/WPDev/PluginUsageTracker.php:715
+msgid "Want to help make <strong>SchedulePress</strong> even more awesome? You can get a <strong>10% discount coupon</strong> for Pro upgrade if you allow. <a class=\"insights-data-we-collect\" href=\"#\">What we collect.</a>"
+msgstr "<strong>SchedulePress</strong>'i daha harika yapmak ister misiniz? <strong>%10 indirim kuponu</strong> ile Pro sürüme yükseltmek için izin verin. <a class=\"insights-data-we-collect\" href=\"#\">Topladığımız veriler.</a>"
+
+#: includes/Admin/WPDev/PluginUsageTracker.php:712
+msgid "Thank you for installing our plugin. We would like to track its usage on your site. We don't record any sensitive data, only information regarding the WordPress environment and plugin settings, which we will use to help us make improvements to the plugin. Tracking is completely optional."
+msgstr "Eklentimizi yüklediğiniz için teşekkürler. Sitenizdeki kullanımı takip edebilmek isteriz. Herhangi bir hassas veri kaydetmiyoruz, sadece WordPress ortamınız, eklenti ayarlarınız gibi, eklentiyi daha iyi yapmamıza yarayacak verileri talep ediyoruz. İzleme süreci tamamen tercihe bağlıdır."
+
+#: includes/Admin/WPDev/PluginUsageTracker.php:309
+msgid "We can't detect any plugin information. This is most probably because you have not included the code in the plugin main file."
+msgstr "Herhangi bir eklenti bilgisi tespit edemiyoruz. Bu büyük ihtimal eklentinin ana dosyasında kodları dahil etmediğiniz için olabilir."
+
+#: includes/Admin/WPDev/WPDevCoreInstaller.php:70
+msgid "You don't have set any slug and file name to install the plugins"
+msgstr "Eklentileri yüklemek için kısa isim ve dosya adı belirtmemişsiniz"
+
+#: includes/Admin/WPDev/WPDevCoreInstaller.php:63
+msgid "You don't have permission to install the plugins"
+msgstr "Eklenti yüklemek için izniniz bulunmuyor"
+
+#. Author URI of the plugin
+#: wp-scheduled-posts.php
+msgid "https://wpdeveloper.com"
+msgstr "https://wpdeveloper.com"
+
+#. Author of the plugin
+#: wp-scheduled-posts.php
+msgid "WPDeveloper"
+msgstr "WPDeveloper"

@@ -1,0 +1,580 @@
+# Translation of Themes - StartKit in Turkish
+# This file is distributed under the same license as the Themes - StartKit package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-06-08 09:59:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - StartKit\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "StartKit is a unique, clean and professional-looking WordPress theme, perfect for all online digital business. A great variety of layouts and styles allows the creation of different structures and satisfies any specific requirement. The frontend and backend features are focused ease of use so that visitors can get the best user experience. View the demo of StartKit Pro https://www.nayrathemes.com/demo/pro/?theme=startkit"
+msgstr "StartKit, tüm dijital işleriniz için mükemmel, eşsiz, temiz ve profesyonel bir WordPress temasıdır. Çeşitli düzen ve stiller ile site farklı ihtiyaçlara cevap verebilecek değişik yapılar oluşturabilme olanağı sağlar. Ön yüz ve arka yüz kullanıcıların en iyi deneyimi yaşayabilmeleri için kullanım kolaylığı ön planda tutularak geliştirilmiştir. StartKit Pro örnek sitesi: https://www.nayrathemes.com/demo/pro/?theme=startkit"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "StartKit"
+msgstr "StartKit"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:687
+msgid "Slide Align"
+msgstr "Slayt hizalama"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:675
+msgid "Item Image"
+msgstr "Öğe görseli"
+
+#: inc/customize/startkit-footer.php:45
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Telif hakkı &copy; [current_year] [site_title] | Geliştirici [theme_author]"
+
+#: inc/sidebar/sidebar.php:38 inc/sidebar/sidebar.php:40
+msgid "Top Bar Right Widget Area"
+msgstr "Üst çubuk sağ bileşen alanı"
+
+#: inc/sidebar/sidebar.php:28 inc/sidebar/sidebar.php:30
+msgid "Top Bar Left Widget Area"
+msgstr "Üst çubuk sol bileşen alanı"
+
+#: inc/widgets/social-widget.php:64
+msgid "Url"
+msgstr "Adres"
+
+#: inc/widgets/social-widget.php:9
+msgid "Social Icon Widgets"
+msgstr "Sosyal simge bileşenleri"
+
+#: inc/widgets/widget_info.php:53
+msgid "Info Icons:"
+msgstr "Bilgi simgeleri:"
+
+#: inc/widgets/widget_info.php:48
+msgid "Info Title:"
+msgstr "Bilgi başlığı:"
+
+#: inc/widgets/widget_info.php:11
+msgid "Info Widget Area"
+msgstr "Bilgi bileşeni alanı"
+
+#: inc/widgets/widget_info.php:8
+msgid "StartKit : Info Widget"
+msgstr "StartKit : Bilgi bileşeni"
+
+#: searchform.php:12
+msgid "Search …"
+msgstr "Ara …"
+
+#: footer.php:32
+msgid "<a href=\"#\" target=\"_blank\">StartKit</a>"
+msgstr "<a href=\"#\" target=\"_blank\">StartKit</a>"
+
+#: inc/customize/startkit-breadcrumb.php:39
+msgid "Hide/Show breadcrumbs"
+msgstr "Gezinti bğalantılarını gizle/göster"
+
+#: inc/sidebar/sidebar.php:20
+msgid "Primary widget area"
+msgstr "Birincil bileşen alanı"
+
+#. Template Name of the theme
+msgid "Default homepage"
+msgstr "Varsayılan ana sayfa"
+
+#: 404.php:23
+msgid "Ops! Something happened..."
+msgstr "Off! Bir şeyler ters gitti..."
+
+#: inc/customize/startkit-premium.php:36
+msgid "Show Some Love"
+msgstr "Biraz sevgi gösterin"
+
+#: inc/customize/startkit-premium.php:32
+msgid "Free Vs Pro"
+msgstr "Ücretsiz ve Pro"
+
+#: inc/customize/startkit-premium.php:30
+msgid "Get Support"
+msgstr "Destek alın"
+
+#: header.php:18
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#: inc/customize/startkit-premium.php:12 inc/customize/startkit-premium.php:34
+msgid "Upgrade to Pro"
+msgstr "Ücretli sürüme yükselt"
+
+#: inc/customize/startkit-premium.php:28
+msgid "View Documentation"
+msgstr "Belgeleri görüntüle"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:422
+msgid "Delete %s"
+msgstr "%s temasını sil"
+
+#: functions.php:75
+msgid "Grey"
+msgstr "Gri"
+
+#: functions.php:70
+msgid "Green"
+msgstr "Yeşil"
+
+#: functions.php:65
+msgid "Yellow"
+msgstr "Sarı"
+
+#: functions.php:60
+msgid "Secondary"
+msgstr "İkincil"
+
+#: functions.php:55
+msgid "Primary"
+msgstr "Birincil"
+
+#: template-parts/content-none.php:25
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Görünen o ki bakındığınız her ne ise bulamıyoruz. Belki arama özelliği yardımcı olabilir."
+
+#: template-parts/content-none.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Üzgünüz, arama terimlerinizle hiçbir şey eşleşmedi. Lütfen farklı anahtar kelimelerle tekrar deneyin."
+
+#: template-parts/content-none.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı yayımlamak için hazır mısınız? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: template-parts/content.php:38
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: functions.php:30
+msgid "Primary Menu"
+msgstr "Birincil menü"
+
+#. Template Name of the theme
+msgid "Page Fullwidth"
+msgstr "Tam genişlikli sayfa"
+
+#: inc/class-wp-bootstrap-navwalker.php:371
+msgid "Add a menu"
+msgstr "Bir menü ekleyin"
+
+#: inc/breadcrumb/breadcrumb.php:146
+msgid "Page"
+msgstr "Sayfa"
+
+#: inc/breadcrumb/breadcrumb.php:141
+msgid "Error 404 "
+msgstr "Hata 404"
+
+#: inc/breadcrumb/breadcrumb.php:137
+msgid "Article posted by "
+msgstr "Makalenin yazarı:"
+
+#: inc/breadcrumb/breadcrumb.php:131
+msgid "Posts tagged "
+msgstr "Etiketlenmiş yazılar"
+
+#: inc/breadcrumb/breadcrumb.php:32
+msgid "Search results for "
+msgstr "Arama sonuçları, kriter: "
+
+#: inc/breadcrumb/breadcrumb.php:26
+msgid "Archive by category"
+msgstr "Kategori bazında arşiv"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:745
+#: inc/customizer-repeater/class/customizer-repeater-control.php:778
+#: inc/widgets/social-widget.php:45
+msgid "Add Icon"
+msgstr "Simge ekle"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:740
+#: inc/customizer-repeater/class/customizer-repeater-control.php:770
+msgid "Remove Icon"
+msgstr "Simgeyi kaldır"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:723
+msgid "Social icons"
+msgstr "Sosyal simgeler"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:715
+msgid "None"
+msgstr "Hiçbiri"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:710
+msgid "Image type"
+msgstr "Görsel tipi"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:699
+msgid "Center"
+msgstr "Orta"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:695
+msgid "Right"
+msgstr "Sağ"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:691
+msgid "Left"
+msgstr "Sol"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:649
+#: inc/customizer-repeater/class/customizer-repeater-control.php:678
+msgid "Upload Image"
+msgstr "Görsel yükle"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:646
+#: inc/customizer-repeater/class/customizer-repeater-control.php:714
+msgid "Image"
+msgstr "Resim"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:611
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:610
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Not: Bazı simgeler burada görüntülenmeyebilir. Simgelerin tam listesini %1$s adresinde görebilirsiniz."
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:594
+msgid "Open link in new tab:"
+msgstr "Bağlantıları yeni penerede aç:"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:492
+msgid "skill"
+msgstr "beceri"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:557
+msgid "Delete field"
+msgstr "Sil alanı"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:406
+#: inc/customizer-repeater/class/customizer-repeater-control.php:546
+msgid "Designation"
+msgstr "Tanımlama"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:398
+#: inc/customizer-repeater/class/customizer-repeater-control.php:537
+msgid "Shortcode"
+msgstr "Kısa kod"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:388
+#: inc/customizer-repeater/class/customizer-repeater-control.php:455
+msgid "Color"
+msgstr "Renk"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:357
+#: inc/customizer-repeater/class/customizer-repeater-control.php:522
+msgid "Video Url"
+msgstr "Video adresi"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:343
+#: inc/customizer-repeater/class/customizer-repeater-control.php:509
+#: inc/customizer-repeater/class/customizer-repeater-control.php:737
+#: inc/customizer-repeater/class/customizer-repeater-control.php:759
+msgid "Link"
+msgstr "Bağlantı"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:332
+#: inc/customizer-repeater/class/customizer-repeater-control.php:499
+msgid "Button Text"
+msgstr "Tuş metni"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:324
+msgid "skills"
+msgstr "beceriler"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:317
+#: inc/customizer-repeater/class/customizer-repeater-control.php:485
+msgid "Button Label"
+msgstr "Düğme etiketi"
+
+#: inc/customize/startkit-blog.php:70
+#: inc/customizer-repeater/class/customizer-repeater-control.php:303
+#: inc/customizer-repeater/class/customizer-repeater-control.php:471
+msgid "Subtitle"
+msgstr "Alt başlık"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:41
+msgid "Customizer Repeater"
+msgstr "Özelleştirici tekrarlayıcısı"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:36
+msgid "Add new field"
+msgstr "Yeni ekle alanı"
+
+#: inc/sidebar/sidebar.php:50
+msgid "Footer widget area"
+msgstr "Alt kısım bileşen alanı"
+
+#: inc/sidebar/sidebar.php:48
+msgid "Footer widget  area"
+msgstr "Alt kısım bileşen alanı"
+
+#: inc/sidebar/sidebar.php:18
+msgid "Sidebar Widget Area"
+msgstr "Yan sütun bileşen alanı"
+
+#: inc/customizer-notify/startkit-customizer-notify.php:111
+msgid "Activating"
+msgstr "Etkinleştiriliyor"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:69
+msgid "Edit %s"
+msgstr "%s yazısını düzenle"
+
+#. translators: %s: post title
+#: inc/template-tags.php:62
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">%s</span> için bir yorum yapın"
+
+#: inc/template-tags.php:55
+msgid "Tagged %1$s"
+msgstr "Takip edilen %1$s"
+
+#: inc/template-tags.php:49
+msgid "Posted in %1$s"
+msgstr "Yayınlanan %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:47 inc/template-tags.php:53
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:32
+msgctxt "post author"
+msgid "by %s"
+msgstr "(%s)"
+
+#: inc/template-tags.php:27
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "%s tarihinde gönderilmiş"
+
+#: inc/customize/startkit-header.php:144
+msgid "Sticky Header"
+msgstr "Yapışkan üst kısım"
+
+#: inc/customize/startkit-header.php:131
+msgid "Button link"
+msgstr "Tuş bağlantısı"
+
+#: inc/customize/startkit-header.php:112
+msgid "Button label"
+msgstr "Düğme etiketi"
+
+#: inc/customize/startkit-header.php:94
+msgid "Button Icon"
+msgstr "Düğme simgesi"
+
+#: inc/customize/startkit-header.php:85
+msgid "fa-book"
+msgstr "fa-book"
+
+#: inc/customize/startkit-header.php:56
+msgid "Button Setting"
+msgstr "Düğme ayarı"
+
+#: inc/customize/startkit-header.php:24
+msgid "Header Search"
+msgstr "Üst kısım arama"
+
+#: inc/widgets/social-widget.php:13
+msgid "Social Icon"
+msgstr "Sosyal simge"
+
+#: inc/customize/startkit-header.php:12
+msgid "Header Section"
+msgstr "Üst bölüm"
+
+#: inc/customize/startkit-breadcrumb.php:66
+msgid "Background Image"
+msgstr "Arka plan görseli"
+
+#: inc/customize/startkit-breadcrumb.php:49
+msgid "Background"
+msgstr "Arkaplan"
+
+#: inc/customize/startkit-breadcrumb.php:22
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: inc/customize/startkit-breadcrumb.php:12
+msgid "Page breadcrumbs"
+msgstr "Sayfa gezinti bağlantıları"
+
+#: inc/customize/startkit-blog.php:109
+msgid "Select number of Posts"
+msgstr "Yazı sayısını seçin"
+
+#: inc/customize/startkit-blog.php:89
+#: inc/customizer-repeater/class/customizer-repeater-control.php:310
+#: inc/customizer-repeater/class/customizer-repeater-control.php:478
+msgid "Description"
+msgstr "Açıklama"
+
+#: inc/customize/startkit-blog.php:50
+#: inc/customizer-repeater/class/customizer-repeater-control.php:295
+#: inc/customizer-repeater/class/customizer-repeater-control.php:463
+#: inc/widgets/social-widget.php:32
+msgid "Title"
+msgstr "Başlık"
+
+#: inc/customize/startkit-blog.php:9
+msgid "Blog Section"
+msgstr "Blog bölümü"
+
+#: inc/customize/startkit-footer.php:113
+#: inc/customizer-repeater/class/customizer-repeater-control.php:605
+#: inc/customizer-repeater/class/customizer-repeater-control.php:713
+#: inc/widgets/social-widget.php:57
+msgid "Icon"
+msgstr "Simge"
+
+#: inc/customize/startkit-footer.php:112
+msgid "Add New Icon"
+msgstr "Yeni simge ekle"
+
+#: inc/customize/startkit-footer.php:71 inc/customize/startkit-footer.php:110
+msgid "Payment Icon"
+msgstr "Ödeme simgesi"
+
+#: inc/customize/startkit-blog.php:31 inc/customize/startkit-footer.php:37
+#: inc/customize/startkit-footer.php:90 inc/customize/startkit-header.php:42
+#: inc/customize/startkit-header.php:75 inc/customize/startkit-header.php:162
+msgid "Hide / Show Section"
+msgstr "Bölümü gizle / göster"
+
+#: inc/breadcrumb/breadcrumb.php:4 inc/breadcrumb/breadcrumb.php:7
+#: inc/customize/startkit-blog.php:21 inc/customize/startkit-breadcrumb.php:30
+#: inc/customize/startkit-footer.php:27 inc/customize/startkit-footer.php:80
+#: inc/customize/startkit-header.php:32 inc/customize/startkit-header.php:65
+#: inc/customize/startkit-header.php:153
+msgid "1"
+msgstr "1"
+
+#: inc/customize/startkit-footer.php:17 inc/customize/startkit-footer.php:58
+msgid "Copyright Content"
+msgstr "Telif hakkı içeriği"
+
+#: inc/customize/startkit-footer.php:10
+msgid "Footer Section"
+msgstr "Alt kısım bölümü"
+
+#: inc/customize/customizer_recommended_plugin.php:18
+msgid "Deactivate"
+msgstr "Devredışı"
+
+#: inc/customize/customizer_recommended_plugin.php:17
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: inc/customize/customizer_recommended_plugin.php:16
+msgid "Install and Activate"
+msgstr "Yükle ve etkinleştir"
+
+#: inc/customize/customizer_recommended_plugin.php:15
+msgid "Recommended Plugin"
+msgstr "Önerilen eklenti"
+
+#: inc/customize/customizer_recommended_plugin.php:14
+msgid "Recommended Actions"
+msgstr "Önerilen eylemler"
+
+#: inc/customizer.php:42
+msgid "Homepage Section"
+msgstr "Ana sayfa bölümü"
+
+#: sections/startkit-header.php:56
+msgid "type here"
+msgstr "buraya yazın"
+
+#: sections/startkit-breadcrumb.php:44
+msgid "Author: %s"
+msgstr "Yazar: %s"
+
+#: sections/startkit-breadcrumb.php:40
+msgid "Error 404"
+msgstr "HATA 404"
+
+#: sections/startkit-breadcrumb.php:36
+msgid "Tag Archives: %s"
+msgstr "Etiket arşivi: %s"
+
+#: sections/startkit-breadcrumb.php:32
+msgid "Category Archives: %s"
+msgstr "Kategori arşivi: %s"
+
+#: 404.php:24 inc/breadcrumb/breadcrumb.php:6
+msgid "Home"
+msgstr "Ana sayfa"
+
+#: 404.php:22
+msgid "404"
+msgstr "404"
+
+#: sections/startkit-blog.php:77 template-parts/content-page-grid.php:40
+#: template-parts/content-page.php:15 template-parts/content-search.php:40
+msgid "By"
+msgstr "ile"
+
+#: template-parts/content-page-grid.php:39 template-parts/content-search.php:39
+msgid "Comments"
+msgstr "Yorumlar"
+
+#. translators: %s: Name of current post.
+#: sections/startkit-blog.php:68 template-parts/content-page-grid.php:31
+#: template-parts/content-page.php:34 template-parts/content-search.php:31
+#: template-parts/content.php:33
+msgid "Read More"
+msgstr "Devamını oku"
+
+#: sections/startkit-breadcrumb.php:28
+msgid "Yearly Archives: %s"
+msgstr "Yıllık arşivler: %s"
+
+#: sections/startkit-breadcrumb.php:24
+msgid "Monthly Archives: %s"
+msgstr "Aylık arşivler: %s"
+
+#: sections/startkit-breadcrumb.php:20
+msgid "Daily Archives: %s"
+msgstr "Günlük arşivler: %s"
+
+#: comments.php:82
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı."
+
+#: comments.php:48 comments.php:69
+msgid "Newer Comments"
+msgstr "Yeni yorumlar"
+
+#: comments.php:47 comments.php:68
+msgid "Older Comments"
+msgstr "Eski yorumlar"
+
+#: comments.php:44 comments.php:65
+msgid "Comment navigation"
+msgstr "Yorum dolaşımı"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.nayrathemes.com/"
+msgstr "https://www.nayrathemes.com/"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.nayrathemes.com/startkit-free/"
+msgstr "https://www.nayrathemes.com/startkit-free/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Nayra Themes"
+msgstr "Nayra Themes"

@@ -1,0 +1,503 @@
+# Copyright (C) 2023 AcademyLMS Team
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hello Academy 1.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/hello-academy\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-07-17T12:21:16+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: hello-academy\n"
+
+#. Theme Name of the theme
+msgid "Hello Academy"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://academylms.net/hello-academy"
+msgstr ""
+
+#. Description of the theme
+msgid "Hello Academy is a lightweight theme powered by Academy LMS - a super fast next-gen WordPress LMS plugin. It was built to put Academy LMS in the spotlight while allowing you to create a unique eLearning platform. When it comes to speed and performance, the theme shows a fantastic score on Google PageSpeed insight. It's an Elementor and Gutenberg ready theme that aspires to serve a wide range of users. All the pages are Fully responsive, SEO-optimzied, major browser compatible, and ready with Schema, RTL, and translation. This fully customizable theme comes with homepage variations, header & fotter variations, advanced font, color, style, and page settings. There are two pre-built Homepage layouts named Single Instructor and Univesity. Also, you will get the course, About, registration page, etc. The blog pages of this theme are perfect for presenting any sort of content with enhanced readability. The theme synchronizes perfectly with the Academy LMS plugin and allows users to create a website for an educational organization, training center, bookselling, course hub, online exam center, and more."
+msgstr ""
+
+#. Author of the theme
+msgid "AcademyLMS Team"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://academylms.net/"
+msgstr ""
+
+#: 404.php:27
+msgid "The page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:32
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One Response"
+msgstr ""
+
+#. translators: 1: number of comments
+#: comments.php:31
+msgctxt "comments title"
+msgid "%1$s Response"
+msgid_plural "%1$s Responses"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: header.php:30
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:48
+#: includes/functions.php:172
+msgid "Home"
+msgstr ""
+
+#: header.php:64
+msgid "Primary menu"
+msgstr ""
+
+#: header.php:70
+msgid "Menu"
+msgstr ""
+
+#: header.php:74
+msgid "Close"
+msgstr ""
+
+#: includes/customizer/register.php:16
+msgid "Hello Academy Panel"
+msgstr ""
+
+#: includes/customizer/section/blog.php:25
+msgid "Blog"
+msgstr ""
+
+#: includes/customizer/section/blog.php:38
+msgid "Toggle Post Title"
+msgstr ""
+
+#: includes/customizer/section/blog.php:59
+msgid "Show Post Title?"
+msgstr ""
+
+#: includes/customizer/section/blog.php:72
+msgid "Toggle Post Meta"
+msgstr ""
+
+#: includes/customizer/section/blog.php:93
+msgid "Show Post Meta?"
+msgstr ""
+
+#: includes/customizer/section/blog.php:106
+#: includes/customizer/section/blog.php:184
+msgid "Toggle Post Author"
+msgstr ""
+
+#: includes/customizer/section/blog.php:118
+#: includes/customizer/section/blog.php:196
+msgid "Show Author?"
+msgstr ""
+
+#: includes/customizer/section/blog.php:132
+msgid "Toggle Post Date"
+msgstr ""
+
+#: includes/customizer/section/blog.php:144
+msgid "Show Date?"
+msgstr ""
+
+#: includes/customizer/section/blog.php:158
+msgid "Toggle Post Categories"
+msgstr ""
+
+#: includes/customizer/section/blog.php:170
+msgid "Show Post Categories?"
+msgstr ""
+
+#: includes/customizer/section/blog.php:210
+msgid "Toggle Featured Image"
+msgstr ""
+
+#: includes/customizer/section/blog.php:222
+msgid "Show Featured Image?"
+msgstr ""
+
+#: includes/customizer/section/blog.php:235
+msgid "Toggle Post Excerpt"
+msgstr ""
+
+#: includes/customizer/section/blog.php:256
+msgid "Show Post Excerpt in Blog Listing?"
+msgstr ""
+
+#: includes/customizer/section/blog.php:269
+msgid "Toggle Read More"
+msgstr ""
+
+#: includes/customizer/section/blog.php:281
+msgid "Show Read More Button in Blog Listing?"
+msgstr ""
+
+#: includes/customizer/section/blog.php:294
+#: includes/customizer/section/blog.php:315
+msgid "Custom Excerpt Length"
+msgstr ""
+
+#: includes/customizer/section/blog.php:337
+msgid "Blog Archive Layout"
+msgstr ""
+
+#: includes/customizer/section/blog.php:338
+msgid "Select blog archive layout"
+msgstr ""
+
+#: includes/customizer/section/blog.php:340
+msgid "List View"
+msgstr ""
+
+#: includes/customizer/section/blog.php:341
+msgid "Grid View"
+msgstr ""
+
+#: includes/customizer/section/blog.php:370
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: includes/customizer/section/blog.php:371
+msgid "Select sidebar position on blog page, or disable it."
+msgstr ""
+
+#: includes/customizer/section/blog.php:410
+msgid "Details Page Sidebar Position"
+msgstr ""
+
+#: includes/customizer/section/blog.php:411
+msgid "Select sidebar position on single post or page, or disable it."
+msgstr ""
+
+#: includes/customizer/section/blog.php:431
+msgid "Toggle Post Table Of Content"
+msgstr ""
+
+#: includes/customizer/section/blog.php:443
+#: includes/functions.php:400
+msgid "Table Of Content"
+msgstr ""
+
+#: includes/customizer/section/blog.php:444
+msgid "Enable/Disable table Of content"
+msgstr ""
+
+#: includes/customizer/section/blog.php:470
+msgid "Table Of content layout"
+msgstr ""
+
+#: includes/customizer/section/blog.php:472
+msgid "Inline"
+msgstr ""
+
+#: includes/customizer/section/blog.php:473
+#: includes/customizer/section/blog.php:578
+msgid "Sticky"
+msgstr ""
+
+#: includes/customizer/section/blog.php:495
+msgid "Table Of content structure"
+msgstr ""
+
+#: includes/customizer/section/blog.php:497
+msgid "List"
+msgstr ""
+
+#: includes/customizer/section/blog.php:498
+msgid "Hierarchy"
+msgstr ""
+
+#: includes/customizer/section/blog.php:520
+msgid "Table Of content list style"
+msgstr ""
+
+#: includes/customizer/section/blog.php:522
+msgid "Circle"
+msgstr ""
+
+#: includes/customizer/section/blog.php:523
+msgid "Square"
+msgstr ""
+
+#: includes/customizer/section/blog.php:524
+msgid "Upper roman"
+msgstr ""
+
+#: includes/customizer/section/blog.php:525
+msgid "Lower alpha"
+msgstr ""
+
+#: includes/customizer/section/blog.php:526
+msgid "Numbaric"
+msgstr ""
+
+#: includes/customizer/section/blog.php:527
+msgid "None"
+msgstr ""
+
+#: includes/customizer/section/blog.php:537
+msgid "Toggle Post Social Share"
+msgstr ""
+
+#: includes/customizer/section/blog.php:549
+msgid "Social Share?"
+msgstr ""
+
+#: includes/customizer/section/blog.php:550
+msgid "Enable/Disable social share"
+msgstr ""
+
+#: includes/customizer/section/blog.php:575
+msgid "Social share layout"
+msgstr ""
+
+#: includes/customizer/section/blog.php:577
+msgid "After content"
+msgstr ""
+
+#: includes/customizer/section/color.php:22
+msgid "Color"
+msgstr ""
+
+#: includes/customizer/section/color.php:55
+msgid "Body Background Color"
+msgstr ""
+
+#: includes/customizer/section/color.php:86
+msgid "Body Text Color"
+msgstr ""
+
+#: includes/customizer/section/color.php:117
+msgid "Content Background Color"
+msgstr ""
+
+#: includes/customizer/section/color.php:148
+msgid "Heading Text Color (h1, h2, h3, h4, h5, h6 tag)"
+msgstr ""
+
+#: includes/customizer/section/color.php:159
+#: includes/customizer/section/color.php:180
+msgid "Link Color"
+msgstr ""
+
+#: includes/customizer/section/color.php:211
+msgid "Blog Title Color"
+msgstr ""
+
+#: includes/customizer/section/color.php:242
+msgid "Blog Meta Color"
+msgstr ""
+
+#: includes/customizer/section/color.php:273
+msgid "Readmore BG Color"
+msgstr ""
+
+#: includes/customizer/section/color.php:304
+msgid "Readmore BG Hover Color"
+msgstr ""
+
+#: includes/customizer/section/color.php:335
+msgid "Readmore Text Color"
+msgstr ""
+
+#: includes/customizer/section/color.php:366
+msgid "Readmore Text Hover Color"
+msgstr ""
+
+#: includes/customizer/section/footer.php:23
+msgid "Footer"
+msgstr ""
+
+#: includes/customizer/section/footer.php:36
+#: includes/customizer/section/footer.php:48
+msgid "Footer BG Color"
+msgstr ""
+
+#: includes/customizer/section/footer.php:59
+#: includes/customizer/section/footer.php:71
+msgid "Widget BG Color"
+msgstr ""
+
+#: includes/customizer/section/footer.php:82
+#: includes/customizer/section/footer.php:94
+msgid "Widget Text Color"
+msgstr ""
+
+#: includes/customizer/section/footer.php:106
+#: includes/customizer/section/footer.php:118
+msgid "Copyright BG Color"
+msgstr ""
+
+#: includes/customizer/section/footer.php:130
+#: includes/customizer/section/footer.php:142
+msgid "Copyright Text Color"
+msgstr ""
+
+#: includes/customizer/section/footer.php:154
+msgid "Copyright 2021 Academy LMS. All Rights Reserved"
+msgstr ""
+
+#: includes/customizer/section/footer.php:164
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: includes/customizer/section/header.php:25
+#: includes/functions.php:11
+msgid "Header"
+msgstr ""
+
+#: includes/customizer/section/header.php:72
+msgid "Header BG Color"
+msgstr ""
+
+#: includes/customizer/section/header.php:112
+msgid "Menu Link Color"
+msgstr ""
+
+#: includes/customizer/section/header.php:124
+#: includes/customizer/section/header.php:136
+msgid "Menu Link Active Color"
+msgstr ""
+
+#: includes/customizer/section/header.php:156
+msgid "Menu Plus Icon Color"
+msgstr ""
+
+#: includes/customizer/section/header.php:177
+msgid "Menu Icon Color"
+msgstr ""
+
+#: includes/customizer/section/layout.php:22
+msgid "Layout"
+msgstr ""
+
+#: includes/customizer/section/layout.php:33
+#: includes/customizer/section/layout.php:54
+msgid "Content Width (px)"
+msgstr ""
+
+#: includes/functions.php:93
+#: includes/functions.php:95
+msgid "Blog Sidebar"
+msgstr ""
+
+#: includes/functions.php:103
+msgid "Footer Sidebar"
+msgstr ""
+
+#: includes/functions.php:105
+msgid "Add widgets here."
+msgstr ""
+
+#: includes/functions.php:189
+msgid "Archive for category"
+msgstr ""
+
+#: includes/functions.php:192
+msgid "Search results for"
+msgstr ""
+
+#: includes/functions.php:281
+msgid "Posts tagged"
+msgstr ""
+
+#: includes/functions.php:286
+msgid "Articles posted by"
+msgstr ""
+
+#: includes/functions.php:289
+msgid "Not Found"
+msgstr ""
+
+#: includes/functions.php:296
+msgid "Page"
+msgstr ""
+
+#: includes/functions.php:335
+msgid "To take full advantages of Hello Academy theme and enabling demo importer, Please activate Core Plugin to continue."
+msgstr ""
+
+#: includes/functions.php:337
+msgid "Activate Academy Starter Templates"
+msgstr ""
+
+#: includes/functions.php:341
+msgid "To take full advantages of Hello Academy theme and enabling demo importer, Please install Core Plugin to continue."
+msgstr ""
+
+#: includes/functions.php:342
+msgid "Install Academy Starter Templates"
+msgstr ""
+
+#: includes/functions.php:376
+msgid "Copy URL"
+msgstr ""
+
+#: includes/helper.php:17
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: %s: Search Term.
+#: search.php:23
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:38
+msgid "It seems we can't find what you're looking for."
+msgstr ""
+
+#: single.php:36
+msgid "Next post: %title"
+msgstr ""
+
+#: single.php:37
+msgid "Previous post: %title"
+msgstr ""
+
+#: single.php:38
+#: template-parts/blog/layout-list.php:54
+msgid "Continue Reading"
+msgstr ""
+
+#: template-parts/blog/single.php:33
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/breadcrumb.php:24
+msgid "Latest Articles"
+msgstr ""
+
+#: template-parts/content-none.php:8
+msgid "No Post Found!"
+msgstr ""
+
+#: template-parts/social-share.php:31
+msgid "Share Now"
+msgstr ""
+
+#: template-parts/social-share.php:32
+msgid "Share"
+msgstr ""

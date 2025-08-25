@@ -1,14 +1,17 @@
-# WP geçici/önbellek ve büyük medya
+# WP geçici/önbellek
 wp-content/cache/
 wp-content/uploads/cache/
 *.log
 *.tmp
-*.tar*
-*.zip
+
+# Büyük medya (limitleri aşmamak için)
 *.mp4
 *.mp3
+*.zip
+*.tar*
+*.rar
 
-# Gizliler
+# Gizliler (sunucuda tutulur, repoya konmaz)
 wp-config.php
 .env
 .env.*
